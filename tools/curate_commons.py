@@ -236,7 +236,7 @@ def main() -> None:
     parser.add_argument("--base-url", default=BASE)
     parser.add_argument("--still-count", type=int, default=2)
     parser.add_argument("--video-count", type=int, default=1)
-    parser.add_argument("--max-stills", type=int, default=80)
+    parser.add_argument("--max-stills", type=int, default=60)
     parser.add_argument("--max-videos", type=int, default=24)
     args = parser.parse_args()
     catalog_path = args.root / "catalog.json"
