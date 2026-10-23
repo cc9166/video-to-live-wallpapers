@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T03:55:40Z",
+  "updatedAt": "2026-10-23T04:06:40Z",
   "items": [
     {
       "id": "snowy-creek",
@@ -440,6 +440,39 @@
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-158702810-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-158702810.mp4"
+    },
+    {
+      "id": "commons-61898704",
+      "title": "Green Mountain Landscape",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Jasper Boer jasperboer · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Green_Mountain_Landscape_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61898704-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61898704.jpg"
+    },
+    {
+      "id": "commons-62062397",
+      "title": "Ocean and waves",
+      "kind": "still",
+      "category": "ocean",
+      "credit": "Esther Cuan esthercuan · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Ocean_and_waves_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62062397-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62062397.jpg"
+    },
+    {
+      "id": "commons-173590596",
+      "title": "Mt Nimrod Scenic Reserve",
+      "kind": "live",
+      "category": "nature",
+      "credit": "David Nind · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mt_Nimrod_Scenic_Reserve_-_Waterfall_on_Nimrod_Stream_(video).webm",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173590596-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173590596.mp4"
     }
   ]
 }
