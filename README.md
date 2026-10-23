@@ -24,6 +24,8 @@ The following reviewed CC0 clips were also added as three-second, muted H.264 ex
 
 The live collection follows a restrained mix of slow natural motion and occasional abstract texture: ocean surfaces, shore breaks, drifting snow, cloud movement, waterfalls and soft light. This gives the app several distinct styles without copying another app's media.
 
+A manually reviewed October 2026 refresh added **Stillwater**, **Green Veil Falls**, **Ember Night**, and **Snowfall Quiet**, all from CC0 Commons sources recorded in `catalog.json`. Five visually busy or artifact-prone live entries were removed from the active catalog after full-frame review; their immutable files remain available for older cached catalogs.
+
 The CC0 designation applies to that source clip, not automatically to all files in this repository. Original still artworks are provided for use in the Video To Live wallpaper collection; this repository does not grant a general third-party stock-library license.
 
 ## Daily curation

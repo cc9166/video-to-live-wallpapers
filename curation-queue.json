@@ -376,5 +376,29 @@
     "kind": "live",
     "category": "nature",
     "review": "rejected-upscale"
+  },
+  {
+    "pageid": 148299483,
+    "kind": "live",
+    "category": "minimal",
+    "review": "approved"
+  },
+  {
+    "pageid": 189602483,
+    "kind": "live",
+    "category": "nature",
+    "review": "approved"
+  },
+  {
+    "pageid": 201559635,
+    "kind": "live",
+    "category": "abstract",
+    "review": "approved"
+  },
+  {
+    "pageid": 65079366,
+    "kind": "live",
+    "category": "minimal",
+    "review": "approved"
   }
 ]

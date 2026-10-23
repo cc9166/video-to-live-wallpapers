@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T06:48:06Z",
+  "updatedAt": "2026-10-23T10:08:29Z",
   "items": [
     {
       "id": "snowy-creek",
@@ -311,17 +311,6 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-77587226.jpg"
     },
     {
-      "id": "commons-153682336",
-      "title": "Woodland Falls",
-      "kind": "live",
-      "category": "nature",
-      "credit": "Ajznponar · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Ajdovscina,_waterfall_near_the_Hubelj_Ironworks_01.webm",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153682336-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153682336.mp4"
-    },
-    {
       "id": "commons-184429868",
       "title": "Pacific Sea Nettle",
       "kind": "live",
@@ -353,17 +342,6 @@
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61671723-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61671723.jpg"
-    },
-    {
-      "id": "commons-153682461",
-      "title": "Forest Cascade",
-      "kind": "live",
-      "category": "nature",
-      "credit": "Ajznponar · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Ajdovscina,_waterfall_near_the_Hubelj_Ironworks_02.webm",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153682461-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153682461.mp4"
     },
     {
       "id": "commons-61852305",
@@ -464,17 +442,6 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62062397.jpg"
     },
     {
-      "id": "commons-173590596",
-      "title": "Mt Nimrod Scenic Reserve",
-      "kind": "live",
-      "category": "nature",
-      "credit": "David Nind · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mt_Nimrod_Scenic_Reserve_-_Waterfall_on_Nimrod_Stream_(video).webm",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173590596-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173590596.mp4"
-    },
-    {
       "id": "commons-153491654",
       "title": "Wetterspitzen (Stubaier Alpen)",
       "kind": "still",
@@ -511,21 +478,6 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62299191.jpg"
     },
     {
-      "id": "commons-99904645",
-      "title": "Сніг на тлі неба",
-      "kind": "live",
-      "category": "minimal",
-      "credit": "Роман Рябенко · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BD%D1%96%D0%B3_%D0%BD%D0%B0_%D1%82%D0%BB%D1%96_%D0%BD%D0%B5%D0%B1%D0%B0.webm",
-      "license": "CC0",
-      "tags": [
-        "sky",
-        "city"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-99904645-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-99904645.mp4"
-    },
-    {
       "id": "commons-62598933",
       "title": "Big ocean wave splash",
       "kind": "still",
@@ -546,20 +498,6 @@
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-172848000-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-172848000.mp4"
-    },
-    {
-      "id": "commons-99904612",
-      "title": "Snow Drift",
-      "kind": "live",
-      "category": "minimal",
-      "credit": "Роман Рябенко · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BD%D1%96%D0%B3_%D0%BD%D0%B0_%D1%82%D0%BB%D1%96_%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D1%97_%D1%85%D0%BC%D0%B0%D1%80%D0%B8_%D0%B2_%D0%BD%D0%B5%D0%B1%D1%96.webm",
-      "license": "CC0",
-      "tags": [
-        "sky"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-99904612-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-99904612.mp4"
     },
     {
       "id": "cc0-coastal-waves",
@@ -666,6 +604,53 @@
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095398-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095398.jpg"
+    },
+    {
+      "id": "commons-148299483",
+      "title": "Stillwater",
+      "kind": "live",
+      "category": "minimal",
+      "credit": "Jidanni · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Wind_on_water_at_%E9%AB%98%E7%BE%8E%E6%BF%95%E5%9C%B0.webm",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-148299483-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-148299483.mp4"
+    },
+    {
+      "id": "commons-189602483",
+      "title": "Green Veil Falls",
+      "kind": "live",
+      "category": "nature",
+      "credit": "Kimahri88 · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Cascata_delle_Marmore_(Terni,_Italy).webm",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-189602483-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-189602483.mp4"
+    },
+    {
+      "id": "commons-201559635",
+      "title": "Ember Night",
+      "kind": "live",
+      "category": "abstract",
+      "credit": "Aliceinthealice · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Fire_Pit_in_Denmark,_Western_Australia,_2026.webm",
+      "license": "CC0",
+      "tags": [
+        "night"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201559635-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201559635.mp4"
+    },
+    {
+      "id": "commons-65079366",
+      "title": "Snowfall Quiet",
+      "kind": "live",
+      "category": "minimal",
+      "credit": "Extemporalist · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Falling_Powder_overlies_melt-water_flowing_down_Hachey_Creek_in_Myra-Bellevue_Park,_British_Columbia.webm",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-65079366-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-65079366.mp4"
     }
   ]
 }
