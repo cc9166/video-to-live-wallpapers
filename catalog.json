@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T05:02:26Z",
+  "updatedAt": "2026-10-23T06:48:06Z",
   "items": [
     {
       "id": "snowy-creek",
@@ -546,6 +546,126 @@
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-172848000-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-172848000.mp4"
+    },
+    {
+      "id": "commons-99904612",
+      "title": "Snow Drift",
+      "kind": "live",
+      "category": "minimal",
+      "credit": "Роман Рябенко · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BD%D1%96%D0%B3_%D0%BD%D0%B0_%D1%82%D0%BB%D1%96_%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D1%97_%D1%85%D0%BC%D0%B0%D1%80%D0%B8_%D0%B2_%D0%BD%D0%B5%D0%B1%D1%96.webm",
+      "license": "CC0",
+      "tags": [
+        "sky"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-99904612-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-99904612.mp4"
+    },
+    {
+      "id": "cc0-coastal-waves",
+      "title": "Coastal Rhythm",
+      "kind": "live",
+      "category": "ocean",
+      "credit": "Mostafameraji · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Ocean_surface_waves_10.ogv",
+      "license": "CC0 1.0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/coastal-waves-cc0-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/coastal-waves-cc0.mp4"
+    },
+    {
+      "id": "cc0-golden-sunset",
+      "title": "Molten Sunset",
+      "kind": "live",
+      "category": "abstract",
+      "credit": "Vicky Ponce · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Golden_sunset_filmed_in_January.webm",
+      "license": "CC0 1.0",
+      "tags": [
+        "sky",
+        "night"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/golden-sunset-cc0-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/golden-sunset-cc0.mp4"
+    },
+    {
+      "id": "cc0-canyon-clouds",
+      "title": "Canyon Sky",
+      "kind": "live",
+      "category": "nature",
+      "credit": "Extemporalist · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Timelapse_of_Clouds_over_Bellevue_Canyon.webm",
+      "license": "CC0 1.0",
+      "tags": [
+        "sky"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/canyon-clouds-cc0-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/canyon-clouds-cc0.mp4"
+    },
+    {
+      "id": "commons-195045529",
+      "title": "Greek Highlands",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Jevonin1 · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Scenic_landscape_of_Greek_mountains_and_lake.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195045529-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195045529.jpg"
+    },
+    {
+      "id": "commons-57095399",
+      "title": "Silver Tide",
+      "kind": "still",
+      "category": "ocean",
+      "credit": "ekaterina vladinova · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Pacifica_Pier_Waves_(32597587354).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095399-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095399.jpg"
+    },
+    {
+      "id": "commons-142125305",
+      "title": "Red Sand",
+      "kind": "still",
+      "category": "minimal",
+      "credit": "Rohit Seervi ( https://polyhaven.com/all?a=Rohit%20Seervi ) via Poly Haven · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Red_sand_diff_8k_(Rohit_Seervi_via_Poly_Haven).png",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125305-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125305.jpg"
+    },
+    {
+      "id": "commons-92393982",
+      "title": "Glass Facade",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Shisma · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Cube_berlin.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92393982-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92393982.jpg"
+    },
+    {
+      "id": "commons-105789902",
+      "title": "Rose Peaks",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Unknown author Unknown author · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mountain_and_Landscape.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105789902-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105789902.jpg"
+    },
+    {
+      "id": "commons-57095398",
+      "title": "Shore Break",
+      "kind": "still",
+      "category": "ocean",
+      "credit": "ekaterina vladinova · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Pacifica_Pier_Waves_(32626595413).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095398-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095398.jpg"
     }
   ]
 }

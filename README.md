@@ -1,6 +1,6 @@
 # Video To Live · Wallpaper collection
 
-A versioned wallpaper collection for Video To Live. It starts with 17 original still images and one CC0 nature-video excerpt, then adds a small CC0 batch from Wikimedia Commons each day.
+A versioned wallpaper collection for Video To Live. It combines original artwork with reviewed CC0 images and short video excerpts, then adds a small CC0 batch from Wikimedia Commons each day.
 
 ## Catalog
 
@@ -15,6 +15,14 @@ Snowy Creek is a three-second transcoded excerpt from **Sahalie Falls during Win
 - Original: https://commons.wikimedia.org/wiki/File:Sahalie_Falls_during_Winter_jm1101.webm
 - CC0: https://creativecommons.org/publicdomain/zero/1.0/
 - Modifications: excerpt from 10 to 13 seconds; H.264/AAC transcode, 1080 × 1920, 30 fps.
+
+The following reviewed CC0 clips were also added as three-second, muted H.264 excerpts at 1080 × 1920 and 30 fps. Landscape originals were cropped for a clean 9:16 lock-screen composition.
+
+- **Coastal Rhythm** from *Ocean surface waves 10.ogv* by Mostafameraji: https://commons.wikimedia.org/wiki/File:Ocean_surface_waves_10.ogv
+- **Molten Sunset** from *Golden sunset filmed in January.webm* by Vicky Ponce: https://commons.wikimedia.org/wiki/File:Golden_sunset_filmed_in_January.webm
+- **Canyon Sky** from *Timelapse of Clouds over Bellevue Canyon.webm* by Extemporalist: https://commons.wikimedia.org/wiki/File:Timelapse_of_Clouds_over_Bellevue_Canyon.webm
+
+The live collection follows a restrained mix of slow natural motion and occasional abstract texture: ocean surfaces, shore breaks, drifting snow, cloud movement, waterfalls and soft light. This gives the app several distinct styles without copying another app's media.
 
 The CC0 designation applies to that source clip, not automatically to all files in this repository. Original still artworks are provided for use in the Video To Live wallpaper collection; this repository does not grant a general third-party stock-library license.
 
