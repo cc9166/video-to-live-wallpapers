@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T03:24:08Z",
+  "updatedAt": "2026-10-23T03:44:44Z",
   "items": [
     {
       "id": "snowy-creek",
@@ -130,6 +130,72 @@
       "category": "abstract",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/iridescent-flow.png",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/iridescent-flow.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper"
+    },
+    {
+      "id": "glacial-silence",
+      "title": "Glacial Silence",
+      "kind": "still",
+      "category": "mountains",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/glacial-silence-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/glacial-silence.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper"
+    },
+    {
+      "id": "midnight-current",
+      "title": "Midnight Current",
+      "kind": "still",
+      "category": "ocean",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/midnight-current-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/midnight-current.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper"
+    },
+    {
+      "id": "meadow-rain",
+      "title": "Meadow Rain",
+      "kind": "still",
+      "category": "nature",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/meadow-rain-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/meadow-rain.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper"
+    },
+    {
+      "id": "shadow-arc",
+      "title": "Shadow Arc",
+      "kind": "still",
+      "category": "architecture",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/shadow-arc-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/shadow-arc.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper"
+    },
+    {
+      "id": "pearl-folds",
+      "title": "Pearl Folds",
+      "kind": "still",
+      "category": "abstract",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/pearl-folds-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/pearl-folds.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper"
+    },
+    {
+      "id": "amber-windows",
+      "title": "Amber Windows",
+      "kind": "still",
+      "category": "architecture",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/amber-windows-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/amber-windows.png",
       "credit": "Video To Live · AI-created artwork",
       "sourceURL": "https://ccong.xyz/video-to-live/",
       "license": "Included wallpaper"

@@ -1,12 +1,12 @@
 # Video To Live · Wallpaper collection
 
-A versioned wallpaper collection for Video To Live. It starts with 11 original still images and one CC0 nature-video excerpt, then adds a small CC0 batch from Wikimedia Commons each day.
+A versioned wallpaper collection for Video To Live. It starts with 17 original still images and one CC0 nature-video excerpt, then adds a small CC0 batch from Wikimedia Commons each day.
 
 ## Catalog
 
 `catalog.json` is the app-readable version 1 feed. It includes titles, types, HTTPS media URLs, and provenance records. Publish media before updating the catalog. Keep existing asset paths immutable; use a new ID and filename for a replacement.
 
-The eight new stills explore mountains, oceans, dunes, forest mist, architecture and soft mineral color. These are AI-created artworks, not photographs documenting real locations. The three earlier stills are also original AI-created artwork. No images or videos were extracted from Cuto.
+The original stills explore mountains, oceans, dunes, forest mist, architecture and soft mineral color. These are AI-created artworks, not photographs documenting real locations. No images or videos were extracted from Cuto.
 
 ## Source record
 

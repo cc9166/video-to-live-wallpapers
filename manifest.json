@@ -1,13 +1,23 @@
 [
   {
     "file": "README.md",
-    "bytes": 2703,
-    "sha256": "fd471e7a9e1f2142e53b5e0e8471eaec3e73979745fb6514ebc33cf3b7eab17a"
+    "bytes": 2639,
+    "sha256": "7e5ec50ced9dde295e083b9af11e844faf15a068f8cfa58086863034fca171e4"
   },
   {
     "file": "alpine-hush.png",
     "bytes": 2242231,
     "sha256": "046b673491814ac3d7a1413446638523938c8d56f96ab0ece4709d02c7fb660e"
+  },
+  {
+    "file": "amber-windows-thumb.jpg",
+    "bytes": 32116,
+    "sha256": "7c3bf474e339738806a6e2c9eec66e953e90b77f6feee1efc4dae67f0854f055"
+  },
+  {
+    "file": "amber-windows.png",
+    "bytes": 1928577,
+    "sha256": "25aaf641e1065a49f160809c5e5978656d374ea6c3dd9f5d99968bf749381be9"
   },
   {
     "file": "aurora-ridge.png",
@@ -21,8 +31,8 @@
   },
   {
     "file": "catalog.json",
-    "bytes": 16377,
-    "sha256": "a97f47b7534185139eb3d8fc77679b870923f58c5cb582bbf5b549dc912ce0f4"
+    "bytes": 19385,
+    "sha256": "689b264a7dfac71f5a65c175e0fed325cb2a5c78f1dd7b1cce2c0fa29ae772eb"
   },
   {
     "file": "cloud-sea.png",
@@ -225,14 +235,54 @@
     "sha256": "91f4c07c97325f53d09051f382cf45b32737fe9cb9beaf380f33641c87d13bea"
   },
   {
+    "file": "glacial-silence-thumb.jpg",
+    "bytes": 80398,
+    "sha256": "371f211894c55dc6e86f638adf0dadad004fda684932e658e22d899066b0c0f3"
+  },
+  {
+    "file": "glacial-silence.png",
+    "bytes": 2661691,
+    "sha256": "2dff02b283f5f75b54afbf94b3890a3bbe60ffa2d9af8cff66da6efc97b4fed0"
+  },
+  {
     "file": "iridescent-flow.png",
     "bytes": 1656092,
     "sha256": "032d26e0e5732d7bde1c4aadd0258e6a9f3e2c97d571090ae08312c404829111"
   },
   {
+    "file": "meadow-rain-thumb.jpg",
+    "bytes": 77726,
+    "sha256": "1f6e0bb7a8fb4394dd586ad6785761fd59afd721be8ff35ce11f9dbed48230e6"
+  },
+  {
+    "file": "meadow-rain.png",
+    "bytes": 2481003,
+    "sha256": "a603cc5801ab2f0e07bfdf547fec7caf7a26b91bfed14f40894182b21cb2f46f"
+  },
+  {
+    "file": "midnight-current-thumb.jpg",
+    "bytes": 91456,
+    "sha256": "4130a761f7ef4b9463e479727907165c565bfd9c5215cee9244512df4f897ba6"
+  },
+  {
+    "file": "midnight-current.png",
+    "bytes": 2787463,
+    "sha256": "ca04ddbd542d733587c5ea0a8803397a7311e477d5321a7bf83a653b9aef850b"
+  },
+  {
     "file": "moonlit-water.png",
     "bytes": 2173999,
     "sha256": "29f4495dca79ba25fca84bc75a1fe8cc89a330d521c03adbb9ca429c36e0212a"
+  },
+  {
+    "file": "pearl-folds-thumb.jpg",
+    "bytes": 57311,
+    "sha256": "f38b106698c72a56488616d9a47eb4ca1483525dbb52145ac8ce90076929594b"
+  },
+  {
+    "file": "pearl-folds.png",
+    "bytes": 2169118,
+    "sha256": "f0e0ed2106eea7a566ccc0a80ac6f674899fe13856a112992b176c57cb2b2d6c"
   },
   {
     "file": "quiet-facade.png",
@@ -243,6 +293,16 @@
     "file": "salt-rose.png",
     "bytes": 2721074,
     "sha256": "e3087abd76b44dfb257b4b6addaf32cbd68c5004cccdedbff76a137eb81acb6c"
+  },
+  {
+    "file": "shadow-arc-thumb.jpg",
+    "bytes": 40763,
+    "sha256": "ab787d1173b52928e8b7d6331a76d54cc793465d95de1484bd65ae913e21572d"
+  },
+  {
+    "file": "shadow-arc.png",
+    "bytes": 2607792,
+    "sha256": "0a16faf14cfdcf63ed0913e0fd8bc721885441f689d7f919640b61870349453e"
   },
   {
     "file": "snowy-creek.jpg",
