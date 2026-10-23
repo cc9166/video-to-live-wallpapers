@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T04:55:25Z",
+  "updatedAt": "2026-10-23T05:02:26Z",
   "items": [
     {
       "id": "snowy-creek",
@@ -524,6 +524,28 @@
       ],
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-99904645-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-99904645.mp4"
+    },
+    {
+      "id": "commons-62598933",
+      "title": "Big ocean wave splash",
+      "kind": "still",
+      "category": "ocean",
+      "credit": "Riaan Myburgh movemeriaan · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Big_ocean_wave_splash_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62598933-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62598933.jpg"
+    },
+    {
+      "id": "commons-172848000",
+      "title": "Otehake River",
+      "kind": "live",
+      "category": "nature",
+      "credit": "David Nind · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Otehake_River_-_Hot_pools_-_Video_2_(June_2025).webm",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-172848000-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-172848000.mp4"
     }
   ]
 }
