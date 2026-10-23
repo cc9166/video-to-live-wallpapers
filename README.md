@@ -28,7 +28,7 @@ Only queue entries marked `review: approved` can be published. The workflow also
 
 ## Manual additions
 
-New reviewed Commons media can be added at any time by appending a record to `curation-queue.json`, validating it with `python tools/validate_queue.py`, committing the queue, and running **Update wallpaper collection** from the Actions tab. Set `review` to `approved` only after checking the full-size source against `QUALITY.md`; unreviewed and rejected records remain unpublished. The manual run accepts still and video batch sizes, so a larger reviewed release does not require a workflow edit.
+New reviewed Commons media can be added at any time by appending a record to `curation-queue.json`, validating it with `python tools/validate_queue.py`, committing the queue, and running **Update wallpaper collection** from the Actions tab. Set `review` to `approved` only after checking the full-size source against `QUALITY.md`; unreviewed and rejected records remain unpublished. Use `rejected-visual` for candidates that fail composition or cleanliness review, and `rejected-upscale` for sources that lack enough pixels. The manual run accepts still and video batch sizes, so a larger reviewed release does not require a workflow edit.
 
 Original or separately licensed media can also be committed directly with an immutable ID, full-size file, thumbnail and matching `catalog.json` record. Run `python tools/validate_catalog.py`, regenerate `manifest.json`, and inspect the result in the app before publishing. Never replace an existing asset path in place because app and CDN caches may keep the earlier bytes.
 

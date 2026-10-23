@@ -36,8 +36,8 @@
   },
   {
     "file": "catalog.json",
-    "bytes": 25566,
-    "sha256": "8f34dbce905f1d0a3adcf482c9814c40f4e0fefc88457da001bc47099a9a84e9"
+    "bytes": 24198,
+    "sha256": "a20707fbd5188ebfec0464e00f965b8b8193abfd3ba6896e73f9563103242fdd"
   },
   {
     "file": "cloud-sea.png",
@@ -53,16 +53,6 @@
     "file": "commons-105788958.jpg",
     "bytes": 300763,
     "sha256": "fce2f714f389d89e4e79cf07f18e9ef1aa088b23a292dd1a66b7a4538460c7b5"
-  },
-  {
-    "file": "commons-114909215-thumb.jpg",
-    "bytes": 81819,
-    "sha256": "9c6aaa5de21cff6e1b986927ce49ac1b00dbe6a101ab4c48fc66bd57cc054840"
-  },
-  {
-    "file": "commons-114909215.jpg",
-    "bytes": 487106,
-    "sha256": "0673a856eb9418ac919dd5990204af5ef8d5fdd5905f0e298565ac073c409baa"
   },
   {
     "file": "commons-116423165-thumb.jpg",
@@ -173,16 +163,6 @@
     "file": "commons-188553099.jpg",
     "bytes": 438521,
     "sha256": "4521a9b8084d805b9ddfc792de51050a57fbbe1ceda89dd9357a0b110c1243ae"
-  },
-  {
-    "file": "commons-195045408-thumb.jpg",
-    "bytes": 236379,
-    "sha256": "887ce14b094f34617409292dce4721b2d7166d2b849e1bab6a336ecde707ce44"
-  },
-  {
-    "file": "commons-195045408.mp4",
-    "bytes": 1714644,
-    "sha256": "bea2d0f84bb9f096cc93c43960095cc7311114a09b1900de0aa7789d969e989a"
   },
   {
     "file": "commons-195180144-thumb.jpg",
@@ -316,8 +296,8 @@
   },
   {
     "file": "curation-queue.json",
-    "bytes": 6797,
-    "sha256": "337b11f2756cdddffa7ff60f2d1009f4da0dd5ad461df5dfdf35ae855ce017bf"
+    "bytes": 6853,
+    "sha256": "836d3b845ccb69d18eeed3c605a5102b7b08e38d527d4dcdd0660b1891850c34"
   },
   {
     "file": "dune-light.png",

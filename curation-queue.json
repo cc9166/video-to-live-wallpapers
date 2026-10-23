@@ -51,7 +51,7 @@
     "pageid": 114909215,
     "kind": "still",
     "category": "nature",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 153491654,
@@ -75,7 +75,7 @@
     "pageid": 194036824,
     "kind": "still",
     "category": "mountains",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 62598933,
@@ -87,13 +87,13 @@
     "pageid": 114909225,
     "kind": "still",
     "category": "nature",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 157702082,
     "kind": "still",
     "category": "minimal",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 187103260,
@@ -105,7 +105,7 @@
     "pageid": 151393808,
     "kind": "still",
     "category": "architecture",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 195045529,
@@ -135,7 +135,7 @@
     "pageid": 195346540,
     "kind": "still",
     "category": "abstract",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 92393982,
@@ -291,7 +291,7 @@
     "pageid": 195045408,
     "kind": "live",
     "category": "nature",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 92787574,
@@ -351,7 +351,7 @@
     "pageid": 99771545,
     "kind": "live",
     "category": "minimal",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 172848000,

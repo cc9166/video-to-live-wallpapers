@@ -5,7 +5,7 @@ from pathlib import Path
 root = Path(__file__).resolve().parents[1]
 queue = json.loads((root / "curation-queue.json").read_text())
 categories = {"mountains", "ocean", "nature", "minimal", "abstract", "architecture"}
-reviews = {"approved", "rejected-upscale"}
+reviews = {"approved", "rejected-upscale", "rejected-visual"}
 
 assert isinstance(queue, list) and queue
 pageids = [entry["pageid"] for entry in queue]

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T04:27:37Z",
+  "updatedAt": "2026-10-23T04:55:25Z",
   "items": [
     {
       "id": "snowy-creek",
@@ -475,20 +475,6 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173590596.mp4"
     },
     {
-      "id": "commons-114909215",
-      "title": "Forest in Rheinsberg with mist",
-      "kind": "still",
-      "category": "nature",
-      "credit": "Leonhard Lenz · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Forest_in_Rheinsberg_with_mist_2021-10-30_01.jpg",
-      "license": "CC0",
-      "tags": [
-        "botanical"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909215-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909215.jpg"
-    },
-    {
       "id": "commons-153491654",
       "title": "Wetterspitzen (Stubaier Alpen)",
       "kind": "still",
@@ -523,17 +509,6 @@
       ],
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62299191-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62299191.jpg"
-    },
-    {
-      "id": "commons-195045408",
-      "title": "မိုးရွာနေသည့် မိုးရာသီ",
-      "kind": "live",
-      "category": "nature",
-      "credit": "စာကလေး · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:%E1%80%99%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%9B%E1%80%BD%E1%80%AC%E1%80%94%E1%80%B1%E1%80%9E%E1%80%8A%E1%80%B7%E1%80%BA_%E1%80%99%E1%80%AD%E1%80%AF%E1%80%B8%E1%80%9B%E1%80%AC%E1%80%9E%E1%80%AE.webm",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195045408-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195045408.mp4"
     },
     {
       "id": "commons-99904645",
