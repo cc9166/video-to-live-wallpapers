@@ -4,6 +4,17 @@ on:
   schedule:
     - cron: "23 3 * * *"
   workflow_dispatch:
+    inputs:
+      still_count:
+        description: Still wallpapers to publish in this run
+        required: true
+        default: 4
+        type: number
+      video_count:
+        description: Live wallpapers to publish in this run
+        required: true
+        default: 2
+        type: number
 
 permissions:
   contents: write
@@ -33,7 +44,10 @@ jobs:
       - name: Validate reviewed queue
         run: python tools/validate_queue.py
       - name: Add the daily CC0 batch
-        run: python tools/curate_commons.py --still-count 2 --video-count 1
+        env:
+          STILL_COUNT: ${{ github.event_name == 'workflow_dispatch' && inputs.still_count || 4 }}
+          VIDEO_COUNT: ${{ github.event_name == 'workflow_dispatch' && inputs.video_count || 2 }}
+        run: python tools/curate_commons.py --still-count "$STILL_COUNT" --video-count "$VIDEO_COUNT" --max-stills 120 --max-videos 40
       - name: Validate catalog
         run: python tools/validate_catalog.py
       - name: Commit published media and catalog
