@@ -55,9 +55,18 @@ def clean(value: str) -> str:
 def title_for(filename: str) -> str:
     value = Path(filename.removeprefix("File:")).stem
     value = re.sub(r"\s*\((?:Unsplash|Tumblr)\)\s*$", "", value, flags=re.I)
+    quoted = re.match(r"^[\"']([^\"']{2,40})[\"']", value)
+    if quoted:
+        return quoted.group(1)
+    value = re.split(r"\s+[–—-]\s+", value, maxsplit=1)[0]
+    value = re.sub(r",?\s*20\d{2}(?:[-_ ].*)?$", "", value)
+    value = re.sub(r"\s*\(\d+\)\s*$", "", value)
     value = re.sub(r"[_-]+", " ", value)
     value = re.sub(r"\s+", " ", value).strip()
-    return value[:52] or "Untitled Scene"
+    words = value.split()
+    if len(words) > 6:
+        value = " ".join(words[:6])
+    return value[:40] or "Untitled Scene"
 
 
 def candidates(term: str, media: str) -> list[dict]:
