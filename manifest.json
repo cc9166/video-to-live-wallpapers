@@ -1,8 +1,13 @@
 [
   {
+    "file": "QUALITY.md",
+    "bytes": 1278,
+    "sha256": "3619195c5a021262d2a9db5d8e724bb0a5519b87ca710a10aa9acac2c4af7fba"
+  },
+  {
     "file": "README.md",
-    "bytes": 2681,
-    "sha256": "bb3c3449d4347db0bd1ae8408ef79c337bbb9691766c75b3dcd69e4d45a2e5e7"
+    "bytes": 3001,
+    "sha256": "4f9c8b2ec446066e4e55e3442d9fe9dc2c7a4985b7b34e03fad58628adfa36ce"
   },
   {
     "file": "alpine-hush.png",
@@ -31,8 +36,8 @@
   },
   {
     "file": "catalog.json",
-    "bytes": 19385,
-    "sha256": "689b264a7dfac71f5a65c175e0fed325cb2a5c78f1dd7b1cce2c0fa29ae772eb"
+    "bytes": 19991,
+    "sha256": "055e0f3215692538ef97e1545dbf87bb89f20c2e587863912d5f3502ea6721d5"
   },
   {
     "file": "cloud-sea.png",
@@ -221,8 +226,8 @@
   },
   {
     "file": "curation-queue.json",
-    "bytes": 4055,
-    "sha256": "ba0f68a3222cccd40bd8f48442424285bd7ba7917f99141ac77560a25b470fd6"
+    "bytes": 6797,
+    "sha256": "337b11f2756cdddffa7ff60f2d1009f4da0dd5ad461df5dfdf35ae855ce017bf"
   },
   {
     "file": "dune-light.png",

@@ -27,6 +27,8 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y ffmpeg
           python -m pip install -r tools/requirements.txt
+      - name: Validate reviewed queue
+        run: python tools/validate_queue.py
       - name: Add the daily CC0 batch
         run: python tools/curate_commons.py --still-count 2 --video-count 1
       - name: Validate catalog

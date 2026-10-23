@@ -24,6 +24,8 @@ The scheduled GitHub Action runs every day at 03:23 UTC and attempts to add two 
 
 The source URL, creator record, and detected license remain in `catalog.json` for audits. The app does not place source metadata in the main wallpaper flow. Cuto is only a reference for breadth and visual restraint; the automation does not access or copy Cuto assets.
 
+Only queue entries marked `review: approved` can be published. The workflow also validates unique IDs, category values, optional discovery tags, live source license, source dimensions and local files. The visual checklist is documented in `QUALITY.md`; automated checks support human curation rather than replacing it.
+
 ## Operation
 
 GitHub raw URLs are used for this initial small collection. Availability and download speed depend on the user's network. The app includes this first collection locally as an offline fallback. Future growth can move media to an object store/CDN while retaining the same JSON schema.

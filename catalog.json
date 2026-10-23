@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T03:44:44Z",
+  "updatedAt": "2026-10-23T03:55:40Z",
   "items": [
     {
       "id": "snowy-creek",
@@ -55,7 +55,10 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/forest-mist.png",
       "credit": "Video To Live · AI-created artwork",
       "sourceURL": "https://ccong.xyz/video-to-live/",
-      "license": "Included wallpaper"
+      "license": "Included wallpaper",
+      "tags": [
+        "botanical"
+      ]
     },
     {
       "id": "cloud-sea",
@@ -66,7 +69,10 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/cloud-sea.png",
       "credit": "Video To Live · AI-created artwork",
       "sourceURL": "https://ccong.xyz/video-to-live/",
-      "license": "Included wallpaper"
+      "license": "Included wallpaper",
+      "tags": [
+        "sky"
+      ]
     },
     {
       "id": "quiet-facade",
@@ -77,7 +83,10 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/quiet-facade.png",
       "credit": "Video To Live · AI-created artwork",
       "sourceURL": "https://ccong.xyz/video-to-live/",
-      "license": "Included wallpaper"
+      "license": "Included wallpaper",
+      "tags": [
+        "city"
+      ]
     },
     {
       "id": "salt-rose",
@@ -99,7 +108,11 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/blue-hour.png",
       "credit": "Video To Live · AI-created artwork",
       "sourceURL": "https://ccong.xyz/video-to-live/",
-      "license": "Included wallpaper"
+      "license": "Included wallpaper",
+      "tags": [
+        "sky",
+        "night"
+      ]
     },
     {
       "id": "aurora-ridge",
@@ -110,7 +123,11 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/aurora-ridge.png",
       "credit": "Video To Live · AI-created artwork",
       "sourceURL": "https://ccong.xyz/video-to-live/",
-      "license": "Included wallpaper"
+      "license": "Included wallpaper",
+      "tags": [
+        "sky",
+        "night"
+      ]
     },
     {
       "id": "moonlit-water",
@@ -121,7 +138,10 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/moonlit-water.png",
       "credit": "Video To Live · AI-created artwork",
       "sourceURL": "https://ccong.xyz/video-to-live/",
-      "license": "Included wallpaper"
+      "license": "Included wallpaper",
+      "tags": [
+        "night"
+      ]
     },
     {
       "id": "iridescent-flow",
@@ -165,7 +185,10 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/meadow-rain.png",
       "credit": "Video To Live · AI-created artwork",
       "sourceURL": "https://ccong.xyz/video-to-live/",
-      "license": "Included wallpaper"
+      "license": "Included wallpaper",
+      "tags": [
+        "botanical"
+      ]
     },
     {
       "id": "shadow-arc",
@@ -198,7 +221,11 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/amber-windows.png",
       "credit": "Video To Live · AI-created artwork",
       "sourceURL": "https://ccong.xyz/video-to-live/",
-      "license": "Included wallpaper"
+      "license": "Included wallpaper",
+      "tags": [
+        "city",
+        "night"
+      ]
     },
     {
       "id": "commons-116423165",
@@ -220,7 +247,10 @@
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Forest_trees_in_dense_mist.jpg",
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201385384-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201385384.jpg"
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201385384.jpg",
+      "tags": [
+        "botanical"
+      ]
     },
     {
       "id": "commons-142473215",
@@ -253,7 +283,10 @@
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Modern_architecture_build.jpg",
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105788958-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105788958.jpg"
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105788958.jpg",
+      "tags": [
+        "city"
+      ]
     },
     {
       "id": "commons-124590623",
@@ -341,7 +374,10 @@
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Mist_shrouding_a_forest_(Unsplash).jpg",
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61852305-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61852305.jpg"
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61852305.jpg",
+      "tags": [
+        "botanical"
+      ]
     },
     {
       "id": "commons-51441017",
@@ -374,7 +410,11 @@
       "sourceURL": "https://commons.wikimedia.org/wiki/File:%27Urban_Lights%27_-_large_abstract_polychrome_painting_on_canvas,_fusion_art_by_Dutch_artists_Ben_Vollers_%26_Fons_Heijnsbroek_in_2008;_modern_colorful_abstract_expressionism_-_free_download_art_image_CC0,_high_resolutions_TIFF.tif",
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195180144-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195180144.jpg"
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195180144.jpg",
+      "tags": [
+        "city",
+        "night"
+      ]
     },
     {
       "id": "commons-62127338",
@@ -385,7 +425,10 @@
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Angular_modern_architecture_(Unsplash).jpg",
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62127338-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62127338.jpg"
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62127338.jpg",
+      "tags": [
+        "city"
+      ]
     },
     {
       "id": "commons-158702810",

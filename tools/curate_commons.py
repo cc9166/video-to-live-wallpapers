@@ -40,6 +40,12 @@ DENY = {
     "car", "train", "aircraft", "airport", "ship", "boat", "bird", "dog", "cat", "concert", "music",
     "logo", "poster", "diagram", "map", "screenshot", "advert", "food", "chocolate", "weapon", "firework",
 }
+TAG_TERMS = {
+    "sky": {"sky", "cloud", "aurora", "sunrise", "sunset", "dawn", "dusk"},
+    "botanical": {"flower", "leaf", "meadow", "forest", "grass", "plant", "fern"},
+    "city": {"city", "urban", "architecture", "building", "facade"},
+    "night": {"night", "moon", "aurora", "lights", "dusk"},
+}
 
 
 def api(params: dict) -> dict:
@@ -119,7 +125,12 @@ def download(url: str, destination: Path, maximum: int = 180_000_000) -> None:
 def common_item(candidate: dict, category: str, kind: str, asset_id: str) -> dict:
     page, info, metadata = candidate["page"], candidate["info"], candidate["metadata"]
     artist = clean(metadata.get("Artist", {}).get("value", "")) or info.get("user", "Wikimedia Commons contributor")
-    return {
+    searchable = " ".join([
+        page.get("title", ""),
+        clean(metadata.get("ImageDescription", {}).get("value", "")),
+    ]).lower()
+    tags = [tag for tag, words in TAG_TERMS.items() if any(word in searchable for word in words)]
+    item = {
         "id": asset_id,
         "title": title_for(page["title"]),
         "kind": kind,
@@ -128,6 +139,9 @@ def common_item(candidate: dict, category: str, kind: str, asset_id: str) -> dic
         "sourceURL": info.get("descriptionurl") or "https://commons.wikimedia.org/wiki/" + urllib.parse.quote(page["title"].replace(" ", "_")),
         "license": candidate["license"],
     }
+    if tags:
+        item["tags"] = tags
+    return item
 
 
 def add_still(root: Path, candidate: dict, category: str, base: str) -> dict:
@@ -224,6 +238,8 @@ def add_from_queue(root: Path, queue: list[dict], still_wanted: int, video_wante
     remaining = {"still": still_wanted, "live": video_wanted}
     added = 0
     for entry in queue:
+        if entry.get("review") != "approved":
+            continue
         kind = entry["kind"]
         asset_id = f"commons-{entry['pageid']}"
         if remaining.get(kind, 0) <= 0 or asset_id in used:
