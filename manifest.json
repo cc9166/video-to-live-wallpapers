@@ -1,0 +1,72 @@
+[
+  {
+    "file": "alpine-hush.png",
+    "bytes": 2242231,
+    "sha256": "046b673491814ac3d7a1413446638523938c8d56f96ab0ece4709d02c7fb660e"
+  },
+  {
+    "file": "aurora-ridge.png",
+    "bytes": 2025100,
+    "sha256": "557bdea5fbee1326b6e6b6dfe138ee504af94335a3cd7366ac0b712012956b5d"
+  },
+  {
+    "file": "blue-hour.png",
+    "bytes": 2196439,
+    "sha256": "88ca1009d258bedc555f29a5a20dc04af36ee1096578f9dc5fd66df8dbaa52a3"
+  },
+  {
+    "file": "catalog.json",
+    "bytes": 5641,
+    "sha256": "283be6d8e6c4dec9cb041d655dea7761e1bd5b9b8b68aefa8c4f02929d48c16d"
+  },
+  {
+    "file": "cloud-sea.png",
+    "bytes": 2070879,
+    "sha256": "6237793f69070e9c0cfa40e1052b4e4287550590b65f697065659ce9b4c21549"
+  },
+  {
+    "file": "dune-light.png",
+    "bytes": 2006250,
+    "sha256": "398176f1144b0b6f7c2a7b52597e161bc1ad05754802a0c0a0853a8b6963a24a"
+  },
+  {
+    "file": "forest-mist.png",
+    "bytes": 2465127,
+    "sha256": "91f4c07c97325f53d09051f382cf45b32737fe9cb9beaf380f33641c87d13bea"
+  },
+  {
+    "file": "iridescent-flow.png",
+    "bytes": 1656092,
+    "sha256": "032d26e0e5732d7bde1c4aadd0258e6a9f3e2c97d571090ae08312c404829111"
+  },
+  {
+    "file": "moonlit-water.png",
+    "bytes": 2173999,
+    "sha256": "29f4495dca79ba25fca84bc75a1fe8cc89a330d521c03adbb9ca429c36e0212a"
+  },
+  {
+    "file": "quiet-facade.png",
+    "bytes": 1920576,
+    "sha256": "1b4f24599a5bcdf69e016ae1dd34a7413eb448abfaa46bbf20c9f68982dddedf"
+  },
+  {
+    "file": "salt-rose.png",
+    "bytes": 2721074,
+    "sha256": "e3087abd76b44dfb257b4b6addaf32cbd68c5004cccdedbff76a137eb81acb6c"
+  },
+  {
+    "file": "snowy-creek.jpg",
+    "bytes": 136662,
+    "sha256": "ae41f06ff934f73ac43180e1955299ec3fefbe1c7050c8565ead6123efb574e5"
+  },
+  {
+    "file": "snowy-creek.mp4",
+    "bytes": 4335195,
+    "sha256": "8b728bcd41dda2af502d66b20cf90be3b429ff0b9257e624104bbd1c86680aaf"
+  },
+  {
+    "file": "tidal-blue.png",
+    "bytes": 3020276,
+    "sha256": "c6c4f47ca5aeb6cc1fc6484706067da8e91a76073f900b15c82c13209fcb572a"
+  }
+]
