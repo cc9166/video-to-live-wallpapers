@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T03:19:47Z",
+  "updatedAt": "2026-10-23T03:24:08Z",
   "items": [
     {
       "id": "snowy-creek",
@@ -298,6 +298,39 @@
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92787549-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92787549.mp4"
+    },
+    {
+      "id": "commons-195180144",
+      "title": "'Urban Lights' large abstract polychrome painting on",
+      "kind": "still",
+      "category": "abstract",
+      "credit": "Fons Heijnsbroek · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:%27Urban_Lights%27_-_large_abstract_polychrome_painting_on_canvas,_fusion_art_by_Dutch_artists_Ben_Vollers_%26_Fons_Heijnsbroek_in_2008;_modern_colorful_abstract_expressionism_-_free_download_art_image_CC0,_high_resolutions_TIFF.tif",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195180144-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195180144.jpg"
+    },
+    {
+      "id": "commons-62127338",
+      "title": "Angular modern architecture",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Mihail Ribkin mihail_ribkin · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Angular_modern_architecture_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62127338-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62127338.jpg"
+    },
+    {
+      "id": "commons-158702810",
+      "title": "Kegon Falls in winter, 2025 1 28",
+      "kind": "live",
+      "category": "nature",
+      "credit": "ILoveHirasawaYui · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Kegon_Falls_in_winter,_2025-1-28.webm",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-158702810-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-158702810.mp4"
     }
   ]
 }
