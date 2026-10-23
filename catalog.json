@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T02:55:05Z",
+  "updatedAt": "2026-10-23T03:19:47Z",
   "items": [
     {
       "id": "snowy-creek",
@@ -265,6 +265,39 @@
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153682461-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153682461.mp4"
+    },
+    {
+      "id": "commons-61852305",
+      "title": "Mist shrouding a forest",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Adam Porter adamkporter · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mist_shrouding_a_forest_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61852305-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61852305.jpg"
+    },
+    {
+      "id": "commons-51441017",
+      "title": "Cold snow landscape nature (23956950429)",
+      "kind": "still",
+      "category": "minimal",
+      "credit": "www.Pixel.la Free Stock Photos · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Cold-snow-landscape-nature_(23956950429).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-51441017-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-51441017.jpg"
+    },
+    {
+      "id": "commons-92787549",
+      "title": "Ocean surface waves 02",
+      "kind": "live",
+      "category": "ocean",
+      "credit": "Mostafameraji · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Ocean_surface_waves_02.ogv",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92787549-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92787549.mp4"
     }
   ]
 }
