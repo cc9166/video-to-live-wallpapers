@@ -20,7 +20,7 @@ The CC0 designation applies to that source clip, not automatically to all files 
 
 ## Daily curation
 
-The scheduled GitHub Action runs every day at 03:23 UTC and attempts to add two still wallpapers and one short live-wallpaper clip from `curation-queue.json`. Queue entries are selected from Wikimedia Commons in advance; the publisher re-checks their current license and resolution, crops media to 9:16, transcodes video to a three-second H.264 MP4, creates a small thumbnail, validates the catalog, and then commits the result. This prevents broad search results from being published without visual review. The collection caps automated growth at 60 stills and 24 live clips.
+The scheduled GitHub Action runs every day at 03:23 UTC and attempts to add two still wallpapers and one short live-wallpaper clip from `curation-queue.json`. Queue entries are selected from Wikimedia Commons in advance; the publisher re-checks their current license and resolution, rejects sources that would need enlargement after a 9:16 crop, transcodes video to a three-second H.264 MP4, creates a small thumbnail, validates the catalog, and then commits the result. This prevents broad search results from being published without visual review. The collection caps automated growth at 60 stills and 24 live clips.
 
 The source URL, creator record, and detected license remain in `catalog.json` for audits. The app does not place source metadata in the main wallpaper flow. Cuto is only a reference for breadth and visual restraint; the automation does not access or copy Cuto assets.
 

@@ -20,6 +20,8 @@ API = "https://commons.wikimedia.org/w/api.php"
 USER_AGENT = "VideoToLiveWallpaperCurator/1.0 (https://github.com/cc9166/video-to-live-wallpapers)"
 BASE = "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main"
 LICENSES = {"CC0", "CC0 1.0", "Public domain", "Public domain mark"}
+OUTPUT_WIDTH = 1080
+OUTPUT_HEIGHT = 1920
 STILL_SEARCHES = {
     "mountains": ("mountain landscape", "glacier landscape"),
     "ocean": ("ocean waves", "coast sea"),
@@ -129,6 +131,7 @@ def common_item(candidate: dict, category: str, kind: str, asset_id: str) -> dic
 
 
 def add_still(root: Path, candidate: dict, category: str, base: str) -> dict:
+    require_native_vertical_output(candidate)
     asset_id = f"commons-{candidate['page']['pageid']}"
     image_name, thumb_name = asset_id + ".jpg", asset_id + "-thumb.jpg"
     source_url = candidate["info"].get("thumburl") or candidate["info"]["url"]
@@ -146,6 +149,7 @@ def add_still(root: Path, candidate: dict, category: str, base: str) -> dict:
 
 
 def add_video(root: Path, candidate: dict, category: str, base: str) -> dict:
+    require_native_vertical_output(candidate)
     asset_id = f"commons-{candidate['page']['pageid']}"
     video_name, thumb_name = asset_id + ".mp4", asset_id + "-thumb.jpg"
     with tempfile.TemporaryDirectory() as temporary:
@@ -164,6 +168,16 @@ def add_video(root: Path, candidate: dict, category: str, base: str) -> dict:
     item = common_item(candidate, category, "live", asset_id)
     item.update(thumbnail=f"{base}/{thumb_name}", resource=f"{base}/{video_name}")
     return item
+
+
+def require_native_vertical_output(candidate: dict) -> None:
+    """Reject sources that would be enlarged after the 9:16 crop."""
+    info = candidate["info"]
+    if info.get("width", 0) < OUTPUT_WIDTH or info.get("height", 0) < OUTPUT_HEIGHT:
+        raise ValueError(
+            f"source {info.get('width', 0)}x{info.get('height', 0)} would require upscaling "
+            f"for {OUTPUT_WIDTH}x{OUTPUT_HEIGHT} output"
+        )
 
 
 def update_manifest(root: Path) -> None:
