@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-23T10:08:29Z",
+  "updatedAt": "2026-10-24T08:14:03Z",
   "items": [
     {
       "id": "snowy-creek",
@@ -651,6 +651,75 @@
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-65079366-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-65079366.mp4"
+    },
+    {
+      "id": "commons-114909236",
+      "title": "Forest in Rheinsberg with mist",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Leonhard Lenz · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Forest_in_Rheinsberg_with_mist_2021-10-30_05.jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909236-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909236.jpg"
+    },
+    {
+      "id": "commons-142125272",
+      "title": "Red sand ao 8k (Rohit Seervi",
+      "kind": "still",
+      "category": "minimal",
+      "credit": "Rohit Seervi ( https://polyhaven.com/all?a=Rohit%20Seervi ) via Poly Haven · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Red_sand_ao_8k_(Rohit_Seervi_via_Poly_Haven).png",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125272-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125272.jpg"
+    },
+    {
+      "id": "commons-195797104",
+      "title": "Spiral Mandala 1.",
+      "kind": "still",
+      "category": "abstract",
+      "credit": "Fons Heijnsbroek · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:%27Spiral_Mandala_1.%27_-_abstract_gouache_%26_watercolor_painting_on_paper_in_color_lines_and_brush_stroke_textures,_created_in_2000_by_Dutch_painter_artist_Fons_Heijnsbroek.tif",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195797104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195797104.jpg"
+    },
+    {
+      "id": "commons-199801247",
+      "title": "Cube style single family homes, Katelijn",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "DimiTalen · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Cube-style_single-family_homes,_Katelijne_Janssensstraat,_Battel,_Mechelen,_2026.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-199801247-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-199801247.jpg"
+    },
+    {
+      "id": "commons-153682461",
+      "title": "Ajdovscina, waterfall near the Hubelj Ir",
+      "kind": "live",
+      "category": "nature",
+      "credit": "Ajznponar · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Ajdovscina,_waterfall_near_the_Hubelj_Ironworks_02.webm",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153682461-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153682461.mp4"
+    },
+    {
+      "id": "commons-173590596",
+      "title": "Mt Nimrod Scenic Reserve",
+      "kind": "live",
+      "category": "nature",
+      "credit": "David Nind · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mt_Nimrod_Scenic_Reserve_-_Waterfall_on_Nimrod_Stream_(video).webm",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173590596-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173590596.mp4"
     }
   ]
 }
