@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25T08:32:34Z",
+  "updatedAt": "2026-10-26T09:04:12Z",
   "items": [
     {
       "id": "snowy-creek",
@@ -797,6 +797,53 @@
       ],
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-99904612-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-99904612.mp4"
+    },
+    {
+      "id": "commons-187111304",
+      "title": "Kitgen 8.'",
+      "kind": "still",
+      "category": "abstract",
+      "credit": "Fons Heijnsbroek · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Kitgen_8.%27_-_small_abstract_watercolor_painting_with_brush_stroke_textures_%26_layers,_painted_by_Dutch_artist_Fons_Heijnsbroek_in_2008_-_abstract_gouache._Free_art_image_in_high_TIFF_resolution.tif",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-187111304-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-187111304.jpg"
+    },
+    {
+      "id": "commons-130471537",
+      "title": "The example of the modern architecture",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Robert von Oliva (naruciakk) · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:The_example_of_the_modern_architecture_in_Seevorstadt,_Dresden.jpg",
+      "license": "CC0",
+      "tags": [
+        "city"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-130471537-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-130471537.jpg"
+    },
+    {
+      "id": "commons-39647101",
+      "title": "Landscape mountains Phaistos",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Jebulon · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Landscape_mountains_Phaistos.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-39647101-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-39647101.jpg"
+    },
+    {
+      "id": "commons-57095400",
+      "title": "Pacifica Pier Waves",
+      "kind": "still",
+      "category": "ocean",
+      "credit": "ekaterina vladinova · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Pacifica_Pier_Waves_(33057409320).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095400-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095400.jpg"
     }
   ]
 }
