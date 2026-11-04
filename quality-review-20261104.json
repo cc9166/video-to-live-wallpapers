@@ -1,0 +1,165 @@
+{
+  "reviewedAt": "2026-11-04T02:28:50Z",
+  "added": [
+    "commons-195762641",
+    "commons-61651715",
+    "commons-61646981",
+    "commons-61651999",
+    "commons-76012832",
+    "commons-62168175",
+    "commons-61897908",
+    "commons-199853967",
+    "commons-116550293",
+    "commons-61699929",
+    "commons-62223788",
+    "commons-62249242",
+    "commons-169009875",
+    "commons-88840249",
+    "commons-86283273",
+    "commons-197917900",
+    "commons-202410686",
+    "commons-151568289",
+    "commons-173367376",
+    "nasa-carina-stars"
+  ],
+  "upgraded": [
+    "commons-116423165",
+    "commons-201385384",
+    "commons-105788958",
+    "commons-124590623",
+    "commons-77587226",
+    "commons-97601511",
+    "commons-61671723",
+    "commons-61852305",
+    "commons-51441017",
+    "commons-62127338",
+    "commons-61898704",
+    "commons-62062397",
+    "commons-153491654",
+    "commons-62299191",
+    "commons-62598933",
+    "commons-195045529",
+    "commons-92393982",
+    "commons-105789902",
+    "commons-57095398",
+    "commons-117648128",
+    "commons-114909242",
+    "commons-39647101",
+    "commons-117495415"
+  ],
+  "withdrawn": [
+    {
+      "id": "commons-142473215",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-187094212",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-195180144",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-188553099",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-172848000",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "cc0-coastal-waves",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "cc0-golden-sunset",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-57095399",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-148299483",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-201559635",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-114909236",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-142125272",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-195797104",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-199801247",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-153682461",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-57095371",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-142125297",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-99904645",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-99904612",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-187111304",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-130471537",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-57095400",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-114909255",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-142473247",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    },
+    {
+      "id": "commons-175629420",
+      "reason": "near-duplicate composition or failed clean-wallpaper visual review"
+    }
+  ],
+  "total": 69,
+  "kinds": {
+    "live": 15,
+    "still": 54
+  },
+  "notes": [
+    "Original generated artwork retained.",
+    "Withdrawn media files retained for cached clients and history; omitted from the visible catalog.",
+    "Still images decoded from original source, not 1800px search thumbnails; no enlargement.",
+    "New motion is 1080x1920 H.264, 3 seconds, 90 frames, silent; first and last sampled frames differ.",
+    "Carina held video frame is published as a still, not advertised as motion.",
+    "Native-source rights records retained in catalog and Git only."
+  ]
+}

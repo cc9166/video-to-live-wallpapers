@@ -49,3 +49,9 @@ Use one backward-compatible primary category: `mountains`, `ocean`, `nature`, `m
 GitHub raw URLs are used for this initial small collection. Availability and download speed depend on the user's network. The app includes this first collection locally as an offline fallback. Future growth can move media to an object store/CDN while retaining the same JSON schema.
 
 `manifest.json` records the published files and SHA-256 hashes for release checks.
+
+## 2026-11-04 quality refresh
+
+Published catalog: 54 stills and 15 motion clips. Added 13 stills and 7 silent motion clips, upgraded 23 retained stills from their full-resolution originals, and withdrew 25 near-duplicates or weak/cluttered compositions. New stills are 1440×2560 when native source pixels allow (otherwise 1080×1920); new motion is 1080×1920, 3 seconds, silent H.264. Previously generated original artwork remains included. Source and byte-level duplicate checks are enforced at catalog validation. See `quality-review-20261104.json`.
+
+The reviewed daily queue is intentionally finite: only approved candidates publish. Once it is exhausted, the schedule leaves the catalog unchanged rather than adding unreviewed images.

@@ -148,15 +148,18 @@ def add_still(root: Path, candidate: dict, category: str, base: str) -> dict:
     require_native_vertical_output(candidate)
     asset_id = f"commons-{candidate['page']['pageid']}"
     image_name, thumb_name = asset_id + ".jpg", asset_id + "-thumb.jpg"
-    source_url = candidate["info"].get("thumburl") or candidate["info"]["url"]
+    source_url = candidate["info"]["url"]
     with tempfile.TemporaryDirectory() as temporary:
         source = Path(temporary) / "source"
         download(source_url, source, 60_000_000)
         with Image.open(source) as image:
             image = ImageOps.exif_transpose(image).convert("RGB")
-            wallpaper = ImageOps.fit(image, (1080, 1920), method=Image.Resampling.LANCZOS, centering=(0.5, 0.5))
+            if image.width < 1080 or image.height < 1920:
+                raise ValueError("decoded original would require upscaling")
+            output = (1440, 2560) if image.width >= 1440 and image.height >= 2560 else (1080, 1920)
+            wallpaper = ImageOps.fit(image, output, method=Image.Resampling.LANCZOS, centering=(0.5, 0.5))
             wallpaper.save(root / image_name, "JPEG", quality=89, optimize=True, progressive=True)
-            wallpaper.resize((480, 853), Image.Resampling.LANCZOS).save(root / thumb_name, "JPEG", quality=80, optimize=True, progressive=True)
+            wallpaper.resize((720, 1280), Image.Resampling.LANCZOS).save(root / thumb_name, "JPEG", quality=88, optimize=True, progressive=True)
     item = common_item(candidate, category, "still", asset_id)
     item.update(thumbnail=f"{base}/{thumb_name}", resource=f"{base}/{image_name}")
     return item
@@ -172,7 +175,7 @@ def add_video(root: Path, candidate: dict, category: str, base: str) -> dict:
         video_filter = "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1"
         subprocess.run([
             "ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-ss", "0", "-i", str(source), "-t", "3",
-            "-vf", video_filter, "-an", "-r", "30", "-c:v", "libx264", "-preset", "medium", "-crf", "24",
+            "-vf", video_filter, "-an", "-r", "30", "-c:v", "libx264", "-preset", "medium", "-crf", "19",
             "-pix_fmt", "yuv420p", "-movflags", "+faststart", str(root / video_name),
         ], check=True, timeout=180)
         subprocess.run([

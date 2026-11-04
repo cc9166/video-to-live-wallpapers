@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27T09:07:54Z",
+  "updatedAt": "2026-11-04T02:28:50Z",
   "items": [
     {
       "id": "snowy-creek",
@@ -235,8 +235,8 @@
       "credit": "Unknown @ AvoPix.com · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Mountain_Glacier_Landscape_(from_AvoPix).jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-116423165-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-116423165.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-116423165-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-116423165-hq-20261104.jpg"
     },
     {
       "id": "commons-201385384",
@@ -246,33 +246,11 @@
       "credit": "Mar Mkrtchyan · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Forest_trees_in_dense_mist.jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201385384-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201385384.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201385384-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201385384-hq-20261104.jpg",
       "tags": [
         "botanical"
       ]
-    },
-    {
-      "id": "commons-142473215",
-      "title": "Silver Sand",
-      "kind": "still",
-      "category": "minimal",
-      "credit": "Rob Tuytel ( https://polyhaven.com/all?a=Rob%20Tuytel / https://web.archive.org/web/20230910162834/https://polyhaven.com · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Aerial_sand_ao_8k_(Rob_Tuytel_via_Poly_Haven).png",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142473215-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142473215.jpg"
-    },
-    {
-      "id": "commons-187094212",
-      "title": "Color Study",
-      "kind": "still",
-      "category": "abstract",
-      "credit": "Fons Heijnsbroek · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:%27Kitgen_7.%27_-_a_small_abstract_watercolor_painting_with_transparent_layers_%26_texture,_painted_by_Dutch_artist_Fons_Heijnsbroek_in_2008,_created_in_a_series_of_small_abstract_gouache_art_works._Free_art_image_in_high_TIFF_resolution.tif",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-187094212-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-187094212.jpg"
     },
     {
       "id": "commons-105788958",
@@ -282,8 +260,8 @@
       "credit": "Unknown author Unknown author · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Modern_architecture_build.jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105788958-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105788958.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105788958-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105788958-hq-20261104.jpg",
       "tags": [
         "city"
       ]
@@ -296,8 +274,8 @@
       "credit": "Caldwbr · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:GlacierNational.jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-124590623-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-124590623.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-124590623-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-124590623-hq-20261104.jpg"
     },
     {
       "id": "commons-77587226",
@@ -307,8 +285,8 @@
       "credit": "Yosa Buson · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Yosa_Buson_-_Snow_Landscape_-_1997.111_-_Cleveland_Museum_of_Art.tif",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-77587226-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-77587226.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-77587226-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-77587226-hq-20261104.jpg"
     },
     {
       "id": "commons-184429868",
@@ -329,8 +307,8 @@
       "credit": "StockyPics · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Mountain_landscape_(21827581301).jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-97601511-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-97601511.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-97601511-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-97601511-hq-20261104.jpg"
     },
     {
       "id": "commons-61671723",
@@ -340,8 +318,8 @@
       "credit": "Caleb Jones gcalebjones · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Drone_view_of_ocean_waves_(Unsplash).jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61671723-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61671723.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61671723-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61671723-hq-20261104.jpg"
     },
     {
       "id": "commons-61852305",
@@ -351,8 +329,8 @@
       "credit": "Adam Porter adamkporter · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Mist_shrouding_a_forest_(Unsplash).jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61852305-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61852305.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61852305-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61852305-hq-20261104.jpg",
       "tags": [
         "botanical"
       ]
@@ -365,8 +343,8 @@
       "credit": "www.Pixel.la Free Stock Photos · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Cold-snow-landscape-nature_(23956950429).jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-51441017-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-51441017.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-51441017-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-51441017-hq-20261104.jpg"
     },
     {
       "id": "commons-92787549",
@@ -380,21 +358,6 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92787549.mp4"
     },
     {
-      "id": "commons-195180144",
-      "title": "Urban Lights",
-      "kind": "still",
-      "category": "abstract",
-      "credit": "Fons Heijnsbroek · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:%27Urban_Lights%27_-_large_abstract_polychrome_painting_on_canvas,_fusion_art_by_Dutch_artists_Ben_Vollers_%26_Fons_Heijnsbroek_in_2008;_modern_colorful_abstract_expressionism_-_free_download_art_image_CC0,_high_resolutions_TIFF.tif",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195180144-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195180144.jpg",
-      "tags": [
-        "city",
-        "night"
-      ]
-    },
-    {
       "id": "commons-62127338",
       "title": "Silver Angles",
       "kind": "still",
@@ -402,8 +365,8 @@
       "credit": "Mihail Ribkin mihail_ribkin · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Angular_modern_architecture_(Unsplash).jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62127338-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62127338.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62127338-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62127338-hq-20261104.jpg",
       "tags": [
         "city"
       ]
@@ -427,8 +390,8 @@
       "credit": "Jasper Boer jasperboer · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Green_Mountain_Landscape_(Unsplash).jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61898704-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61898704.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61898704-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61898704-hq-20261104.jpg"
     },
     {
       "id": "commons-62062397",
@@ -438,8 +401,8 @@
       "credit": "Esther Cuan esthercuan · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Ocean_and_waves_(Unsplash).jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62062397-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62062397.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62062397-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62062397-hq-20261104.jpg"
     },
     {
       "id": "commons-153491654",
@@ -449,19 +412,8 @@
       "credit": "Jörg Braukmann · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Wetterspitzen_(Stubaier_Alpen).jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153491654-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153491654.jpg"
-    },
-    {
-      "id": "commons-188553099",
-      "title": "A la Filarski",
-      "kind": "still",
-      "category": "abstract",
-      "credit": "Fons Heijnsbroek · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:%27A_la_Filarski%27_-_abstract_watercolor_painting_in_a_mixture_of_yellow_colors_-_contemporary_abstract_art_by_Dutch_artist_Fons_Heijnsbroek,_2008._Free_image_in_high_resolution,_TIFF.tif",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-188553099-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-188553099.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153491654-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153491654-hq-20261104.jpg"
     },
     {
       "id": "commons-62299191",
@@ -474,8 +426,8 @@
       "tags": [
         "city"
       ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62299191-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62299191.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62299191-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62299191-hq-20261104.jpg"
     },
     {
       "id": "commons-62598933",
@@ -485,45 +437,8 @@
       "credit": "Riaan Myburgh movemeriaan · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Big_ocean_wave_splash_(Unsplash).jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62598933-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62598933.jpg"
-    },
-    {
-      "id": "commons-172848000",
-      "title": "Otehake River",
-      "kind": "live",
-      "category": "nature",
-      "credit": "David Nind · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Otehake_River_-_Hot_pools_-_Video_2_(June_2025).webm",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-172848000-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-172848000.mp4"
-    },
-    {
-      "id": "cc0-coastal-waves",
-      "title": "Coastal Rhythm",
-      "kind": "live",
-      "category": "ocean",
-      "credit": "Mostafameraji · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Ocean_surface_waves_10.ogv",
-      "license": "CC0 1.0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/coastal-waves-cc0-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/coastal-waves-cc0.mp4"
-    },
-    {
-      "id": "cc0-golden-sunset",
-      "title": "Molten Sunset",
-      "kind": "live",
-      "category": "abstract",
-      "credit": "Vicky Ponce · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Golden_sunset_filmed_in_January.webm",
-      "license": "CC0 1.0",
-      "tags": [
-        "sky",
-        "night"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/golden-sunset-cc0-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/golden-sunset-cc0.mp4"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62598933-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62598933-hq-20261104.jpg"
     },
     {
       "id": "cc0-canyon-clouds",
@@ -547,19 +462,8 @@
       "credit": "Jevonin1 · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Scenic_landscape_of_Greek_mountains_and_lake.jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195045529-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195045529.jpg"
-    },
-    {
-      "id": "commons-57095399",
-      "title": "Silver Tide",
-      "kind": "still",
-      "category": "ocean",
-      "credit": "ekaterina vladinova · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Pacifica_Pier_Waves_(32597587354).jpg",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095399-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095399.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195045529-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195045529-hq-20261104.jpg"
     },
     {
       "id": "commons-142125305",
@@ -580,8 +484,8 @@
       "credit": "Shisma · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Cube_berlin.jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92393982-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92393982.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92393982-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92393982-hq-20261104.jpg"
     },
     {
       "id": "commons-105789902",
@@ -591,8 +495,8 @@
       "credit": "Unknown author Unknown author · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Mountain_and_Landscape.jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105789902-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105789902.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105789902-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105789902-hq-20261104.jpg"
     },
     {
       "id": "commons-57095398",
@@ -602,19 +506,8 @@
       "credit": "ekaterina vladinova · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Pacifica_Pier_Waves_(32626595413).jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095398-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095398.jpg"
-    },
-    {
-      "id": "commons-148299483",
-      "title": "Stillwater",
-      "kind": "live",
-      "category": "minimal",
-      "credit": "Jidanni · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Wind_on_water_at_%E9%AB%98%E7%BE%8E%E6%BF%95%E5%9C%B0.webm",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-148299483-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-148299483.mp4"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095398-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095398-hq-20261104.jpg"
     },
     {
       "id": "commons-189602483",
@@ -628,20 +521,6 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-189602483.mp4"
     },
     {
-      "id": "commons-201559635",
-      "title": "Ember Night",
-      "kind": "live",
-      "category": "abstract",
-      "credit": "Aliceinthealice · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Fire_Pit_in_Denmark,_Western_Australia,_2026.webm",
-      "license": "CC0",
-      "tags": [
-        "night"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201559635-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201559635.mp4"
-    },
-    {
       "id": "commons-65079366",
       "title": "Snowfall Quiet",
       "kind": "live",
@@ -651,64 +530,6 @@
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-65079366-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-65079366.mp4"
-    },
-    {
-      "id": "commons-114909236",
-      "title": "Forest in Rheinsberg with mist",
-      "kind": "still",
-      "category": "nature",
-      "credit": "Leonhard Lenz · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Forest_in_Rheinsberg_with_mist_2021-10-30_05.jpg",
-      "license": "CC0",
-      "tags": [
-        "botanical"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909236-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909236.jpg"
-    },
-    {
-      "id": "commons-142125272",
-      "title": "Red sand ao 8k (Rohit Seervi",
-      "kind": "still",
-      "category": "minimal",
-      "credit": "Rohit Seervi ( https://polyhaven.com/all?a=Rohit%20Seervi ) via Poly Haven · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Red_sand_ao_8k_(Rohit_Seervi_via_Poly_Haven).png",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125272-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125272.jpg"
-    },
-    {
-      "id": "commons-195797104",
-      "title": "Spiral Mandala 1.",
-      "kind": "still",
-      "category": "abstract",
-      "credit": "Fons Heijnsbroek · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:%27Spiral_Mandala_1.%27_-_abstract_gouache_%26_watercolor_painting_on_paper_in_color_lines_and_brush_stroke_textures,_created_in_2000_by_Dutch_painter_artist_Fons_Heijnsbroek.tif",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195797104-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195797104.jpg"
-    },
-    {
-      "id": "commons-199801247",
-      "title": "Cube style single family homes, Katelijn",
-      "kind": "still",
-      "category": "architecture",
-      "credit": "DimiTalen · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Cube-style_single-family_homes,_Katelijne_Janssensstraat,_Battel,_Mechelen,_2026.jpg",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-199801247-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-199801247.jpg"
-    },
-    {
-      "id": "commons-153682461",
-      "title": "Ajdovscina, waterfall near the Hubelj Ir",
-      "kind": "live",
-      "category": "nature",
-      "credit": "Ajznponar · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Ajdovscina,_waterfall_near_the_Hubelj_Ironworks_02.webm",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153682461-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153682461.mp4"
     },
     {
       "id": "commons-173590596",
@@ -729,19 +550,8 @@
       "credit": "Bonnie Moreland · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Lake_Mountain_Landscape.jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-117648128-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-117648128.jpg"
-    },
-    {
-      "id": "commons-57095371",
-      "title": "Pacifica Pier Waves",
-      "kind": "still",
-      "category": "ocean",
-      "credit": "ekaterina vladinova · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Pacifica_Pier_Waves_(33057406380).jpg",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095371-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095371.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-117648128-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-117648128-hq-20261104.jpg"
     },
     {
       "id": "commons-114909242",
@@ -754,74 +564,8 @@
       "tags": [
         "botanical"
       ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909242-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909242.jpg"
-    },
-    {
-      "id": "commons-142125297",
-      "title": "Red sand arm 8k (Rohit Seervi",
-      "kind": "still",
-      "category": "minimal",
-      "credit": "Rohit Seervi ( https://polyhaven.com/all?a=Rohit%20Seervi ) via Poly Haven · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Red_sand_arm_8k_(Rohit_Seervi_via_Poly_Haven).png",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125297-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125297.jpg"
-    },
-    {
-      "id": "commons-99904645",
-      "title": "Сніг на тлі неба",
-      "kind": "live",
-      "category": "minimal",
-      "credit": "Роман Рябенко · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BD%D1%96%D0%B3_%D0%BD%D0%B0_%D1%82%D0%BB%D1%96_%D0%BD%D0%B5%D0%B1%D0%B0.webm",
-      "license": "CC0",
-      "tags": [
-        "sky",
-        "city"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-99904645-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-99904645.mp4"
-    },
-    {
-      "id": "commons-99904612",
-      "title": "Сніг на тлі легкої хмари в",
-      "kind": "live",
-      "category": "minimal",
-      "credit": "Роман Рябенко · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:%D0%A1%D0%BD%D1%96%D0%B3_%D0%BD%D0%B0_%D1%82%D0%BB%D1%96_%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D1%97_%D1%85%D0%BC%D0%B0%D1%80%D0%B8_%D0%B2_%D0%BD%D0%B5%D0%B1%D1%96.webm",
-      "license": "CC0",
-      "tags": [
-        "sky",
-        "city"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-99904612-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-99904612.mp4"
-    },
-    {
-      "id": "commons-187111304",
-      "title": "Kitgen 8.'",
-      "kind": "still",
-      "category": "abstract",
-      "credit": "Fons Heijnsbroek · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Kitgen_8.%27_-_small_abstract_watercolor_painting_with_brush_stroke_textures_%26_layers,_painted_by_Dutch_artist_Fons_Heijnsbroek_in_2008_-_abstract_gouache._Free_art_image_in_high_TIFF_resolution.tif",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-187111304-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-187111304.jpg"
-    },
-    {
-      "id": "commons-130471537",
-      "title": "The example of the modern architecture",
-      "kind": "still",
-      "category": "architecture",
-      "credit": "Robert von Oliva (naruciakk) · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:The_example_of_the_modern_architecture_in_Seevorstadt,_Dresden.jpg",
-      "license": "CC0",
-      "tags": [
-        "city"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-130471537-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-130471537.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909242-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909242-hq-20261104.jpg"
     },
     {
       "id": "commons-39647101",
@@ -831,55 +575,8 @@
       "credit": "Jebulon · Wikimedia Commons",
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Landscape_mountains_Phaistos.jpg",
       "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-39647101-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-39647101.jpg"
-    },
-    {
-      "id": "commons-57095400",
-      "title": "Pacifica Pier Waves",
-      "kind": "still",
-      "category": "ocean",
-      "credit": "ekaterina vladinova · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Pacifica_Pier_Waves_(33057409320).jpg",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095400-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095400.jpg"
-    },
-    {
-      "id": "commons-114909255",
-      "title": "Forest in Rheinsberg with mist",
-      "kind": "still",
-      "category": "nature",
-      "credit": "Leonhard Lenz · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Forest_in_Rheinsberg_with_mist_2021-10-30_07.jpg",
-      "license": "CC0",
-      "tags": [
-        "botanical"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909255-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909255.jpg"
-    },
-    {
-      "id": "commons-142473247",
-      "title": "Aerial sand arm 8k (Rob Tuytel",
-      "kind": "still",
-      "category": "minimal",
-      "credit": "Rob Tuytel ( https://polyhaven.com/all?a=Rob%20Tuytel / https://web.archive.org/web/20230910162834/https://polyhaven.com · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Aerial_sand_arm_8k_(Rob_Tuytel_via_Poly_Haven).png",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142473247-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142473247.jpg"
-    },
-    {
-      "id": "commons-175629420",
-      "title": "Hymn on Matter 5.",
-      "kind": "still",
-      "category": "abstract",
-      "credit": "Fons Heijnsbroek · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:%27Hymn_on_Matter_5.%27_-_acrylic_painting_with_abstract_color_strokes_on_paper_-_abstract_art,_made_in_2007_by_Dutch_painter_Fons_Heijnsbroek.tif",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-175629420-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-175629420.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-39647101-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-39647101-hq-20261104.jpg"
     },
     {
       "id": "commons-117495415",
@@ -892,8 +589,268 @@
       "tags": [
         "city"
       ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-117495415-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-117495415.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-117495415-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-117495415-hq-20261104.jpg"
+    },
+    {
+      "id": "commons-195762641",
+      "title": "Elephant Leaf",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Paul The Writer · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Elephant_Cocoyam_Leaf.jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195762641-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195762641.jpg"
+    },
+    {
+      "id": "commons-61651715",
+      "title": "Leaflight",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Rodion Kutsaev frostroomhead · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Translucent_leaf_in_macro_1_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61651715-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61651715.jpg"
+    },
+    {
+      "id": "commons-61646981",
+      "title": "Rain Diamonds",
+      "kind": "still",
+      "category": "nature",
+      "credit": "dan carlson dan_carl5on · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Dew_on_a_dark_green_leaf_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61646981-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61646981.jpg"
+    },
+    {
+      "id": "commons-61651999",
+      "title": "Pearl Dew",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Jono Hislop jonohislop · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Dew_on_a_thin_leaf_in_macro_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61651999-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61651999.jpg"
+    },
+    {
+      "id": "commons-76012832",
+      "title": "Blue Pond",
+      "kind": "still",
+      "category": "nature",
+      "credit": "AndyLeungHK · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Shirogane_Blue_Pond,_Biei,_Hokkaido_Japan.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-76012832-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-76012832.jpg"
+    },
+    {
+      "id": "commons-62168175",
+      "title": "Quiet Reflection",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Matthew Henry matthewhenry · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Foggy_Water_Reflections_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62168175-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62168175.jpg"
+    },
+    {
+      "id": "commons-61897908",
+      "title": "Alpine Mirror",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Gabriel Santiago gabrielssantiago · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mountain_reflection_in_a_lake_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61897908-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61897908.jpg"
+    },
+    {
+      "id": "commons-199853967",
+      "title": "Still Valley",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Afham Hamsyari · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mountain_Lake_Landscape.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-199853967-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-199853967.jpg"
+    },
+    {
+      "id": "commons-116550293",
+      "title": "Dusk at the Lake",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Burst · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mountain_Lake_Dusk.jpg",
+      "license": "CC0",
+      "tags": [
+        "sky",
+        "night"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-116550293-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-116550293.jpg"
+    },
+    {
+      "id": "commons-61699929",
+      "title": "Cloud Mirror",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Ales Krivec aleskrivec · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Clouds_mirrored_in_a_mountain_lake_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "sky"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61699929-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61699929.jpg"
+    },
+    {
+      "id": "commons-62223788",
+      "title": "Glacial Shore",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Erik Ringsmuth erikringsmuth · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Half-frozen_mountain_lake_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62223788-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62223788.jpg"
+    },
+    {
+      "id": "commons-62249242",
+      "title": "Golden Reflection",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Braxton Stuntz braxton · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Ripples_on_a_mountain_lake_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62249242-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62249242.jpg"
+    },
+    {
+      "id": "commons-169009875",
+      "title": "Velvet Cascade",
+      "kind": "live",
+      "category": "nature",
+      "credit": "Shyamal · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Athirapally_falls.webm",
+      "license": "CC0",
+      "tags": [],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-169009875-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-169009875.mp4"
+    },
+    {
+      "id": "commons-88840249",
+      "title": "Forest Falls",
+      "kind": "live",
+      "category": "nature",
+      "credit": "Leonhard Lenz · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Geroldsauer_Wasserfall_2020-03-13.webm",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-88840249-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-88840249.mp4"
+    },
+    {
+      "id": "commons-86283273",
+      "title": "Curtain of Water",
+      "kind": "live",
+      "category": "nature",
+      "credit": "Alistair Findlay · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Guide_Falls.webm",
+      "license": "CC0",
+      "tags": [],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-86283273-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-86283273.mp4"
+    },
+    {
+      "id": "commons-197917900",
+      "title": "Boreal Glow",
+      "kind": "live",
+      "category": "abstract",
+      "credit": "NASA's Scientific Visualization Studio - Amentum Services, Inc./Mike Toillion · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Alaskan_Aurora_Time_Lapse_(SVS15077).webm",
+      "license": "Public domain",
+      "tags": [
+        "sky",
+        "night"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-197917900-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-197917900.mp4"
+    },
+    {
+      "id": "commons-202410686",
+      "title": "Nebula Drift",
+      "kind": "live",
+      "category": "abstract",
+      "credit": "Producer: Gregory Bacon (STScI), Frank Summers (STScI); Visualization: Leah Hustak (STScI), Christian Nieves (STScI), Al · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Multiwavelength_Flight_into_the_Cat%E2%80%99s_Head_Nebula_(1505697).webm",
+      "license": "Public domain",
+      "tags": [
+        "night"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-202410686-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-202410686.mp4"
+    },
+    {
+      "id": "commons-151568289",
+      "title": "Lunar Passage",
+      "kind": "live",
+      "category": "minimal",
+      "credit": "NASA's Scientific Visualization Studio - USRA/Ernie Wright, Advocates in Manpower Management, Inc./David Ladd, ADNET Sys · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:From_the_Moon_to_the_Earth_(SVS5039_-_moon_to_earth_2160p30).webm",
+      "license": "Public domain",
+      "tags": [
+        "night"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-151568289-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-151568289.mp4"
+    },
+    {
+      "id": "commons-173367376",
+      "title": "Galaxy in Motion",
+      "kind": "live",
+      "category": "abstract",
+      "credit": "NASA's Scientific Visualization Studio - eMITS/Adriana Manrique Gutierrez, eMITS/Jonathan North, eMITS/Joy Ng · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:The_Heliosphere_Within_The_Milky_Way_Galaxy_(SVS20406_-_MilkyWayZoom_30fps_proRes_wStars).webm",
+      "license": "Public domain",
+      "tags": [
+        "night"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376.mp4"
+    },
+    {
+      "id": "nasa-carina-stars",
+      "title": "Cosmic Cliffs",
+      "kind": "still",
+      "category": "abstract",
+      "credit": "NASA's Scientific Visualization Studio - Global Science and Technology, Inc./Mark Malanoski · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Carina_Nebula_Webb_vs_Hubble_(SVS31197_-_carina_nebula_2160p30_h265).webm",
+      "license": "Public domain",
+      "tags": [
+        "night"
+      ],
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/nasa-carina-stars.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/nasa-carina-stars-thumb.jpg"
     }
   ]
 }

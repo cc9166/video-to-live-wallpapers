@@ -15,3 +15,9 @@ Approval requires all of the following:
 Automated checks enforce review state, duplicate IDs, license, source dimensions, output URLs, file presence and catalog schema. Visual taste still requires human review; an automated score cannot guarantee a restrained editorial style.
 
 For each publishing batch, inspect the thumbnail, the full-screen crop and the resulting Live Photo on an iPhone before expanding the approved queue.
+
+## 2026-11-04 refresh
+
+Use original-resolution downloads for stills; source metadata alone is insufficient. Validate decoded pixels before cropping and never enlarge a thumbnail. New stills target 1440×2560 where source pixels allow, otherwise 1080×1920. New thumbnails are 720×1280. Motion uses silent 1080×1920 H.264 at CRF 19, with all 90 frames decoded and motion sampled before approval. Catalog validation rejects repeated resource URLs, byte-identical media and repeated Commons media sources. Visually similar waves and forest sequences require manual selection.
+
+See `quality-review-20261104.json` for additions, full-resolution replacements and withdrawn near-duplicates/weak compositions. Existing files remain in Git so old cached URLs do not break.

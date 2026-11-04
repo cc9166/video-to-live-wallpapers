@@ -27,7 +27,7 @@
     "pageid": 195180144,
     "kind": "still",
     "category": "abstract",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 62127338,
@@ -63,7 +63,7 @@
     "pageid": 188553099,
     "kind": "still",
     "category": "abstract",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 62299191,
@@ -117,7 +117,7 @@
     "pageid": 57095399,
     "kind": "still",
     "category": "ocean",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 114909228,
@@ -159,25 +159,25 @@
     "pageid": 114909236,
     "kind": "still",
     "category": "nature",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 142125272,
     "kind": "still",
     "category": "minimal",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 195797104,
     "kind": "still",
     "category": "abstract",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 199801247,
     "kind": "still",
     "category": "architecture",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 117648128,
@@ -189,7 +189,7 @@
     "pageid": 57095371,
     "kind": "still",
     "category": "ocean",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 114909242,
@@ -201,19 +201,19 @@
     "pageid": 142125297,
     "kind": "still",
     "category": "minimal",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 187111304,
     "kind": "still",
     "category": "abstract",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 130471537,
     "kind": "still",
     "category": "architecture",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 39647101,
@@ -225,25 +225,25 @@
     "pageid": 57095400,
     "kind": "still",
     "category": "ocean",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 114909255,
     "kind": "still",
     "category": "nature",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 142473247,
     "kind": "still",
     "category": "minimal",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 175629420,
     "kind": "still",
     "category": "abstract",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 117495415,
@@ -255,7 +255,7 @@
     "pageid": 153682461,
     "kind": "live",
     "category": "nature",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 92787549,
@@ -339,7 +339,7 @@
     "pageid": 99904645,
     "kind": "live",
     "category": "minimal",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 92787576,
@@ -357,13 +357,13 @@
     "pageid": 172848000,
     "kind": "live",
     "category": "nature",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 99904612,
     "kind": "live",
     "category": "minimal",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 76099376,
@@ -381,7 +381,7 @@
     "pageid": 148299483,
     "kind": "live",
     "category": "minimal",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 189602483,
@@ -393,12 +393,126 @@
     "pageid": 201559635,
     "kind": "live",
     "category": "abstract",
-    "review": "approved"
+    "review": "rejected-visual"
   },
   {
     "pageid": 65079366,
     "kind": "live",
     "category": "minimal",
+    "review": "approved"
+  },
+  {
+    "pageid": 195762641,
+    "kind": "still",
+    "category": "nature",
+    "review": "approved"
+  },
+  {
+    "pageid": 61651715,
+    "kind": "still",
+    "category": "nature",
+    "review": "approved"
+  },
+  {
+    "pageid": 61646981,
+    "kind": "still",
+    "category": "nature",
+    "review": "approved"
+  },
+  {
+    "pageid": 61651999,
+    "kind": "still",
+    "category": "nature",
+    "review": "approved"
+  },
+  {
+    "pageid": 76012832,
+    "kind": "still",
+    "category": "nature",
+    "review": "approved"
+  },
+  {
+    "pageid": 62168175,
+    "kind": "still",
+    "category": "nature",
+    "review": "approved"
+  },
+  {
+    "pageid": 61897908,
+    "kind": "still",
+    "category": "mountains",
+    "review": "approved"
+  },
+  {
+    "pageid": 199853967,
+    "kind": "still",
+    "category": "mountains",
+    "review": "approved"
+  },
+  {
+    "pageid": 116550293,
+    "kind": "still",
+    "category": "mountains",
+    "review": "approved"
+  },
+  {
+    "pageid": 61699929,
+    "kind": "still",
+    "category": "mountains",
+    "review": "approved"
+  },
+  {
+    "pageid": 62223788,
+    "kind": "still",
+    "category": "mountains",
+    "review": "approved"
+  },
+  {
+    "pageid": 62249242,
+    "kind": "still",
+    "category": "mountains",
+    "review": "approved"
+  },
+  {
+    "pageid": 169009875,
+    "kind": "live",
+    "category": "nature",
+    "review": "approved"
+  },
+  {
+    "pageid": 88840249,
+    "kind": "live",
+    "category": "nature",
+    "review": "approved"
+  },
+  {
+    "pageid": 86283273,
+    "kind": "live",
+    "category": "nature",
+    "review": "approved"
+  },
+  {
+    "pageid": 197917900,
+    "kind": "live",
+    "category": "abstract",
+    "review": "approved"
+  },
+  {
+    "pageid": 202410686,
+    "kind": "live",
+    "category": "abstract",
+    "review": "approved"
+  },
+  {
+    "pageid": 151568289,
+    "kind": "live",
+    "category": "minimal",
+    "review": "approved"
+  },
+  {
+    "pageid": 173367376,
+    "kind": "live",
+    "category": "abstract",
     "review": "approved"
   }
 ]
