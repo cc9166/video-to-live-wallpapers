@@ -156,12 +156,16 @@ def add_still(root: Path, candidate: dict, category: str, base: str) -> dict:
             image = ImageOps.exif_transpose(image).convert("RGB")
             if image.width < 1080 or image.height < 1920:
                 raise ValueError("decoded original would require upscaling")
-            output = (1440, 2560) if image.width >= 1440 and image.height >= 2560 else (1080, 1920)
+            source_pixels = (image.width, image.height)
+            output = next(size for size in [(2160, 3840), (1440, 2560), (1080, 1920)]
+                          if image.width >= size[0] and image.height >= size[1])
             wallpaper = ImageOps.fit(image, output, method=Image.Resampling.LANCZOS, centering=(0.5, 0.5))
-            wallpaper.save(root / image_name, "JPEG", quality=89, optimize=True, progressive=True)
+            wallpaper.save(root / image_name, "JPEG", quality=94, optimize=True, progressive=True)
             wallpaper.resize((720, 1280), Image.Resampling.LANCZOS).save(root / thumb_name, "JPEG", quality=88, optimize=True, progressive=True)
     item = common_item(candidate, category, "still", asset_id)
     item.update(thumbnail=f"{base}/{thumb_name}", resource=f"{base}/{image_name}")
+    item["quality"] = {"sourceWidth": source_pixels[0], "sourceHeight": source_pixels[1],
+                       "outputWidth": output[0], "outputHeight": output[1], "upscaled": False}
     return item
 
 
@@ -172,6 +176,16 @@ def add_video(root: Path, candidate: dict, category: str, base: str) -> dict:
     with tempfile.TemporaryDirectory() as temporary:
         source = Path(temporary) / "source"
         download(candidate["info"]["url"], source)
+        probe = json.loads(subprocess.check_output([
+            "ffprobe", "-v", "error", "-select_streams", "v:0", "-show_streams", "-of", "json", str(source),
+        ], text=True, timeout=60))["streams"][0]
+        width, height = probe["width"], probe["height"]
+        rotation = next((entry.get("rotation", 0) for entry in probe.get("side_data_list", [])
+                         if "rotation" in entry), probe.get("tags", {}).get("rotate", 0))
+        if round(float(rotation)) % 180:
+            width, height = height, width
+        if width < OUTPUT_WIDTH or height < OUTPUT_HEIGHT:
+            raise ValueError(f"decoded source {width}x{height} would require portrait upscaling")
         video_filter = "scale=1080:1920:force_original_aspect_ratio=increase,crop=1080:1920,setsar=1"
         subprocess.run([
             "ffmpeg", "-hide_banner", "-loglevel", "error", "-y", "-ss", "0", "-i", str(source), "-t", "3",
@@ -184,6 +198,8 @@ def add_video(root: Path, candidate: dict, category: str, base: str) -> dict:
         ], check=True, timeout=60)
     item = common_item(candidate, category, "live", asset_id)
     item.update(thumbnail=f"{base}/{thumb_name}", resource=f"{base}/{video_name}")
+    item["quality"] = {"sourceWidth": width, "sourceHeight": height,
+                       "outputWidth": OUTPUT_WIDTH, "outputHeight": OUTPUT_HEIGHT, "upscaled": False}
     return item
 
 

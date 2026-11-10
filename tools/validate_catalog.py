@@ -20,6 +20,12 @@ for item in catalog["items"]:
     assert len(item.get("tags", [])) == len(set(item.get("tags", [])))
     assert set(item.get("tags", [])) <= tags
     assert item["license"] and item["credit"]
+    if "quality" in item:
+        quality = item["quality"]
+        assert quality["upscaled"] is False, f"upscaled source: {item['id']}"
+        assert quality["sourceWidth"] >= quality["outputWidth"] >= 1080
+        assert quality["sourceHeight"] >= quality["outputHeight"] >= 1920
+        assert quality["outputWidth"] * 16 == quality["outputHeight"] * 9
     assert urlparse(item["thumbnail"]).scheme == "https"
     assert urlparse(item["resource"]).scheme == "https"
     assert urlparse(item["sourceURL"]).scheme == "https"

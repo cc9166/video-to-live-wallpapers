@@ -261,7 +261,8 @@
     "pageid": 92787549,
     "kind": "live",
     "category": "ocean",
-    "review": "approved"
+    "review": "rejected-upscale",
+    "reason": "2026-11-10: original is only landscape 1920x1080; portrait output requires enlargement."
   },
   {
     "pageid": 158702810,
@@ -514,5 +515,53 @@
     "kind": "live",
     "category": "abstract",
     "review": "approved"
+  },
+  {
+    "pageid": 61758638,
+    "kind": "still",
+    "category": "nature",
+    "review": "approved",
+    "reviewedAt": "2026-11-10",
+    "reason": "Original decoded, native portrait crop, full-size center detail and composition inspected; no source/resource duplicates."
+  },
+  {
+    "pageid": 58803059,
+    "kind": "still",
+    "category": "nature",
+    "review": "approved",
+    "reviewedAt": "2026-11-10",
+    "reason": "Original decoded, native portrait crop, full-size center detail and composition inspected; no source/resource duplicates."
+  },
+  {
+    "pageid": 62322631,
+    "kind": "still",
+    "category": "ocean",
+    "review": "approved",
+    "reviewedAt": "2026-11-10",
+    "reason": "Original decoded, native portrait crop, full-size center detail and composition inspected; no source/resource duplicates."
+  },
+  {
+    "pageid": 61810011,
+    "kind": "still",
+    "category": "nature",
+    "review": "approved",
+    "reviewedAt": "2026-11-10",
+    "reason": "Original decoded, native portrait crop, full-size center detail and composition inspected; no source/resource duplicates."
+  },
+  {
+    "pageid": 131897774,
+    "kind": "still",
+    "category": "nature",
+    "review": "approved",
+    "reviewedAt": "2026-11-10",
+    "reason": "Original decoded, native portrait crop, full-size center detail and composition inspected; no source/resource duplicates."
+  },
+  {
+    "pageid": 61810123,
+    "kind": "still",
+    "category": "nature",
+    "review": "approved",
+    "reviewedAt": "2026-11-10",
+    "reason": "Original decoded, native portrait crop, full-size center detail and composition inspected; no source/resource duplicates."
   }
 ]

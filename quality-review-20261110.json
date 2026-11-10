@@ -1,0 +1,41 @@
+{
+  "reviewedAt": "2026-11-10T05:14:49Z",
+  "removedFromCatalog": [
+    {
+      "id": "commons-92787549",
+      "title": "File:Ocean surface waves 02.ogv",
+      "width": 1920,
+      "height": 1080,
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Ocean_surface_waves_02.ogv",
+      "bytes": 61631351,
+      "nativePortraitHD": false,
+      "license": "CC0"
+    },
+    {
+      "id": "cc0-canyon-clouds",
+      "title": "File:Timelapse of Clouds over Bellevue Canyon.webm",
+      "width": 1920,
+      "height": 1080,
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Timelapse_of_Clouds_over_Bellevue_Canyon.webm",
+      "bytes": 98375840,
+      "nativePortraitHD": false,
+      "license": "CC0"
+    }
+  ],
+  "addedStills": [
+    "commons-61758638",
+    "commons-58803059",
+    "commons-62322631",
+    "commons-61810011",
+    "commons-131897774",
+    "commons-61810123"
+  ],
+  "keptLegacyFiles": true,
+  "motionPolicy": "No newly discovered motion passed the visual gate. Do not auto-publish dim, cluttered, shaky or upscaled clips.",
+  "counts": {
+    "before": 69,
+    "after": 73,
+    "stills": 60,
+    "live": 13
+  }
+}

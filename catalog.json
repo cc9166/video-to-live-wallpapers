@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04T02:28:50Z",
+  "updatedAt": "2026-11-10T05:14:49Z",
   "items": [
     {
       "id": "snowy-creek",
@@ -347,17 +347,6 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-51441017-hq-20261104.jpg"
     },
     {
-      "id": "commons-92787549",
-      "title": "Silver Waves",
-      "kind": "live",
-      "category": "ocean",
-      "credit": "Mostafameraji · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Ocean_surface_waves_02.ogv",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92787549-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92787549.mp4"
-    },
-    {
       "id": "commons-62127338",
       "title": "Silver Angles",
       "kind": "still",
@@ -439,20 +428,6 @@
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62598933-hq-20261104-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62598933-hq-20261104.jpg"
-    },
-    {
-      "id": "cc0-canyon-clouds",
-      "title": "Canyon Sky",
-      "kind": "live",
-      "category": "nature",
-      "credit": "Extemporalist · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Timelapse_of_Clouds_over_Bellevue_Canyon.webm",
-      "license": "CC0 1.0",
-      "tags": [
-        "sky"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/canyon-clouds-cc0-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/canyon-clouds-cc0.mp4"
     },
     {
       "id": "commons-195045529",
@@ -851,6 +826,129 @@
       ],
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/nasa-carina-stars.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/nasa-carina-stars-thumb.jpg"
+    },
+    {
+      "id": "commons-61758638",
+      "title": "Forest mist",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Chris Barbalis cbarbalis · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Forest_mist_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61758638-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61758638.jpg",
+      "quality": {
+        "sourceWidth": 6000,
+        "sourceHeight": 4000,
+        "outputWidth": 2160,
+        "outputHeight": 3840,
+        "upscaled": false
+      }
+    },
+    {
+      "id": "commons-58803059",
+      "title": "Mist over a dark forest",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Paul Gilmore paulgilmore_ · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mist_over_a_dark_forest_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-58803059-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-58803059.jpg",
+      "quality": {
+        "sourceWidth": 5472,
+        "sourceHeight": 3080,
+        "outputWidth": 1440,
+        "outputHeight": 2560,
+        "upscaled": false
+      }
+    },
+    {
+      "id": "commons-62322631",
+      "title": "Ocean coast at beach",
+      "kind": "still",
+      "category": "ocean",
+      "credit": "Tim Mossholder timmossholder · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Ocean_coast_at_beach_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62322631-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62322631.jpg",
+      "quality": {
+        "sourceWidth": 6016,
+        "sourceHeight": 4016,
+        "outputWidth": 2160,
+        "outputHeight": 3840,
+        "upscaled": false
+      }
+    },
+    {
+      "id": "commons-61810011",
+      "title": "Violet flower in macro",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Dominik Scythe drscythe · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Violet_flower_in_macro_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810011-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810011.jpg",
+      "quality": {
+        "sourceWidth": 4928,
+        "sourceHeight": 3004,
+        "outputWidth": 1440,
+        "outputHeight": 2560,
+        "upscaled": false
+      }
+    },
+    {
+      "id": "commons-131897774",
+      "title": "Macro flower wallpaper",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Free Nature Stock · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Macro_flower_wallpaper.jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-131897774-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-131897774.jpg",
+      "quality": {
+        "sourceWidth": 5472,
+        "sourceHeight": 3648,
+        "outputWidth": 1440,
+        "outputHeight": 2560,
+        "upscaled": false
+      }
+    },
+    {
+      "id": "commons-61810123",
+      "title": "Sunshine flower in macro",
+      "kind": "still",
+      "category": "nature",
+      "credit": "paul morris oldskool2016 · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Sunshine_flower_in_macro_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810123-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810123.jpg",
+      "quality": {
+        "sourceWidth": 7360,
+        "sourceHeight": 4912,
+        "outputWidth": 2160,
+        "outputHeight": 3840,
+        "upscaled": false
+      }
     }
   ]
 }
