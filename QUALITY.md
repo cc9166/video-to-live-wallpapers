@@ -31,3 +31,5 @@ Added six manually inspected stills in misty forest, coastline and floral macro 
 The publisher now verifies the decoded video dimensions with ffprobe, including rotation, before cropping. New records retain source and output pixel dimensions, and catalog validation rejects enlargement. More pixels do not establish sharpness, attractive composition or iOS dynamic lock-screen compatibility; those still require visual and device checks.
 
 See `quality-review-20261110.json` for the batch record. Dynamic exports inside the app are tested separately; no 4K Live Wallpaper compatibility is claimed by this catalog update.
+
+Two existing approved motion scenes now use new `-hd` resource URLs: Alaskan Aurora (1440×2560, 3 seconds) and Cat's Head Nebula (2160×3840, 3 seconds). These are silent source clips for preview and conversion, not ready-to-set 4K paired Live Photos. The tested app path uses native-pixel still posters and 1080×1920 motion video. Old 1080 resource files stay online, while new URLs avoid reusing stale cached copies. Both new clips were fully decoded and visually checked before publication.

@@ -31,11 +31,29 @@
     "commons-61810123"
   ],
   "keptLegacyFiles": true,
-  "motionPolicy": "No newly discovered motion passed the visual gate. Do not auto-publish dim, cluttered, shaky or upscaled clips.",
+  "motionPolicy": "No new unreviewed scenes added. Two existing approved scenes were re-exported from original high-resolution sources; old URLs remain available. The app renders a 1080 video with a native-pixel HD poster.",
   "counts": {
     "before": 69,
     "after": 73,
     "stills": 60,
     "live": 13
-  }
+  },
+  "upgradedMotionSources": [
+    {
+      "id": "commons-197917900",
+      "previousResource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-197917900.mp4",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-197917900-hd.mp4",
+      "width": 1440,
+      "height": 2560,
+      "silent": true
+    },
+    {
+      "id": "commons-202410686",
+      "previousResource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-202410686.mp4",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-202410686-hd.mp4",
+      "width": 2160,
+      "height": 3840,
+      "silent": true
+    }
+  ]
 }

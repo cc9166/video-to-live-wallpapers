@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T05:14:49Z",
+  "updatedAt": "2026-11-10T06:35:57Z",
   "items": [
     {
       "id": "snowy-creek",
@@ -768,8 +768,15 @@
         "sky",
         "night"
       ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-197917900-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-197917900.mp4"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-197917900-hd-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-197917900-hd.mp4",
+      "quality": {
+        "sourceWidth": 4240,
+        "sourceHeight": 2832,
+        "outputWidth": 1440,
+        "outputHeight": 2560,
+        "upscaled": false
+      }
     },
     {
       "id": "commons-202410686",
@@ -782,8 +789,15 @@
       "tags": [
         "night"
       ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-202410686-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-202410686.mp4"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-202410686-hd-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-202410686-hd.mp4",
+      "quality": {
+        "sourceWidth": 2160,
+        "sourceHeight": 3840,
+        "outputWidth": 2160,
+        "outputHeight": 3840,
+        "upscaled": false
+      }
     },
     {
       "id": "commons-151568289",
