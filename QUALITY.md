@@ -10,7 +10,7 @@ Approval requires all of the following:
 - No people, faces, brands, logos, watermarks, signs, advertisements or private information.
 - No obvious compression artifacts, clipped highlights, muddy shadows or accidental blur.
 - Still images must remain readable as a 480×853 thumbnail.
-- Motion clips must be calm, loop-friendly and free of sudden cuts, camera shake, flashing or distracting audio.
+- Motion clips must have visible subject movement in the first two seconds, a stable camera and a clean composition. Avoid sudden cuts, shake, strobing and distracting audio. A large file or a high pixel count does not establish a lively lock-screen result.
 
 Automated checks enforce review state, duplicate IDs, license, source dimensions, output URLs, file presence and catalog schema. Visual taste still requires human review; an automated score cannot guarantee a restrained editorial style.
 
@@ -33,3 +33,5 @@ The publisher now verifies the decoded video dimensions with ffprobe, including 
 See `quality-review-20261110.json` for the batch record. Dynamic exports inside the app are tested separately; no 4K Live Wallpaper compatibility is claimed by this catalog update.
 
 Two existing approved motion scenes now use new `-hd` resource URLs: Alaskan Aurora (1440×2560, 3 seconds) and Cat's Head Nebula (2160×3840, 3 seconds). These are silent source clips for preview and conversion, not ready-to-set 4K paired Live Photos. The tested app path uses native-pixel still posters and 1080×1920 motion video. Old 1080 resource files stay online, while new URLs avoid reusing stale cached copies. Both new clips were fully decoded and visually checked before publication.
+
+Discovery may now include pets, flowers opening, bubbles and fireworks. Previously, blanket title exclusions for `cat`, `dog`, `bird` and `firework` excluded these requested themes (and could match parts of unrelated words). This changes the discovery pool only: the scheduled publisher continues to consume reviewed, approved queue entries. Reject low light, cluttered rooms, watermarks and camera shake even if the subject is cute or the source is large.

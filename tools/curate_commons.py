@@ -31,14 +31,14 @@ STILL_SEARCHES = {
     "architecture": ("modern architecture", "building facade", "architectural detail"),
 }
 VIDEO_SEARCHES = {
-    "ocean": ("ocean waves", "sea water"),
-    "nature": ("waterfall", "rain", "clouds timelapse", "river", "snow"),
-    "abstract": ("water slow motion", "light abstract"),
+    "ocean": ("breaking waves", "sea water"),
+    "nature": ("cat playing", "dog playing", "flower opening", "waterfall", "rain"),
+    "abstract": ("water slow motion", "fireworks", "soap bubbles", "solar eruption"),
 }
 DENY = {
     "person", "people", "portrait", "selfie", "woman", "women", "man ", "men ", "child", "baby",
-    "car", "train", "aircraft", "airport", "ship", "boat", "bird", "dog", "cat", "concert", "music",
-    "logo", "poster", "diagram", "map", "screenshot", "advert", "food", "chocolate", "weapon", "firework",
+    "car", "train", "aircraft", "airport", "ship", "boat", "concert", "music",
+    "logo", "poster", "diagram", "map", "screenshot", "advert", "food", "chocolate", "weapon",
 }
 TAG_TERMS = {
     "sky": {"sky", "cloud", "aurora", "sunrise", "sunset", "dawn", "dusk"},
