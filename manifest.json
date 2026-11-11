@@ -45,9 +45,14 @@
     "sha256": "ebcf09f4b1c7f8fb7553e9cd3f3f6a1891b5cc4a73e31b90b50dc69eeff8ee98"
   },
   {
+    "file": "catalog-v2.json",
+    "bytes": 5496,
+    "sha256": "8b1956bbf706b693cb2b2d92c36e057b48ee19b9fcfe808677a2a33b9b611ded"
+  },
+  {
     "file": "catalog.json",
     "bytes": 43461,
-    "sha256": "497d3cedecc38bdcd13fe4009eeef116ffe6896a01dd21465a571ac1d5e500d5"
+    "sha256": "3bc4855b0ff0a77904e871d8d8d1eba58c79f544f4753d8760b06b1d53a001ce"
   },
   {
     "file": "cloud-sea.png",
@@ -1205,6 +1210,16 @@
     "sha256": "1b4f24599a5bcdf69e016ae1dd34a7413eb448abfaa46bbf20c9f68982dddedf"
   },
   {
+    "file": "releases/abda912538b04ce7/page-001.json",
+    "bytes": 26706,
+    "sha256": "c5307066dd2f28bffe5b204497925a7ee717521a4c378ec2cc9541e94bf386ca"
+  },
+  {
+    "file": "releases/abda912538b04ce7/page-002.json",
+    "bytes": 19199,
+    "sha256": "4bfcc9ff51dcfcfa97c1fa305660cbb5202c9a5f0e130e788a6eea69027cfa62"
+  },
+  {
     "file": "salt-rose.png",
     "bytes": 2721074,
     "sha256": "e3087abd76b44dfb257b4b6addaf32cbd68c5004cccdedbff76a137eb81acb6c"
@@ -1228,6 +1243,11 @@
     "file": "snowy-creek.mp4",
     "bytes": 4335195,
     "sha256": "8b728bcd41dda2af502d66b20cf90be3b429ff0b9257e624104bbd1c86680aaf"
+  },
+  {
+    "file": "studio/db62e673199e.json",
+    "bytes": 9399,
+    "sha256": "6a54baeba5727fbd892357f89da099d88df8bdeef127fb6ac05fb917b1736ab0"
   },
   {
     "file": "tidal-blue.png",

@@ -1,0 +1,272 @@
+{
+  "version": 2,
+  "updatedAt": "2026-11-11T09:06:30Z",
+  "release": "abda912538b04ce7",
+  "total": 73,
+  "categories": [
+    {
+      "id": "mountains",
+      "name": "山野",
+      "parent": "",
+      "legacy": "mountains",
+      "order": 0,
+      "counts": {
+        "still": 17,
+        "live": 0
+      }
+    },
+    {
+      "id": "ocean",
+      "name": "海洋",
+      "parent": "",
+      "legacy": "ocean",
+      "order": 1,
+      "counts": {
+        "still": 9,
+        "live": 1
+      }
+    },
+    {
+      "id": "nature",
+      "name": "自然",
+      "parent": "",
+      "legacy": "nature",
+      "order": 2,
+      "counts": {
+        "still": 16,
+        "live": 7
+      }
+    },
+    {
+      "id": "minimal",
+      "name": "极简",
+      "parent": "",
+      "legacy": "minimal",
+      "order": 3,
+      "counts": {
+        "still": 6,
+        "live": 2
+      }
+    },
+    {
+      "id": "abstract",
+      "name": "抽象",
+      "parent": "",
+      "legacy": "abstract",
+      "order": 4,
+      "counts": {
+        "still": 4,
+        "live": 3
+      }
+    },
+    {
+      "id": "architecture",
+      "name": "建筑",
+      "parent": "",
+      "legacy": "architecture",
+      "order": 5,
+      "counts": {
+        "still": 8,
+        "live": 0
+      }
+    }
+  ],
+  "pages": [
+    {
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/abda912538b04ce7/page-001.json",
+      "count": 40,
+      "folders": [
+        "abstract",
+        "architecture",
+        "minimal",
+        "mountains",
+        "nature",
+        "ocean"
+      ],
+      "kinds": [
+        "live",
+        "still"
+      ],
+      "groups": [
+        {
+          "folder": "abstract",
+          "kind": "live",
+          "count": 3
+        },
+        {
+          "folder": "abstract",
+          "kind": "still",
+          "count": 1
+        },
+        {
+          "folder": "architecture",
+          "kind": "still",
+          "count": 3
+        },
+        {
+          "folder": "minimal",
+          "kind": "live",
+          "count": 2
+        },
+        {
+          "folder": "minimal",
+          "kind": "still",
+          "count": 1
+        },
+        {
+          "folder": "mountains",
+          "kind": "still",
+          "count": 10
+        },
+        {
+          "folder": "nature",
+          "kind": "live",
+          "count": 5
+        },
+        {
+          "folder": "nature",
+          "kind": "still",
+          "count": 12
+        },
+        {
+          "folder": "ocean",
+          "kind": "still",
+          "count": 3
+        }
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/abda912538b04ce7/page-002.json",
+      "count": 33,
+      "folders": [
+        "abstract",
+        "architecture",
+        "minimal",
+        "mountains",
+        "nature",
+        "ocean"
+      ],
+      "kinds": [
+        "live",
+        "still"
+      ],
+      "groups": [
+        {
+          "folder": "abstract",
+          "kind": "still",
+          "count": 3
+        },
+        {
+          "folder": "architecture",
+          "kind": "still",
+          "count": 5
+        },
+        {
+          "folder": "minimal",
+          "kind": "still",
+          "count": 5
+        },
+        {
+          "folder": "mountains",
+          "kind": "still",
+          "count": 7
+        },
+        {
+          "folder": "nature",
+          "kind": "live",
+          "count": 2
+        },
+        {
+          "folder": "nature",
+          "kind": "still",
+          "count": 4
+        },
+        {
+          "folder": "ocean",
+          "kind": "live",
+          "count": 1
+        },
+        {
+          "folder": "ocean",
+          "kind": "still",
+          "count": 6
+        }
+      ]
+    }
+  ],
+  "compatibilityIDs": [
+    "commons-61810123",
+    "commons-131897774",
+    "commons-61810011",
+    "commons-62322631",
+    "commons-58803059",
+    "commons-61758638",
+    "nasa-carina-stars",
+    "commons-173367376",
+    "commons-151568289",
+    "commons-202410686",
+    "commons-197917900",
+    "commons-86283273",
+    "commons-88840249",
+    "commons-169009875",
+    "commons-62249242",
+    "commons-62223788",
+    "commons-61699929",
+    "commons-116550293",
+    "commons-199853967",
+    "commons-61897908",
+    "commons-62168175",
+    "commons-76012832",
+    "commons-61651999",
+    "commons-61646981",
+    "commons-61651715",
+    "commons-195762641",
+    "commons-117495415",
+    "commons-39647101",
+    "commons-114909242",
+    "commons-117648128",
+    "commons-173590596",
+    "commons-65079366",
+    "commons-189602483",
+    "commons-57095398",
+    "commons-105789902",
+    "commons-92393982",
+    "commons-142125305",
+    "commons-195045529",
+    "commons-62598933",
+    "commons-62299191",
+    "commons-153491654",
+    "commons-62062397",
+    "commons-61898704",
+    "commons-158702810",
+    "commons-62127338",
+    "commons-51441017",
+    "commons-61852305",
+    "commons-61671723",
+    "commons-97601511",
+    "commons-184429868",
+    "commons-77587226",
+    "commons-124590623",
+    "commons-105788958",
+    "commons-201385384",
+    "commons-116423165",
+    "amber-windows",
+    "pearl-folds",
+    "shadow-arc",
+    "meadow-rain",
+    "midnight-current",
+    "glacial-silence",
+    "iridescent-flow",
+    "moonlit-water",
+    "aurora-ridge",
+    "blue-hour",
+    "salt-rose",
+    "quiet-facade",
+    "cloud-sea",
+    "forest-mist",
+    "dune-light",
+    "tidal-blue",
+    "alpine-hush",
+    "snowy-creek"
+  ]
+}
