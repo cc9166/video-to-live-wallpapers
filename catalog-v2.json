@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-11T09:12:44Z",
-  "release": "b325ca467c7d43a0",
+  "updatedAt": "2026-11-11T09:23:58Z",
+  "release": "e310f0d4106542dd",
   "total": 73,
   "categories": [
     {
@@ -28,7 +28,7 @@
     },
     {
       "id": "nature",
-      "name": "自然·实时同步",
+      "name": "自然",
       "parent": "",
       "legacy": "nature",
       "order": 2,
@@ -73,7 +73,7 @@
   ],
   "pages": [
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b325ca467c7d43a0/page-001.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/e310f0d4106542dd/page-001.json",
       "count": 40,
       "folders": [
         "abstract",
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b325ca467c7d43a0/page-002.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/e310f0d4106542dd/page-002.json",
       "count": 33,
       "folders": [
         "abstract",
