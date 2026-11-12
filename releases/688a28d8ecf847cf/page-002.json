@@ -1,0 +1,525 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "id": "commons-62249242",
+      "title": "Golden Reflection",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Braxton Stuntz braxton · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Ripples_on_a_mountain_lake_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62249242-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62249242.jpg",
+      "studioFolder": "mountains"
+    },
+    {
+      "id": "commons-62223788",
+      "title": "Glacial Shore",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Erik Ringsmuth erikringsmuth · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Half-frozen_mountain_lake_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62223788-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62223788.jpg",
+      "studioFolder": "mountains"
+    },
+    {
+      "id": "commons-61699929",
+      "title": "Cloud Mirror",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Ales Krivec aleskrivec · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Clouds_mirrored_in_a_mountain_lake_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "sky"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61699929-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61699929.jpg",
+      "studioFolder": "mountains"
+    },
+    {
+      "id": "commons-116550293",
+      "title": "Dusk at the Lake",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Burst · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mountain_Lake_Dusk.jpg",
+      "license": "CC0",
+      "tags": [
+        "sky",
+        "night"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-116550293-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-116550293.jpg",
+      "studioFolder": "mountains"
+    },
+    {
+      "id": "commons-199853967",
+      "title": "Still Valley",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Afham Hamsyari · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mountain_Lake_Landscape.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-199853967-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-199853967.jpg",
+      "studioFolder": "mountains"
+    },
+    {
+      "id": "commons-61897908",
+      "title": "Alpine Mirror",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Gabriel Santiago gabrielssantiago · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mountain_reflection_in_a_lake_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61897908-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61897908.jpg",
+      "studioFolder": "mountains"
+    },
+    {
+      "id": "commons-62168175",
+      "title": "Quiet Reflection",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Matthew Henry matthewhenry · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Foggy_Water_Reflections_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62168175-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62168175.jpg",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-76012832",
+      "title": "Blue Pond",
+      "kind": "still",
+      "category": "nature",
+      "credit": "AndyLeungHK · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Shirogane_Blue_Pond,_Biei,_Hokkaido_Japan.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-76012832-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-76012832.jpg",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-61651999",
+      "title": "Pearl Dew",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Jono Hislop jonohislop · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Dew_on_a_thin_leaf_in_macro_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61651999-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61651999.jpg",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-61646981",
+      "title": "Rain Diamonds",
+      "kind": "still",
+      "category": "nature",
+      "credit": "dan carlson dan_carl5on · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Dew_on_a_dark_green_leaf_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61646981-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61646981.jpg",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-61651715",
+      "title": "Leaflight",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Rodion Kutsaev frostroomhead · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Translucent_leaf_in_macro_1_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61651715-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61651715.jpg",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-195762641",
+      "title": "Elephant Leaf",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Paul The Writer · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Elephant_Cocoyam_Leaf.jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195762641-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195762641.jpg",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-117495415",
+      "title": "Modern architecture of university buildi",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Fons Heijnsbroek · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Modern_architecture_of_university_buildings_at_the_campus_Roeterseiland;_free_photo_Amsterdam,_Fons_Heijnsbroek_10-2021.jpg",
+      "license": "CC0",
+      "tags": [
+        "city"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-117495415-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-117495415-hq-20261104.jpg",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "commons-39647101",
+      "title": "Landscape mountains Phaistos",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Jebulon · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Landscape_mountains_Phaistos.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-39647101-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-39647101-hq-20261104.jpg",
+      "studioFolder": "mountains"
+    },
+    {
+      "id": "commons-114909242",
+      "title": "Forest in Rheinsberg with mist",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Leonhard Lenz · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Forest_in_Rheinsberg_with_mist_2021-10-30_06.jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909242-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909242-hq-20261104.jpg",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-117648128",
+      "title": "Lake Mountain Landscape",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Bonnie Moreland · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Lake_Mountain_Landscape.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-117648128-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-117648128-hq-20261104.jpg",
+      "studioFolder": "mountains"
+    },
+    {
+      "id": "commons-173590596",
+      "title": "Mt Nimrod Scenic Reserve",
+      "kind": "live",
+      "category": "nature",
+      "credit": "David Nind · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mt_Nimrod_Scenic_Reserve_-_Waterfall_on_Nimrod_Stream_(video).webm",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173590596-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173590596.mp4",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-65079366",
+      "title": "Snowfall Quiet",
+      "kind": "live",
+      "category": "minimal",
+      "credit": "Extemporalist · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Falling_Powder_overlies_melt-water_flowing_down_Hachey_Creek_in_Myra-Bellevue_Park,_British_Columbia.webm",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-65079366-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-65079366.mp4",
+      "studioFolder": "minimal"
+    },
+    {
+      "id": "commons-189602483",
+      "title": "Green Veil Falls",
+      "kind": "live",
+      "category": "nature",
+      "credit": "Kimahri88 · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Cascata_delle_Marmore_(Terni,_Italy).webm",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-189602483-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-189602483.mp4",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-57095398",
+      "title": "Shore Break",
+      "kind": "still",
+      "category": "ocean",
+      "credit": "ekaterina vladinova · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Pacifica_Pier_Waves_(32626595413).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095398-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-57095398-hq-20261104.jpg",
+      "studioFolder": "ocean"
+    },
+    {
+      "id": "commons-105789902",
+      "title": "Rose Peaks",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Unknown author Unknown author · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mountain_and_Landscape.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105789902-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105789902-hq-20261104.jpg",
+      "studioFolder": "mountains"
+    },
+    {
+      "id": "commons-92393982",
+      "title": "Glass Facade",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Shisma · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Cube_berlin.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92393982-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92393982-hq-20261104.jpg",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "commons-142125305",
+      "title": "Red Sand",
+      "kind": "still",
+      "category": "minimal",
+      "credit": "Rohit Seervi ( https://polyhaven.com/all?a=Rohit%20Seervi ) via Poly Haven · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Red_sand_diff_8k_(Rohit_Seervi_via_Poly_Haven).png",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125305-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125305.jpg",
+      "studioFolder": "minimal"
+    },
+    {
+      "id": "commons-195045529",
+      "title": "Greek Highlands",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Jevonin1 · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Scenic_landscape_of_Greek_mountains_and_lake.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195045529-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195045529-hq-20261104.jpg",
+      "studioFolder": "mountains"
+    },
+    {
+      "id": "commons-62598933",
+      "title": "Big ocean wave splash",
+      "kind": "still",
+      "category": "ocean",
+      "credit": "Riaan Myburgh movemeriaan · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Big_ocean_wave_splash_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62598933-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62598933-hq-20261104.jpg",
+      "studioFolder": "ocean"
+    },
+    {
+      "id": "commons-62299191",
+      "title": "Modern architecture",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Mihail Ribkin mihail_ribkin · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Modern_architecture_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "city"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62299191-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62299191-hq-20261104.jpg",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "commons-153491654",
+      "title": "Wetterspitzen (Stubaier Alpen)",
+      "kind": "still",
+      "category": "minimal",
+      "credit": "Jörg Braukmann · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Wetterspitzen_(Stubaier_Alpen).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153491654-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153491654-hq-20261104.jpg",
+      "studioFolder": "minimal"
+    },
+    {
+      "id": "commons-62062397",
+      "title": "Ocean and waves",
+      "kind": "still",
+      "category": "ocean",
+      "credit": "Esther Cuan esthercuan · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Ocean_and_waves_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62062397-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62062397-hq-20261104.jpg",
+      "studioFolder": "ocean"
+    },
+    {
+      "id": "commons-61898704",
+      "title": "Green Mountain Landscape",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Jasper Boer jasperboer · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Green_Mountain_Landscape_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61898704-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61898704-hq-20261104.jpg",
+      "studioFolder": "mountains"
+    },
+    {
+      "id": "commons-158702810",
+      "title": "Winter Falls",
+      "kind": "live",
+      "category": "nature",
+      "credit": "ILoveHirasawaYui · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Kegon_Falls_in_winter,_2025-1-28.webm",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-158702810-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-158702810.mp4",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-62127338",
+      "title": "Silver Angles",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Mihail Ribkin mihail_ribkin · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Angular_modern_architecture_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62127338-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62127338-hq-20261104.jpg",
+      "tags": [
+        "city"
+      ],
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "commons-51441017",
+      "title": "Winter Silence",
+      "kind": "still",
+      "category": "minimal",
+      "credit": "www.Pixel.la Free Stock Photos · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Cold-snow-landscape-nature_(23956950429).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-51441017-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-51441017-hq-20261104.jpg",
+      "studioFolder": "minimal"
+    },
+    {
+      "id": "commons-61852305",
+      "title": "Mistbound Forest",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Adam Porter adamkporter · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mist_shrouding_a_forest_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61852305-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61852305-hq-20261104.jpg",
+      "tags": [
+        "botanical"
+      ],
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-61671723",
+      "title": "Emerald Shore",
+      "kind": "still",
+      "category": "ocean",
+      "credit": "Caleb Jones gcalebjones · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Drone_view_of_ocean_waves_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61671723-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61671723-hq-20261104.jpg",
+      "studioFolder": "ocean"
+    },
+    {
+      "id": "commons-97601511",
+      "title": "Mountain Meadow",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "StockyPics · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mountain_landscape_(21827581301).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-97601511-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-97601511-hq-20261104.jpg",
+      "studioFolder": "mountains"
+    },
+    {
+      "id": "commons-184429868",
+      "title": "Pacific Sea Nettle",
+      "kind": "live",
+      "category": "ocean",
+      "credit": "Celuici · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Chrysaora_fuscescens_(Pacific_sea_nettle)_swimming.webm",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-184429868-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-184429868.mp4",
+      "studioFolder": "ocean"
+    },
+    {
+      "id": "commons-77587226",
+      "title": "Snow Landscape",
+      "kind": "still",
+      "category": "minimal",
+      "credit": "Yosa Buson · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Yosa_Buson_-_Snow_Landscape_-_1997.111_-_Cleveland_Museum_of_Art.tif",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-77587226-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-77587226-hq-20261104.jpg",
+      "studioFolder": "minimal"
+    },
+    {
+      "id": "commons-124590623",
+      "title": "Glacier Valley",
+      "kind": "still",
+      "category": "mountains",
+      "credit": "Caldwbr · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:GlacierNational.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-124590623-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-124590623-hq-20261104.jpg",
+      "studioFolder": "mountains"
+    },
+    {
+      "id": "commons-105788958",
+      "title": "Glass Geometry",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Unknown author Unknown author · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Modern_architecture_build.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105788958-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105788958-hq-20261104.jpg",
+      "tags": [
+        "city"
+      ],
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "commons-201385384",
+      "title": "Forest in Mist",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Mar Mkrtchyan · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Forest_trees_in_dense_mist.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201385384-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201385384-hq-20261104.jpg",
+      "tags": [
+        "botanical"
+      ],
+      "studioFolder": "nature"
+    }
+  ]
+}
