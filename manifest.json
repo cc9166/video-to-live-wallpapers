@@ -47,12 +47,12 @@
   {
     "file": "catalog-v2.json",
     "bytes": 7530,
-    "sha256": "44b1ea59ab31ea377810b08f3e3b8ad4df5180785baffd7bcfb38168362ed4b0"
+    "sha256": "da90aca69c177db8081dfc8f15db5ef0185fce6f33195577f328868f5437ee63"
   },
   {
     "file": "catalog.json",
     "bytes": 58593,
-    "sha256": "26cfaec99b4a26a1f61c5edffca16cd7e8b6016f6a832594b309f18f4d8167cf"
+    "sha256": "2f53926903ba261ecec6c1df5754f7ee4e521203449a45fcf11a5e33cbdc8f5a"
   },
   {
     "file": "cloud-sea.png",
@@ -1255,6 +1255,21 @@
     "sha256": "4bfcc9ff51dcfcfa97c1fa305660cbb5202c9a5f0e130e788a6eea69027cfa62"
   },
   {
+    "file": "releases/f6e942c2ec1441e9/page-001.json",
+    "bytes": 26793,
+    "sha256": "2b86942b84af7bcf484c98c206e74bf5269e5b2dd3cb0b745686fe6f16cdbde6"
+  },
+  {
+    "file": "releases/f6e942c2ec1441e9/page-002.json",
+    "bytes": 24704,
+    "sha256": "417c91c1ee320685b09324ace5053420313d971ac817d7f42018652eb3f9e6e2"
+  },
+  {
+    "file": "releases/f6e942c2ec1441e9/page-003.json",
+    "bytes": 10564,
+    "sha256": "23399338bdeec0ba0890e91a31d5777e1f38de6cac33a4274ada52fb027d55b7"
+  },
+  {
     "file": "salt-rose.png",
     "bytes": 2721074,
     "sha256": "e3087abd76b44dfb257b4b6addaf32cbd68c5004cccdedbff76a137eb81acb6c"
@@ -1542,7 +1557,7 @@
   {
     "file": "studio/db62e673199e.json",
     "bytes": 12881,
-    "sha256": "29d28d90fc777b8dcf90266f25c1ee238243c967fb54ef516b985473e8912fb3"
+    "sha256": "f7f41e740b26f5d57a0881d4f33b0e93d1656d46b75fab5ed3ba07e599179cd7"
   },
   {
     "file": "tidal-blue.png",

@@ -1,15 +1,26 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-12T06:25:56Z",
-  "release": "688a28d8ecf847cf",
+  "updatedAt": "2026-11-12T06:34:08Z",
+  "release": "f6e942c2ec1441e9",
   "total": 99,
   "categories": [
+    {
+      "id": "d421f61b2624",
+      "name": "治愈日常",
+      "parent": "",
+      "legacy": "nature",
+      "order": 0,
+      "counts": {
+        "still": 26,
+        "live": 0
+      }
+    },
     {
       "id": "mountains",
       "name": "山野",
       "parent": "",
       "legacy": "mountains",
-      "order": 0,
+      "order": 1,
       "counts": {
         "still": 17,
         "live": 0
@@ -20,7 +31,7 @@
       "name": "海洋",
       "parent": "",
       "legacy": "ocean",
-      "order": 1,
+      "order": 2,
       "counts": {
         "still": 9,
         "live": 1
@@ -31,7 +42,7 @@
       "name": "自然",
       "parent": "",
       "legacy": "nature",
-      "order": 2,
+      "order": 3,
       "counts": {
         "still": 16,
         "live": 7
@@ -42,7 +53,7 @@
       "name": "极简",
       "parent": "",
       "legacy": "minimal",
-      "order": 3,
+      "order": 4,
       "counts": {
         "still": 6,
         "live": 2
@@ -53,7 +64,7 @@
       "name": "抽象",
       "parent": "",
       "legacy": "abstract",
-      "order": 4,
+      "order": 5,
       "counts": {
         "still": 4,
         "live": 3
@@ -64,27 +75,16 @@
       "name": "建筑",
       "parent": "",
       "legacy": "architecture",
-      "order": 5,
-      "counts": {
-        "still": 8,
-        "live": 0
-      }
-    },
-    {
-      "id": "d421f61b2624",
-      "name": "治愈日常",
-      "parent": "",
-      "legacy": "nature",
       "order": 6,
       "counts": {
-        "still": 26,
+        "still": 8,
         "live": 0
       }
     }
   ],
   "pages": [
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/688a28d8ecf847cf/page-001.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/f6e942c2ec1441e9/page-001.json",
       "count": 40,
       "folders": [
         "abstract",
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/688a28d8ecf847cf/page-002.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/f6e942c2ec1441e9/page-002.json",
       "count": 40,
       "folders": [
         "architecture",
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/688a28d8ecf847cf/page-003.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/f6e942c2ec1441e9/page-003.json",
       "count": 19,
       "folders": [
         "abstract",

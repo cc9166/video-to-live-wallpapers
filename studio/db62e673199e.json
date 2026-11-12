@@ -5,6 +5,12 @@
     "name": "Video To Live",
     "folders": [
       {
+        "id": "d421f61b2624",
+        "name": "治愈日常",
+        "parent": "",
+        "legacy": "nature"
+      },
+      {
         "id": "mountains",
         "name": "山野",
         "parent": "",
@@ -39,12 +45,6 @@
         "name": "建筑",
         "parent": "",
         "legacy": "architecture"
-      },
-      {
-        "id": "d421f61b2624",
-        "name": "治愈日常",
-        "parent": "",
-        "legacy": "nature"
       }
     ],
     "mode": "legacy"
