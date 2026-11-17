@@ -3,7 +3,7 @@
   "items": [
     {
       "entryID": "9a95105a2a85408e",
-      "status": "approved",
+      "status": "published",
       "record": {
         "id": "asset-2706f5f587750ebd3a0b18f0",
         "kind": "still",
@@ -19,7 +19,9 @@
       "sha256": {
         "resource": "dbf82899c239f41e12d3a6632d438b5bede346a96796120145e7f7ad17731490",
         "thumbnail": "42b0f14c083e5ad777c01e202461cf474cdaf96ef2903e5ff3348527916ccee7"
-      }
+      },
+      "publishedAt": "2026-11-17T03:15:41Z",
+      "release": "2f4b3df9ada442b9"
     },
     {
       "entryID": "efc24d80e1464a7b",
@@ -101,5 +103,6 @@
         "thumbnail": "9064e75d1ca381496263f2e8fee91bc9a880b1ea7e5652ad62db5450a1ae8223"
       }
     }
-  ]
+  ],
+  "lastPublishedDate": "2026-11-17"
 }
