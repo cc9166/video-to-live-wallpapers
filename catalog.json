@@ -1,28 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T07:33:30Z",
+  "updatedAt": "2026-11-17T07:35:22Z",
   "items": [
-    {
-      "id": "commons-61810123",
-      "title": "Sunshine flower in macro",
-      "kind": "still",
-      "category": "nature",
-      "credit": "paul morris oldskool2016 · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Sunshine_flower_in_macro_(Unsplash).jpg",
-      "license": "CC0",
-      "tags": [
-        "botanical"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810123-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810123.jpg",
-      "quality": {
-        "sourceWidth": 7360,
-        "sourceHeight": 4912,
-        "outputWidth": 2160,
-        "outputHeight": 3840,
-        "upscaled": false
-      }
-    },
     {
       "id": "snowy-creek",
       "title": "Snowy Creek",
@@ -1771,6 +1750,17 @@
       "credit": "用户提供",
       "license": "用户上传素材；来源小红书；未核验第三方公开许可",
       "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-2706f5f587750ebd3a0b18f0",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-dbf82899c239f41e12d3a6632d438b5b.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-42b0f14c083e5ad777c01e202461cf47.jpg",
+      "title": "IMG_1771",
+      "category": "minimal",
+      "credit": "用户提供",
+      "license": "用户提供并确认发布",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
     },
     {
       "id": "asset-025ac210ad82c45d9c4922e7",
