@@ -5,6 +5,12 @@
     "name": "Video To Live",
     "folders": [
       {
+        "id": "e09cedfffb70",
+        "name": "精选动态",
+        "parent": "",
+        "legacy": "nature"
+      },
+      {
         "id": "d421f61b2624",
         "name": "治愈日常",
         "parent": "",
@@ -50,6 +56,36 @@
     "mode": "legacy"
   },
   "entries": [
+    {
+      "id": "ec03cf63fde546fa",
+      "folder": "d421f61b2624",
+      "catalogID": "asset-410769095cfae5339aaa79a0"
+    },
+    {
+      "id": "3c7921e3d74846cb",
+      "folder": "d421f61b2624",
+      "catalogID": "asset-974795e5666a596b1450beb8"
+    },
+    {
+      "id": "cd5fbd461f7b4d4c",
+      "folder": "d421f61b2624",
+      "catalogID": "asset-6dbe8388b460d911539837db"
+    },
+    {
+      "id": "376a38027dc24d1b",
+      "folder": "d421f61b2624",
+      "catalogID": "asset-b9f9d79025e2e920e7bb4e29"
+    },
+    {
+      "id": "ac6bfdb715c64fe9",
+      "folder": "d421f61b2624",
+      "catalogID": "asset-2b85dfdfadbedf71cb2e3c4a"
+    },
+    {
+      "id": "2c6efa861dfd4a76",
+      "folder": "d421f61b2624",
+      "catalogID": "asset-025ac210ad82c45d9c4922e7"
+    },
     {
       "id": "4f61f10110f64612",
       "folder": "d421f61b2624",

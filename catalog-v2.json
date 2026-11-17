@@ -1,17 +1,28 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-12T07:12:47Z",
-  "release": "4c7b1020b4504d89",
-  "total": 215,
+  "updatedAt": "2026-11-17T02:06:33Z",
+  "release": "7762394bf4be4c9e",
+  "total": 221,
   "categories": [
+    {
+      "id": "e09cedfffb70",
+      "name": "精选动态",
+      "parent": "",
+      "legacy": "nature",
+      "order": 0,
+      "counts": {
+        "still": 0,
+        "live": 0
+      }
+    },
     {
       "id": "d421f61b2624",
       "name": "治愈日常",
       "parent": "",
       "legacy": "nature",
-      "order": 0,
+      "order": 1,
       "counts": {
-        "still": 142,
+        "still": 148,
         "live": 0
       }
     },
@@ -20,7 +31,7 @@
       "name": "山野",
       "parent": "",
       "legacy": "mountains",
-      "order": 1,
+      "order": 2,
       "counts": {
         "still": 17,
         "live": 0
@@ -31,7 +42,7 @@
       "name": "海洋",
       "parent": "",
       "legacy": "ocean",
-      "order": 2,
+      "order": 3,
       "counts": {
         "still": 9,
         "live": 1
@@ -42,7 +53,7 @@
       "name": "自然",
       "parent": "",
       "legacy": "nature",
-      "order": 3,
+      "order": 4,
       "counts": {
         "still": 16,
         "live": 7
@@ -53,7 +64,7 @@
       "name": "极简",
       "parent": "",
       "legacy": "minimal",
-      "order": 4,
+      "order": 5,
       "counts": {
         "still": 6,
         "live": 2
@@ -64,7 +75,7 @@
       "name": "抽象",
       "parent": "",
       "legacy": "abstract",
-      "order": 5,
+      "order": 6,
       "counts": {
         "still": 4,
         "live": 3
@@ -75,7 +86,7 @@
       "name": "建筑",
       "parent": "",
       "legacy": "architecture",
-      "order": 6,
+      "order": 7,
       "counts": {
         "still": 8,
         "live": 0
@@ -84,7 +95,7 @@
   ],
   "pages": [
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/4c7b1020b4504d89/page-001.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/7762394bf4be4c9e/page-001.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -101,7 +112,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/4c7b1020b4504d89/page-002.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/7762394bf4be4c9e/page-002.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -118,7 +129,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/4c7b1020b4504d89/page-003.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/7762394bf4be4c9e/page-003.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -135,7 +146,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/4c7b1020b4504d89/page-004.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/7762394bf4be4c9e/page-004.json",
       "count": 40,
       "folders": [
         "abstract",
@@ -157,7 +168,7 @@
         {
           "folder": "d421f61b2624",
           "kind": "still",
-          "count": 22
+          "count": 28
         },
         {
           "folder": "minimal",
@@ -167,27 +178,17 @@
         {
           "folder": "nature",
           "kind": "live",
-          "count": 7
-        },
-        {
-          "folder": "nature",
-          "kind": "still",
-          "count": 4
+          "count": 6
         },
         {
           "folder": "ocean",
           "kind": "live",
           "count": 1
-        },
-        {
-          "folder": "ocean",
-          "kind": "still",
-          "count": 1
         }
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/4c7b1020b4504d89/page-005.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/7762394bf4be4c9e/page-005.json",
       "count": 40,
       "folders": [
         "abstract",
@@ -198,18 +199,19 @@
         "ocean"
       ],
       "kinds": [
+        "live",
         "still"
       ],
       "groups": [
         {
           "folder": "abstract",
           "kind": "still",
-          "count": 2
+          "count": 1
         },
         {
           "folder": "architecture",
           "kind": "still",
-          "count": 6
+          "count": 4
         },
         {
           "folder": "minimal",
@@ -219,23 +221,28 @@
         {
           "folder": "mountains",
           "kind": "still",
-          "count": 14
+          "count": 12
+        },
+        {
+          "folder": "nature",
+          "kind": "live",
+          "count": 1
         },
         {
           "folder": "nature",
           "kind": "still",
-          "count": 10
+          "count": 13
         },
         {
           "folder": "ocean",
           "kind": "still",
-          "count": 4
+          "count": 5
         }
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/4c7b1020b4504d89/page-006.json",
-      "count": 15,
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/7762394bf4be4c9e/page-006.json",
+      "count": 21,
       "folders": [
         "abstract",
         "architecture",
@@ -251,12 +258,12 @@
         {
           "folder": "abstract",
           "kind": "still",
-          "count": 2
+          "count": 3
         },
         {
           "folder": "architecture",
           "kind": "still",
-          "count": 2
+          "count": 4
         },
         {
           "folder": "minimal",
@@ -266,12 +273,12 @@
         {
           "folder": "mountains",
           "kind": "still",
-          "count": 3
+          "count": 5
         },
         {
           "folder": "nature",
           "kind": "still",
-          "count": 2
+          "count": 3
         },
         {
           "folder": "ocean",
@@ -282,6 +289,12 @@
     }
   ],
   "compatibilityIDs": [
+    "asset-410769095cfae5339aaa79a0",
+    "asset-974795e5666a596b1450beb8",
+    "asset-6dbe8388b460d911539837db",
+    "asset-b9f9d79025e2e920e7bb4e29",
+    "asset-2b85dfdfadbedf71cb2e3c4a",
+    "asset-025ac210ad82c45d9c4922e7",
     "asset-68e20ac7620dacd32ce08280",
     "asset-9a2b6c6065ee19b2c67b4490",
     "asset-aa8b6659384f68b498ce27d5",

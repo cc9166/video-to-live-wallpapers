@@ -1,83 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12T07:12:47Z",
+  "updatedAt": "2026-11-17T02:06:33Z",
   "items": [
-    {
-      "id": "pearl-folds",
-      "title": "Pearl Folds",
-      "kind": "still",
-      "category": "abstract",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/pearl-folds-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/pearl-folds.png",
-      "credit": "Video To Live · AI-created artwork",
-      "sourceURL": "https://ccong.xyz/video-to-live/",
-      "license": "Included wallpaper"
-    },
-    {
-      "id": "amber-windows",
-      "title": "Amber Windows",
-      "kind": "still",
-      "category": "architecture",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/amber-windows-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/amber-windows.png",
-      "credit": "Video To Live · AI-created artwork",
-      "sourceURL": "https://ccong.xyz/video-to-live/",
-      "license": "Included wallpaper",
-      "tags": [
-        "city",
-        "night"
-      ]
-    },
-    {
-      "id": "commons-116423165",
-      "title": "Alpine Window",
-      "kind": "still",
-      "category": "mountains",
-      "credit": "Unknown @ AvoPix.com · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mountain_Glacier_Landscape_(from_AvoPix).jpg",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-116423165-hq-20261104-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-116423165-hq-20261104.jpg"
-    },
-    {
-      "id": "commons-201385384",
-      "title": "Forest in Mist",
-      "kind": "still",
-      "category": "nature",
-      "credit": "Mar Mkrtchyan · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Forest_trees_in_dense_mist.jpg",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201385384-hq-20261104-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201385384-hq-20261104.jpg",
-      "tags": [
-        "botanical"
-      ]
-    },
-    {
-      "id": "commons-105788958",
-      "title": "Glass Geometry",
-      "kind": "still",
-      "category": "architecture",
-      "credit": "Unknown author Unknown author · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Modern_architecture_build.jpg",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105788958-hq-20261104-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105788958-hq-20261104.jpg",
-      "tags": [
-        "city"
-      ]
-    },
-    {
-      "id": "commons-124590623",
-      "title": "Glacier Valley",
-      "kind": "still",
-      "category": "mountains",
-      "credit": "Caldwbr · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:GlacierNational.jpg",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-124590623-hq-20261104-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-124590623-hq-20261104.jpg"
-    },
     {
       "id": "commons-77587226",
       "title": "Snow Landscape",
@@ -2337,6 +2261,72 @@
       "credit": "用户提供",
       "license": "用户上传素材；来源小红书；未核验第三方公开许可",
       "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-025ac210ad82c45d9c4922e7",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bdd0c74bc6645fe5d8ceca6f9293adeb.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-3b17de03baeb5a16cb325b6e451bdef9.jpg",
+      "title": "微信原图 008",
+      "category": "nature",
+      "credit": "美图堡（发布账号）",
+      "license": "来源文章标注图源网络；用户确认使用",
+      "sourceURL": "https://mp.weixin.qq.com/s/TdC57rd5BLKqegZxPMe6BQ"
+    },
+    {
+      "id": "asset-2b85dfdfadbedf71cb2e3c4a",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bed92151ad8d1807941bc18573438bc5.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f9eccc10fd5d68fa07115eaafe4cee9f.jpg",
+      "title": "微信原图 007",
+      "category": "nature",
+      "credit": "美图堡（发布账号）",
+      "license": "来源文章标注图源网络；用户确认使用",
+      "sourceURL": "https://mp.weixin.qq.com/s/TdC57rd5BLKqegZxPMe6BQ"
+    },
+    {
+      "id": "asset-b9f9d79025e2e920e7bb4e29",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-deb73a38692c322e6fc218c382cb429e.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-5224369c88a3753e254eeb20813f4b8d.jpg",
+      "title": "微信原图 006",
+      "category": "nature",
+      "credit": "美图堡（发布账号）",
+      "license": "来源文章标注图源网络；用户确认使用",
+      "sourceURL": "https://mp.weixin.qq.com/s/TdC57rd5BLKqegZxPMe6BQ"
+    },
+    {
+      "id": "asset-6dbe8388b460d911539837db",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-4f02632198f832ce313f4775353053f2.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-7fc1e8a27113b796e45e34a95ef8b869.jpg",
+      "title": "微信原图 005",
+      "category": "nature",
+      "credit": "美图堡（发布账号）",
+      "license": "来源文章标注图源网络；用户确认使用",
+      "sourceURL": "https://mp.weixin.qq.com/s/TdC57rd5BLKqegZxPMe6BQ"
+    },
+    {
+      "id": "asset-974795e5666a596b1450beb8",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b11ffdde70758070d2fe8404109039d8.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-dca89f787cc37f77b197506c13e11126.jpg",
+      "title": "微信原图 003",
+      "category": "nature",
+      "credit": "美图堡（发布账号）",
+      "license": "来源文章标注图源网络；用户确认使用",
+      "sourceURL": "https://mp.weixin.qq.com/s/TdC57rd5BLKqegZxPMe6BQ"
+    },
+    {
+      "id": "asset-410769095cfae5339aaa79a0",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-50f996f6e098a361553543b342e9a325.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-be5129475f177608a9d1cab31fabdd38.jpg",
+      "title": "微信原图 001",
+      "category": "nature",
+      "credit": "美图堡（发布账号）",
+      "license": "来源文章标注图源网络；用户确认使用",
+      "sourceURL": "https://mp.weixin.qq.com/s/TdC57rd5BLKqegZxPMe6BQ"
     }
   ]
 }
