@@ -47,12 +47,12 @@
   {
     "file": "catalog-v2.json",
     "bytes": 15114,
-    "sha256": "e4f7a72a59e76d54ca24792cc23444ad33ee47b30fd057fa5123518c55a6f95d"
+    "sha256": "7f5811086aedce355146e8346fc54d56e31acaa2b15f85a17e6e051a0b2a41e5"
   },
   {
     "file": "catalog.json",
-    "bytes": 120309,
-    "sha256": "71b7ea2eba39bfdc238731e98839f9a19310dc7169e19ddac8762c15c0741607"
+    "bytes": 120314,
+    "sha256": "077d519bf13d0d9cac388dfc4caeb337d9c985b80aaf2b259727ce25aba4907c"
   },
   {
     "file": "cloud-sea.png",
@@ -1433,6 +1433,41 @@
     "file": "releases/f6e942c2ec1441e9/page-003.json",
     "bytes": 10564,
     "sha256": "23399338bdeec0ba0890e91a31d5777e1f38de6cac33a4274ada52fb027d55b7"
+  },
+  {
+    "file": "releases/ffce7ea3bd0d4f34/page-001.json",
+    "bytes": 27206,
+    "sha256": "8d32cf680957b9bee377f21ecc5f0e02536177ada253ce067d43012dbd1be220"
+  },
+  {
+    "file": "releases/ffce7ea3bd0d4f34/page-002.json",
+    "bytes": 24862,
+    "sha256": "f02996732781f0fcccde0fb435a8ddbdca71363e865f211122539af817584b8d"
+  },
+  {
+    "file": "releases/ffce7ea3bd0d4f34/page-003.json",
+    "bytes": 24836,
+    "sha256": "77392340ec57f85409f463670b9d65c3909481aae0754bdffc88a27f5f1253ae"
+  },
+  {
+    "file": "releases/ffce7ea3bd0d4f34/page-004.json",
+    "bytes": 24836,
+    "sha256": "b026b9a9d5edcb443a72f1821b7898ae25d53335a9747e26f63eb5feae56e0d5"
+  },
+  {
+    "file": "releases/ffce7ea3bd0d4f34/page-005.json",
+    "bytes": 26181,
+    "sha256": "50bbb249ec05ab376e7bae6b40e28dfaac008263e9147cb145a24832bbdb0b54"
+  },
+  {
+    "file": "releases/ffce7ea3bd0d4f34/page-006.json",
+    "bytes": 25433,
+    "sha256": "6ab2f68cbc07eb7a6ef8e81bdf8868842372415a55c8c60a02bd701b16b635a4"
+  },
+  {
+    "file": "releases/ffce7ea3bd0d4f34/page-007.json",
+    "bytes": 9359,
+    "sha256": "de9655c2141b77f5672a127076656605c85ad0611135c37fd28ca4d51235a362"
   },
   {
     "file": "salt-rose.png",

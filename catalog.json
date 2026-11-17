@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T02:23:40Z",
+  "updatedAt": "2026-11-17T02:25:57Z",
   "items": [
     {
       "id": "commons-61810011",
@@ -248,9 +248,9 @@
       "pairedPhoto": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f2a1875126a2ff439e6fa2b57fd0299b.heic",
       "title": "晶莹花朵",
       "category": "nature",
-      "credit": "用户提供",
-      "license": "用户要求发布；实况照片与视频已配对",
-      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+      "credit": "MyScreen（获取平台）",
+      "license": "通过 MyScreen 免费下载；原作者和再分发许可尚未核实",
+      "sourceURL": "https://binarywolf.io/"
     },
     {
       "id": "asset-e449a2bcbcd039ed2131370f",
