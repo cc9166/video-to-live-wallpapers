@@ -1,63 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T02:13:29Z",
+  "updatedAt": "2026-11-17T02:22:15Z",
   "items": [
-    {
-      "id": "nasa-carina-stars",
-      "title": "Cosmic Cliffs",
-      "kind": "still",
-      "category": "abstract",
-      "credit": "NASA's Scientific Visualization Studio - Global Science and Technology, Inc./Mark Malanoski · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Carina_Nebula_Webb_vs_Hubble_(SVS31197_-_carina_nebula_2160p30_h265).webm",
-      "license": "Public domain",
-      "tags": [
-        "night"
-      ],
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/nasa-carina-stars.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/nasa-carina-stars-thumb.jpg"
-    },
-    {
-      "id": "commons-61758638",
-      "title": "Forest mist",
-      "kind": "still",
-      "category": "nature",
-      "credit": "Chris Barbalis cbarbalis · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Forest_mist_(Unsplash).jpg",
-      "license": "CC0",
-      "tags": [
-        "botanical"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61758638-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61758638.jpg",
-      "quality": {
-        "sourceWidth": 6000,
-        "sourceHeight": 4000,
-        "outputWidth": 2160,
-        "outputHeight": 3840,
-        "upscaled": false
-      }
-    },
-    {
-      "id": "commons-58803059",
-      "title": "Mist over a dark forest",
-      "kind": "still",
-      "category": "nature",
-      "credit": "Paul Gilmore paulgilmore_ · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mist_over_a_dark_forest_(Unsplash).jpg",
-      "license": "CC0",
-      "tags": [
-        "botanical"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-58803059-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-58803059.jpg",
-      "quality": {
-        "sourceWidth": 5472,
-        "sourceHeight": 3080,
-        "outputWidth": 1440,
-        "outputHeight": 2560,
-        "upscaled": false
-      }
-    },
     {
       "id": "commons-62322631",
       "title": "Ocean coast at beach",
@@ -2293,6 +2237,39 @@
       "credit": "美图堡（发布账号）",
       "license": "来源文章标注图源网络；用户确认使用",
       "sourceURL": "https://mp.weixin.qq.com/s?__biz=MzI1NTYxMzk5OQ==&mid=2247486450&idx=1&sn=427e7fc5b838f59e718ea9a3d14ec2b3&chksm=eb1f86eb69c3f9b1b0f02daac0119281d511af25339f78dc91edb32f94d9a28306cd032e59ea&scene=126&sessionid=0&clicktime=1794881359&enterid=1794881359"
+    },
+    {
+      "id": "asset-022fd7ae80edf17887e685c2",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-3a02aa5d1534f583a2bbf215fe0c5c52.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-ac462951e308a1bcb3d0ee4f30aecb99.jpg",
+      "title": "snow-user-05",
+      "category": "mountains",
+      "credit": "用户提供",
+      "license": "用户提供并要求发布",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-ae65698abdf460e6deae635b",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-5017949f77e811255f1f40892a8a1494.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-fbff4e7d85d3489abcadbcf5aaceb283.jpg",
+      "title": "snow-user-04",
+      "category": "mountains",
+      "credit": "用户提供",
+      "license": "用户提供并要求发布",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-b52cf68fd0d6525f9a517848",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-9732108e4f6443ea37b3a6c4841017c6.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-4b0df64f0fcac8ae506b9b9e82c18d4d.jpg",
+      "title": "snow-user-02",
+      "category": "mountains",
+      "credit": "用户提供",
+      "license": "用户提供并要求发布",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
     }
   ]
 }
