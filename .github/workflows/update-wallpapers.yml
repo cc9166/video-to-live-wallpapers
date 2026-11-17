@@ -1,20 +1,9 @@
-name: Update wallpaper collection
+name: Publish one reviewed wallpaper
 
 on:
   schedule:
-    - cron: "23 3 * * *"
+    - cron: '23 3 * * *'
   workflow_dispatch:
-    inputs:
-      still_count:
-        description: Still wallpapers to publish in this run
-        required: true
-        default: 4
-        type: number
-      video_count:
-        description: Live wallpapers to publish in this run
-        required: true
-        default: 2
-        type: number
 
 permissions:
   contents: write
@@ -24,40 +13,24 @@ concurrency:
   cancel-in-progress: false
 
 jobs:
-  curate:
+  publish:
     runs-on: ubuntu-24.04
-    timeout-minutes: 30
+    timeout-minutes: 15
     steps:
       - uses: actions/checkout@v5
-      - uses: actions/setup-python@v7
+      - uses: actions/setup-python@v5
         with:
-          python-version: "3.12"
-          cache: pip
-      - name: Install media tools
+          python-version: '3.12'
+      - name: Publish one reviewed wallpaper into both catalog versions
+        run: python tools/release_daily.py .
+      - name: Commit and publish
         run: |
-          if ! command -v ffmpeg >/dev/null 2>&1; then
-            sudo apt-get update -qq
-            sudo apt-get install -y ffmpeg
-          fi
-          ffmpeg -version | head -1
-          python -m pip install -r tools/requirements.txt
-      - name: Validate reviewed queue
-        run: python tools/validate_queue.py
-      - name: Add the daily CC0 batch
-        env:
-          STILL_COUNT: ${{ github.event_name == 'workflow_dispatch' && inputs.still_count || 4 }}
-          VIDEO_COUNT: ${{ github.event_name == 'workflow_dispatch' && inputs.video_count || 2 }}
-        run: python tools/curate_commons.py --still-count "$STILL_COUNT" --video-count "$VIDEO_COUNT" --max-stills 120 --max-videos 40
-      - name: Validate catalog
-        run: python tools/validate_catalog.py
-      - name: Commit published media and catalog
-        run: |
-          if git diff --quiet && [ -z "$(git status --porcelain --untracked-files=normal)" ]; then
-            echo "No eligible new media found."
+          if git diff --quiet && [ -z "$(git ls-files --others --exclude-standard releases/)" ]; then
+            echo 'No change needed today.'
             exit 0
           fi
-          git config user.name "video-to-live-curator[bot]"
-          git config user.email "video-to-live-curator[bot]@users.noreply.github.com"
-          git add catalog.json manifest.json '*.jpg' '*.mp4'
-          git commit -m "content: add daily CC0 wallpapers"
+          git config user.name 'video-to-live-curator[bot]'
+          git config user.email 'video-to-live-curator[bot]@users.noreply.github.com'
+          git add catalog.json catalog-v2.json manifest.json studio/db62e673199e.json daily-reserve/queue.json releases/
+          git commit -m 'content: publish one reviewed daily wallpaper'
           git push
