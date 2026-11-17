@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-17T02:06:33Z",
-  "release": "7762394bf4be4c9e",
-  "total": 221,
+  "updatedAt": "2026-11-17T02:13:29Z",
+  "release": "b3fbc5758fa04233",
+  "total": 253,
   "categories": [
     {
       "id": "e09cedfffb70",
@@ -22,7 +22,7 @@
       "legacy": "nature",
       "order": 1,
       "counts": {
-        "still": 148,
+        "still": 180,
         "live": 0
       }
     },
@@ -95,7 +95,7 @@
   ],
   "pages": [
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/7762394bf4be4c9e/page-001.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b3fbc5758fa04233/page-001.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -112,7 +112,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/7762394bf4be4c9e/page-002.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b3fbc5758fa04233/page-002.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -129,7 +129,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/7762394bf4be4c9e/page-003.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b3fbc5758fa04233/page-003.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -146,7 +146,24 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/7762394bf4be4c9e/page-004.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b3fbc5758fa04233/page-004.json",
+      "count": 40,
+      "folders": [
+        "d421f61b2624"
+      ],
+      "kinds": [
+        "still"
+      ],
+      "groups": [
+        {
+          "folder": "d421f61b2624",
+          "kind": "still",
+          "count": 40
+        }
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b3fbc5758fa04233/page-005.json",
       "count": 40,
       "folders": [
         "abstract",
@@ -166,9 +183,14 @@
           "count": 3
         },
         {
+          "folder": "abstract",
+          "kind": "still",
+          "count": 1
+        },
+        {
           "folder": "d421f61b2624",
           "kind": "still",
-          "count": 28
+          "count": 20
         },
         {
           "folder": "minimal",
@@ -178,17 +200,27 @@
         {
           "folder": "nature",
           "kind": "live",
-          "count": 6
+          "count": 7
+        },
+        {
+          "folder": "nature",
+          "kind": "still",
+          "count": 5
         },
         {
           "folder": "ocean",
           "kind": "live",
           "count": 1
+        },
+        {
+          "folder": "ocean",
+          "kind": "still",
+          "count": 1
         }
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/7762394bf4be4c9e/page-005.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b3fbc5758fa04233/page-006.json",
       "count": 40,
       "folders": [
         "abstract",
@@ -199,7 +231,6 @@
         "ocean"
       ],
       "kinds": [
-        "live",
         "still"
       ],
       "groups": [
@@ -211,7 +242,7 @@
         {
           "folder": "architecture",
           "kind": "still",
-          "count": 4
+          "count": 7
         },
         {
           "folder": "minimal",
@@ -221,28 +252,23 @@
         {
           "folder": "mountains",
           "kind": "still",
-          "count": 12
-        },
-        {
-          "folder": "nature",
-          "kind": "live",
-          "count": 1
+          "count": 14
         },
         {
           "folder": "nature",
           "kind": "still",
-          "count": 13
+          "count": 10
         },
         {
           "folder": "ocean",
           "kind": "still",
-          "count": 5
+          "count": 4
         }
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/7762394bf4be4c9e/page-006.json",
-      "count": 21,
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b3fbc5758fa04233/page-007.json",
+      "count": 13,
       "folders": [
         "abstract",
         "architecture",
@@ -258,12 +284,12 @@
         {
           "folder": "abstract",
           "kind": "still",
-          "count": 3
+          "count": 2
         },
         {
           "folder": "architecture",
           "kind": "still",
-          "count": 4
+          "count": 1
         },
         {
           "folder": "minimal",
@@ -273,12 +299,12 @@
         {
           "folder": "mountains",
           "kind": "still",
-          "count": 5
+          "count": 3
         },
         {
           "folder": "nature",
           "kind": "still",
-          "count": 3
+          "count": 1
         },
         {
           "folder": "ocean",
@@ -289,6 +315,38 @@
     }
   ],
   "compatibilityIDs": [
+    "asset-1b4a75a23c65dcd67be7c967",
+    "asset-07e07273109c35c731a64d01",
+    "asset-7d90345ba70bc62f34562eb2",
+    "asset-2c4e8f050b08d1b0e28a0e69",
+    "asset-cc25452ab32ca86b9f2fca84",
+    "asset-584dc851811476243dfde92a",
+    "asset-4789da037f98f8b0d4020869",
+    "asset-f1926e7ee17172075b48f8d9",
+    "asset-18f6f41bd430373365b74760",
+    "asset-a5b68340836b41c836e70f62",
+    "asset-65b3e00ac27cfe937e4539be",
+    "asset-15db162829a57b617abf2400",
+    "asset-b9146139192835a81262191d",
+    "asset-6302c87c0222927a3fca5270",
+    "asset-b5a84e02ded64823c3d74d9b",
+    "asset-fb8c7ea0bc5865a80feb4410",
+    "asset-9a838abb37efc564e1617deb",
+    "asset-44666587bba79482c7fe8045",
+    "asset-19649d754a355f642077515b",
+    "asset-b1cdeb7c742fdfb7378d60a1",
+    "asset-015ab96c48896d46dfc29153",
+    "asset-40b287fa0a9bfd7ea00a1935",
+    "asset-5a98127f8d30dadc662d5010",
+    "asset-10d2a431640cd2f186fa406c",
+    "asset-443773d81d6aad9af4fbc1cc",
+    "asset-6ec3241c3d03314caf170f35",
+    "asset-f0163a469555b7377a903b3c",
+    "asset-cfb9942a6769b84d784b4c3b",
+    "asset-053e54de118cd47227d31fd3",
+    "asset-0e554882b8374c2e3b758cd6",
+    "asset-a5b49474c2c341ae5d5b8bb8",
+    "asset-d9f8d22d4b74816e72c8edd7",
     "asset-410769095cfae5339aaa79a0",
     "asset-974795e5666a596b1450beb8",
     "asset-6dbe8388b460d911539837db",
