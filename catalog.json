@@ -1,25 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T02:22:15Z",
+  "updatedAt": "2026-11-17T02:23:40Z",
   "items": [
-    {
-      "id": "commons-62322631",
-      "title": "Ocean coast at beach",
-      "kind": "still",
-      "category": "ocean",
-      "credit": "Tim Mossholder timmossholder · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Ocean_coast_at_beach_(Unsplash).jpg",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62322631-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62322631.jpg",
-      "quality": {
-        "sourceWidth": 6016,
-        "sourceHeight": 4016,
-        "outputWidth": 2160,
-        "outputHeight": 3840,
-        "upscaled": false
-      }
-    },
     {
       "id": "commons-61810011",
       "title": "Violet flower in macro",
@@ -257,6 +239,18 @@
       ],
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376.mp4"
+    },
+    {
+      "id": "asset-aab53764f1ec7b2562d5f449",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-aed84ebbfc67928a4a61e9cd40ae271b.mov",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6ae67a2648a45a2bd303272bf340d616.jpg",
+      "pairedPhoto": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f2a1875126a2ff439e6fa2b57fd0299b.heic",
+      "title": "晶莹花朵",
+      "category": "nature",
+      "credit": "用户提供",
+      "license": "用户要求发布；实况照片与视频已配对",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
     },
     {
       "id": "asset-e449a2bcbcd039ed2131370f",

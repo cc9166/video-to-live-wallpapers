@@ -46,13 +46,13 @@
   },
   {
     "file": "catalog-v2.json",
-    "bytes": 15046,
-    "sha256": "2046a2eb38a26e96ca160009f771fbaa4ed886b4c0ec3db64263bf150edef86b"
+    "bytes": 15114,
+    "sha256": "e4f7a72a59e76d54ca24792cc23444ad33ee47b30fd057fa5123518c55a6f95d"
   },
   {
     "file": "catalog.json",
     "bytes": 120309,
-    "sha256": "35973e284db8d5cb65949f1c791cb2b60b01e3b270d05711d82589b5701a0c71"
+    "sha256": "71b7ea2eba39bfdc238731e98839f9a19310dc7169e19ddac8762c15c0741607"
   },
   {
     "file": "cloud-sea.png",
@@ -1375,6 +1375,41 @@
     "sha256": "0c72043d0a1e1294ef085ef483f9a9e98c3c80177cb3bcbf10fcc35397c54a6d"
   },
   {
+    "file": "releases/c1c6f1470d2544df/page-001.json",
+    "bytes": 27206,
+    "sha256": "8d32cf680957b9bee377f21ecc5f0e02536177ada253ce067d43012dbd1be220"
+  },
+  {
+    "file": "releases/c1c6f1470d2544df/page-002.json",
+    "bytes": 24862,
+    "sha256": "f02996732781f0fcccde0fb435a8ddbdca71363e865f211122539af817584b8d"
+  },
+  {
+    "file": "releases/c1c6f1470d2544df/page-003.json",
+    "bytes": 24836,
+    "sha256": "77392340ec57f85409f463670b9d65c3909481aae0754bdffc88a27f5f1253ae"
+  },
+  {
+    "file": "releases/c1c6f1470d2544df/page-004.json",
+    "bytes": 24836,
+    "sha256": "b026b9a9d5edcb443a72f1821b7898ae25d53335a9747e26f63eb5feae56e0d5"
+  },
+  {
+    "file": "releases/c1c6f1470d2544df/page-005.json",
+    "bytes": 26176,
+    "sha256": "f4a4a2b74359b5f46f1ef5553a752e39cfa6c3edd256ad483858cfcabc7f89b4"
+  },
+  {
+    "file": "releases/c1c6f1470d2544df/page-006.json",
+    "bytes": 25433,
+    "sha256": "6ab2f68cbc07eb7a6ef8e81bdf8868842372415a55c8c60a02bd701b16b635a4"
+  },
+  {
+    "file": "releases/c1c6f1470d2544df/page-007.json",
+    "bytes": 9359,
+    "sha256": "de9655c2141b77f5672a127076656605c85ad0611135c37fd28ca4d51235a362"
+  },
+  {
     "file": "releases/e310f0d4106542dd/page-001.json",
     "bytes": 26706,
     "sha256": "c5307066dd2f28bffe5b204497925a7ee717521a4c378ec2cc9541e94bf386ca"
@@ -2230,6 +2265,11 @@
     "sha256": "6739ed11f6ab0b36294e3ca6d21a275a9eac6952d84d98941db17b003b9fcbca"
   },
   {
+    "file": "studio-6ae67a2648a45a2bd303272bf340d616.jpg",
+    "bytes": 79489,
+    "sha256": "6ae67a2648a45a2bd303272bf340d6169fcd26bbd87dc1b5f03723cfdfe102de"
+  },
+  {
     "file": "studio-6bcb5e101c4b6c661220ef7d09062f96.jpg",
     "bytes": 51444,
     "sha256": "6bcb5e101c4b6c661220ef7d09062f966296cf44f0a0e930857f21328802069f"
@@ -2710,6 +2750,11 @@
     "sha256": "ae6b553dc4499125718c6a688e689becfc690ee4c498c798786901514333c1c1"
   },
   {
+    "file": "studio-aed84ebbfc67928a4a61e9cd40ae271b.mov",
+    "bytes": 2516619,
+    "sha256": "aed84ebbfc67928a4a61e9cd40ae271b17d54bffc9735ccc9bd0397f2555f965"
+  },
+  {
     "file": "studio-afb2c66b20d09c31422c7b9330c31649.png",
     "bytes": 1821902,
     "sha256": "afb2c66b20d09c31422c7b9330c31649cbbc417a07fe34ea00fbbdd868bad51d"
@@ -3160,6 +3205,11 @@
     "sha256": "f2647fcad933881adca333bf805e534741783c9a3138654d189b5ad8cf593b3e"
   },
   {
+    "file": "studio-f2a1875126a2ff439e6fa2b57fd0299b.heic",
+    "bytes": 475460,
+    "sha256": "f2a1875126a2ff439e6fa2b57fd0299bad49394e84b06bd757f4ede0bd8f75e2"
+  },
+  {
     "file": "studio-f363aa86ec9be5b8464b95e96ff7c535.png",
     "bytes": 2155009,
     "sha256": "f363aa86ec9be5b8464b95e96ff7c535589595773ffb8686d1bd8c478122ad9d"
@@ -3256,8 +3306,8 @@
   },
   {
     "file": "studio/db62e673199e.json",
-    "bytes": 33253,
-    "sha256": "36c026df142c9fcfc6accd6afd4a99df8a31b6a3d2361afd40f2d4441d0b29c0"
+    "bytes": 33382,
+    "sha256": "5462e598a2054431682441a4317953be2ceef00208b2bfba68cbbc06d639fd15"
   },
   {
     "file": "tidal-blue.png",
