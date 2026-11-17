@@ -46,13 +46,13 @@
   },
   {
     "file": "catalog-v2.json",
-    "bytes": 15271,
-    "sha256": "c115f9d3593707bc5332840fc52c7e6d4d4122431bdfe37c817e99fd2bc0213d"
+    "bytes": 15436,
+    "sha256": "2c146800ec3a3766c94042a45f54ead14a2f8568d1b6c466053951465db3abe9"
   },
   {
     "file": "catalog.json",
-    "bytes": 120143,
-    "sha256": "fa1cb929d4ae955526a1822a557549d9afa067e315d9654451b25282bf3601a1"
+    "bytes": 119981,
+    "sha256": "5a412d527f4a20d51f7b8196495c5af030301cd5f65c2e4369ea9ea3d16db9e8"
   },
   {
     "file": "cloud-sea.png",
@@ -1460,6 +1460,41 @@
     "sha256": "4bfcc9ff51dcfcfa97c1fa305660cbb5202c9a5f0e130e788a6eea69027cfa62"
   },
   {
+    "file": "releases/f2ee239032a040b6/page-001.json",
+    "bytes": 27178,
+    "sha256": "24f91d84fad739aef1d627a1e5cfb4dfb2ff3686946f70c4b4c5096d64f37fd1"
+  },
+  {
+    "file": "releases/f2ee239032a040b6/page-002.json",
+    "bytes": 24914,
+    "sha256": "ea0535d7bb3456be934d856d64494659fff5f8ee40f9216dcc680db24705ac78"
+  },
+  {
+    "file": "releases/f2ee239032a040b6/page-003.json",
+    "bytes": 24836,
+    "sha256": "1f4b8e77f02476e83e95bf59dabf9e30b93b45c695275d0c921d3442af8994aa"
+  },
+  {
+    "file": "releases/f2ee239032a040b6/page-004.json",
+    "bytes": 24836,
+    "sha256": "012d94d847a1cc5588d9f6fa34a859489151eb1e4088ea30c44a12d006cfd2d5"
+  },
+  {
+    "file": "releases/f2ee239032a040b6/page-005.json",
+    "bytes": 25823,
+    "sha256": "c32212f2255274e285e1b4b6f57fb8be9952996cca4b75ac256c6cf61fecfb18"
+  },
+  {
+    "file": "releases/f2ee239032a040b6/page-006.json",
+    "bytes": 25778,
+    "sha256": "0246bfa4ba4bae89187606d6f8249b91dfbcc140cbf9431404debb390de87efa"
+  },
+  {
+    "file": "releases/f2ee239032a040b6/page-007.json",
+    "bytes": 10612,
+    "sha256": "1456fd9bed9226c7cfdc19c4d93731323bfa148174e958a76b050e6aac0572e9"
+  },
+  {
     "file": "releases/f6e942c2ec1441e9/page-001.json",
     "bytes": 26793,
     "sha256": "2b86942b84af7bcf484c98c206e74bf5269e5b2dd3cb0b745686fe6f16cdbde6"
@@ -1668,6 +1703,11 @@
     "file": "studio-0cf54df5dd078fe32b2d660eb4fef67c.jpg",
     "bytes": 93811,
     "sha256": "0cf54df5dd078fe32b2d660eb4fef67cfa2b000fefd2c64ba968212005b162d3"
+  },
+  {
+    "file": "studio-0d2832c638885e64ef139a5964fde143.mp4",
+    "bytes": 2053141,
+    "sha256": "0d2832c638885e64ef139a5964fde143d08bbd6a5b8f15387dd37ff5a1ceefc0"
   },
   {
     "file": "studio-0d71c2ac93ecf7c7fa6ed79ac0c4177c.png",
@@ -2875,6 +2915,11 @@
     "sha256": "b74e214d331fbb0cd1db35b36b4ab9bc3b66e4b0f83fb8a6acf1018249f5e5b3"
   },
   {
+    "file": "studio-b7b368342ae969090415ea313d70a537.jpg",
+    "bytes": 59940,
+    "sha256": "b7b368342ae969090415ea313d70a53772a8ebc96f722a76b69ccecbe55d9984"
+  },
+  {
     "file": "studio-b87b60d0e8b452c8b7ff506d9de5260f.jpg",
     "bytes": 29112,
     "sha256": "b87b60d0e8b452c8b7ff506d9de5260f3912dd0cbf56617b0f8a9949d6a66e34"
@@ -3033,6 +3078,11 @@
     "file": "studio-ce131ab04e3ff7a4c8a185cc329d5593.png",
     "bytes": 1743594,
     "sha256": "ce131ab04e3ff7a4c8a185cc329d5593cfdecf605e442976941314d3a8ba12bd"
+  },
+  {
+    "file": "studio-ce82e7038558a661e3f61140df6b0924.jpg",
+    "bytes": 83597,
+    "sha256": "ce82e7038558a661e3f61140df6b092474242f93910562e4b8e1b6bccc464751"
   },
   {
     "file": "studio-d0c3ee576eb6b4da3c09ac8956a7d586.jpg",
@@ -3203,6 +3253,11 @@
     "file": "studio-e8b0c7198f473f22964c884dbf03beaa.jpg",
     "bytes": 49636,
     "sha256": "e8b0c7198f473f22964c884dbf03beaa9a2c7661fa5e371ea76fc20e5efc127a"
+  },
+  {
+    "file": "studio-e910168c375845791a2a6b8f38a18eab.mp4",
+    "bytes": 4739217,
+    "sha256": "e910168c375845791a2a6b8f38a18eabc8c3dd1b70fc44958b8b8e9b66e0f73a"
   },
   {
     "file": "studio-e932e1e2f7f81601c4dc44c2ac8af453.jpg",
@@ -3391,8 +3446,8 @@
   },
   {
     "file": "studio/db62e673199e.json",
-    "bytes": 33506,
-    "sha256": "d06c19815b25e205ec748b52768b4ba9a26d8db8d64d29b09e852950d9162fe9"
+    "bytes": 34375,
+    "sha256": "85aa40027453fda6bc7ae856045d0032a3b172bb815a938f67324d6b6c011046"
   },
   {
     "file": "tidal-blue.png",

@@ -1,49 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T03:15:41Z",
+  "updatedAt": "2026-11-17T07:33:30Z",
   "items": [
-    {
-      "id": "commons-61810011",
-      "title": "Violet flower in macro",
-      "kind": "still",
-      "category": "nature",
-      "credit": "Dominik Scythe drscythe · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Violet_flower_in_macro_(Unsplash).jpg",
-      "license": "CC0",
-      "tags": [
-        "botanical"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810011-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810011.jpg",
-      "quality": {
-        "sourceWidth": 4928,
-        "sourceHeight": 3004,
-        "outputWidth": 1440,
-        "outputHeight": 2560,
-        "upscaled": false
-      }
-    },
-    {
-      "id": "commons-131897774",
-      "title": "Macro flower wallpaper",
-      "kind": "still",
-      "category": "nature",
-      "credit": "Free Nature Stock · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Macro_flower_wallpaper.jpg",
-      "license": "CC0",
-      "tags": [
-        "botanical"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-131897774-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-131897774.jpg",
-      "quality": {
-        "sourceWidth": 5472,
-        "sourceHeight": 3648,
-        "outputWidth": 1440,
-        "outputHeight": 2560,
-        "upscaled": false
-      }
-    },
     {
       "id": "commons-61810123",
       "title": "Sunshine flower in macro",
@@ -239,6 +197,18 @@
       ],
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376.mp4"
+    },
+    {
+      "id": "asset-aab53764f1ec7b2562d5f449",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-aed84ebbfc67928a4a61e9cd40ae271b.mov",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6ae67a2648a45a2bd303272bf340d616.jpg",
+      "pairedPhoto": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f2a1875126a2ff439e6fa2b57fd0299b.heic",
+      "title": "晶莹花朵",
+      "category": "nature",
+      "credit": "MyScreen（获取平台）",
+      "license": "通过 MyScreen 免费下载；原作者和再分发许可尚未核实",
+      "sourceURL": "https://binarywolf.io/"
     },
     {
       "id": "asset-e449a2bcbcd039ed2131370f",
@@ -2254,15 +2224,26 @@
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
     },
     {
-      "id": "asset-2706f5f587750ebd3a0b18f0",
-      "kind": "still",
-      "title": "IMG_1771",
-      "category": "minimal",
-      "credit": "用户提供",
-      "license": "用户提供并确认发布",
-      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-dbf82899c239f41e12d3a6632d438b5b.png",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-42b0f14c083e5ad777c01e202461cf47.jpg"
+      "id": "asset-1d6870c3729e545f60e26f3b",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0d2832c638885e64ef139a5964fde143.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-ce82e7038558a661e3f61140df6b0924.jpg",
+      "title": "海浪轻涌",
+      "category": "ocean",
+      "credit": "上传者 cc9166",
+      "license": "上传者确认可用于 App 分发；未指定公开许可",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-1c1b02326a8ec424be9da78d",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-e910168c375845791a2a6b8f38a18eab.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b7b368342ae969090415ea313d70a537.jpg",
+      "title": "花开瞬间",
+      "category": "nature",
+      "credit": "上传者 cc9166",
+      "license": "上传者确认可用于 App 分发；未指定公开许可",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
     }
   ]
 }
