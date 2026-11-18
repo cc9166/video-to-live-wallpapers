@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17T07:35:22Z",
+  "updatedAt": "2026-11-18T11:53:33Z",
   "items": [
     {
       "id": "snowy-creek",
@@ -176,18 +176,6 @@
       ],
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376.mp4"
-    },
-    {
-      "id": "asset-aab53764f1ec7b2562d5f449",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-aed84ebbfc67928a4a61e9cd40ae271b.mov",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6ae67a2648a45a2bd303272bf340d616.jpg",
-      "pairedPhoto": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f2a1875126a2ff439e6fa2b57fd0299b.heic",
-      "title": "晶莹花朵",
-      "category": "nature",
-      "credit": "MyScreen（获取平台）",
-      "license": "通过 MyScreen 免费下载；原作者和再分发许可尚未核实",
-      "sourceURL": "https://binarywolf.io/"
     },
     {
       "id": "asset-e449a2bcbcd039ed2131370f",
@@ -2234,6 +2222,17 @@
       "credit": "上传者 cc9166",
       "license": "上传者确认可用于 App 分发；未指定公开许可",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-10e978a332fb98efdfdf40b7",
+      "kind": "still",
+      "title": "IMG_1772",
+      "category": "minimal",
+      "credit": "用户提供",
+      "license": "用户提供并确认发布",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8839f440eab473cdf065e9c8f886196a.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-52d75aaf2710a7332dc47d209b0b6f16.jpg"
     }
   ]
 }
