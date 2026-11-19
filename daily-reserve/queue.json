@@ -47,7 +47,7 @@
     },
     {
       "entryID": "7df7ba08fd5548a4",
-      "status": "approved",
+      "status": "published",
       "record": {
         "id": "asset-60de3aede151fae48b198fc6",
         "kind": "still",
@@ -63,7 +63,9 @@
       "sha256": {
         "resource": "454da86114182df56d764b6d1766236e8c605b0008cc620c8621e30ebfef62d2",
         "thumbnail": "f8f8c3c8fd8eb38ddc4daa3214d04c8d1d7ba0f16b8099444c09c46cdfc2dad2"
-      }
+      },
+      "publishedAt": "2026-11-19T11:50:08Z",
+      "release": "6fd40e22b6ea49c2"
     },
     {
       "entryID": "a43647319c5c4aa9",
@@ -106,5 +108,5 @@
       }
     }
   ],
-  "lastPublishedDate": "2026-11-18"
+  "lastPublishedDate": "2026-11-19"
 }

@@ -1,18 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18T11:53:33Z",
+  "updatedAt": "2026-11-19T11:50:08Z",
   "items": [
-    {
-      "id": "snowy-creek",
-      "title": "Snowy Creek",
-      "kind": "live",
-      "category": "nature",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/snowy-creek.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/snowy-creek.mp4",
-      "credit": "CubanMojitoCrisis69 · 3-second excerpt, transcoded from the original.",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Sahalie_Falls_during_Winter_jm1101.webm",
-      "license": "CC0 1.0"
-    },
     {
       "id": "commons-184429868",
       "title": "Pacific Sea Nettle",
@@ -2233,6 +2222,17 @@
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8839f440eab473cdf065e9c8f886196a.png",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-52d75aaf2710a7332dc47d209b0b6f16.jpg"
+    },
+    {
+      "id": "asset-60de3aede151fae48b198fc6",
+      "kind": "still",
+      "title": "IMG_1774",
+      "category": "minimal",
+      "credit": "用户提供",
+      "license": "用户提供并确认发布",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-454da86114182df56d764b6d1766236e.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f8f8c3c8fd8eb38ddc4daa3214d04c8d.jpg"
     }
   ]
 }
