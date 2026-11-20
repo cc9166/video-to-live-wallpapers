@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T02:17:30Z",
+  "updatedAt": "2026-11-20T11:50:41Z",
   "items": [
     {
       "id": "commons-61810011",
@@ -180,18 +180,6 @@
       ],
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376.mp4"
-    },
-    {
-      "id": "asset-aab53764f1ec7b2562d5f449",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-aed84ebbfc67928a4a61e9cd40ae271b.mov",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6ae67a2648a45a2bd303272bf340d616.jpg",
-      "pairedPhoto": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f2a1875126a2ff439e6fa2b57fd0299b.heic",
-      "title": "晶莹花朵",
-      "category": "nature",
-      "credit": "MyScreen（获取平台）",
-      "license": "通过 MyScreen 免费下载；原作者和再分发许可尚未核实",
-      "sourceURL": "https://binarywolf.io/"
     },
     {
       "id": "asset-e449a2bcbcd039ed2131370f",
@@ -2260,6 +2248,17 @@
       "credit": "上传者 cc9166",
       "license": "上传者确认可用于 App 分发；未指定公开许可",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-fd7eef0bbb7afc691846a55a",
+      "kind": "still",
+      "title": "IMG_1776",
+      "category": "nature",
+      "credit": "用户提供",
+      "license": "用户提供并确认发布",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0c91b5e3fccc3930c10e527a1a04e715.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c3f0087c40ae3bc70a12e1f69b4e1dab.jpg"
     }
   ]
 }

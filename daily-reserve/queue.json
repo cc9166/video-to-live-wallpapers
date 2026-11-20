@@ -69,7 +69,7 @@
     },
     {
       "entryID": "a43647319c5c4aa9",
-      "status": "approved",
+      "status": "published",
       "record": {
         "id": "asset-fd7eef0bbb7afc691846a55a",
         "kind": "still",
@@ -85,7 +85,9 @@
       "sha256": {
         "resource": "0c91b5e3fccc3930c10e527a1a04e715f8a397e29bfc3ee6ef971aede70ad805",
         "thumbnail": "c3f0087c40ae3bc70a12e1f69b4e1dab0a0c8d2d67d6f58adc5e0a98b1876ed4"
-      }
+      },
+      "publishedAt": "2026-11-20T11:50:41Z",
+      "release": "a3967e36785146fe"
     },
     {
       "entryID": "11a35d3edbcf4107",
@@ -108,5 +110,5 @@
       }
     }
   ],
-  "lastPublishedDate": "2026-11-19"
+  "lastPublishedDate": "2026-11-20"
 }
