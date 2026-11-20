@@ -1,7 +1,70 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T11:50:08Z",
+  "updatedAt": "2026-11-20T02:17:30Z",
   "items": [
+    {
+      "id": "commons-61810011",
+      "title": "Violet flower in macro",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Dominik Scythe drscythe · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Violet_flower_in_macro_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810011-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810011.jpg",
+      "quality": {
+        "sourceWidth": 4928,
+        "sourceHeight": 3004,
+        "outputWidth": 1440,
+        "outputHeight": 2560,
+        "upscaled": false
+      }
+    },
+    {
+      "id": "commons-131897774",
+      "title": "Macro flower wallpaper",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Free Nature Stock · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Macro_flower_wallpaper.jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-131897774-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-131897774.jpg",
+      "quality": {
+        "sourceWidth": 5472,
+        "sourceHeight": 3648,
+        "outputWidth": 1440,
+        "outputHeight": 2560,
+        "upscaled": false
+      }
+    },
+    {
+      "id": "commons-61810123",
+      "title": "Sunshine flower in macro",
+      "kind": "still",
+      "category": "nature",
+      "credit": "paul morris oldskool2016 · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Sunshine_flower_in_macro_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810123-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810123.jpg",
+      "quality": {
+        "sourceWidth": 7360,
+        "sourceHeight": 4912,
+        "outputWidth": 2160,
+        "outputHeight": 3840,
+        "upscaled": false
+      }
+    },
     {
       "id": "commons-184429868",
       "title": "Pacific Sea Nettle",
@@ -12,17 +75,6 @@
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-184429868-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-184429868.mp4"
-    },
-    {
-      "id": "commons-158702810",
-      "title": "Winter Falls",
-      "kind": "live",
-      "category": "nature",
-      "credit": "ILoveHirasawaYui · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Kegon_Falls_in_winter,_2025-1-28.webm",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-158702810-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-158702810.mp4"
     },
     {
       "id": "commons-189602483",
@@ -47,17 +99,6 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-65079366.mp4"
     },
     {
-      "id": "commons-173590596",
-      "title": "Mt Nimrod Scenic Reserve",
-      "kind": "live",
-      "category": "nature",
-      "credit": "David Nind · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mt_Nimrod_Scenic_Reserve_-_Waterfall_on_Nimrod_Stream_(video).webm",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173590596-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173590596.mp4"
-    },
-    {
       "id": "commons-169009875",
       "title": "Velvet Cascade",
       "kind": "live",
@@ -68,32 +109,6 @@
       "tags": [],
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-169009875-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-169009875.mp4"
-    },
-    {
-      "id": "commons-88840249",
-      "title": "Forest Falls",
-      "kind": "live",
-      "category": "nature",
-      "credit": "Leonhard Lenz · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Geroldsauer_Wasserfall_2020-03-13.webm",
-      "license": "CC0",
-      "tags": [
-        "botanical"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-88840249-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-88840249.mp4"
-    },
-    {
-      "id": "commons-86283273",
-      "title": "Curtain of Water",
-      "kind": "live",
-      "category": "nature",
-      "credit": "Alistair Findlay · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Guide_Falls.webm",
-      "license": "CC0",
-      "tags": [],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-86283273-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-86283273.mp4"
     },
     {
       "id": "commons-197917900",
@@ -165,6 +180,18 @@
       ],
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376-thumb.jpg",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376.mp4"
+    },
+    {
+      "id": "asset-aab53764f1ec7b2562d5f449",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-aed84ebbfc67928a4a61e9cd40ae271b.mov",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6ae67a2648a45a2bd303272bf340d616.jpg",
+      "pairedPhoto": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f2a1875126a2ff439e6fa2b57fd0299b.heic",
+      "title": "晶莹花朵",
+      "category": "nature",
+      "credit": "MyScreen（获取平台）",
+      "license": "通过 MyScreen 免费下载；原作者和再分发许可尚未核实",
+      "sourceURL": "https://binarywolf.io/"
     },
     {
       "id": "asset-e449a2bcbcd039ed2131370f",
@@ -1729,6 +1756,28 @@
       "sourceURL": "https://www.xiaohongshu.com/"
     },
     {
+      "id": "asset-60de3aede151fae48b198fc6",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-454da86114182df56d764b6d1766236e.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f8f8c3c8fd8eb38ddc4daa3214d04c8d.jpg",
+      "title": "IMG_1774",
+      "category": "minimal",
+      "credit": "用户提供",
+      "license": "用户提供并确认发布",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-10e978a332fb98efdfdf40b7",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8839f440eab473cdf065e9c8f886196a.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-52d75aaf2710a7332dc47d209b0b6f16.jpg",
+      "title": "IMG_1772",
+      "category": "minimal",
+      "credit": "用户提供",
+      "license": "用户提供并确认发布",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
       "id": "asset-2706f5f587750ebd3a0b18f0",
       "kind": "still",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-dbf82899c239f41e12d3a6632d438b5b.png",
@@ -2211,28 +2260,6 @@
       "credit": "上传者 cc9166",
       "license": "上传者确认可用于 App 分发；未指定公开许可",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
-    },
-    {
-      "id": "asset-10e978a332fb98efdfdf40b7",
-      "kind": "still",
-      "title": "IMG_1772",
-      "category": "minimal",
-      "credit": "用户提供",
-      "license": "用户提供并确认发布",
-      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8839f440eab473cdf065e9c8f886196a.png",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-52d75aaf2710a7332dc47d209b0b6f16.jpg"
-    },
-    {
-      "id": "asset-60de3aede151fae48b198fc6",
-      "kind": "still",
-      "title": "IMG_1774",
-      "category": "minimal",
-      "credit": "用户提供",
-      "license": "用户提供并确认发布",
-      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-454da86114182df56d764b6d1766236e.png",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f8f8c3c8fd8eb38ddc4daa3214d04c8d.jpg"
     }
   ]
 }

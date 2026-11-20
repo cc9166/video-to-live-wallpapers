@@ -45,7 +45,7 @@
         "order": 3,
         "counts": {
           "still": 9,
-          "live": 1
+          "live": 2
         }
       },
       {
@@ -56,7 +56,7 @@
         "order": 4,
         "counts": {
           "still": 16,
-          "live": 7
+          "live": 8
         }
       },
       {
@@ -66,7 +66,7 @@
         "legacy": "minimal",
         "order": 5,
         "counts": {
-          "still": 7,
+          "still": 9,
           "live": 2
         }
       },
@@ -96,16 +96,6 @@
     "mode": "legacy"
   },
   "entries": [
-    {
-      "id": "7df7ba08fd5548a4",
-      "folder": "minimal",
-      "catalogID": "asset-60de3aede151fae48b198fc6"
-    },
-    {
-      "id": "efc24d80e1464a7b",
-      "folder": "minimal",
-      "catalogID": "asset-10e978a332fb98efdfdf40b7"
-    },
     {
       "id": "120f0cb53a294ecf",
       "folder": "nature",
@@ -325,6 +315,16 @@
       "id": "9a95105a2a85408e",
       "folder": "minimal",
       "catalogID": "asset-2706f5f587750ebd3a0b18f0"
+    },
+    {
+      "id": "efc24d80e1464a7b",
+      "folder": "minimal",
+      "catalogID": "asset-10e978a332fb98efdfdf40b7"
+    },
+    {
+      "id": "7df7ba08fd5548a4",
+      "folder": "minimal",
+      "catalogID": "asset-60de3aede151fae48b198fc6"
     },
     {
       "id": "4f61f10110f64612",
@@ -1062,24 +1062,9 @@
       "catalogID": "commons-197917900"
     },
     {
-      "id": "remote-c5f998f63de3fb7e",
-      "folder": "nature",
-      "catalogID": "commons-86283273"
-    },
-    {
-      "id": "remote-96a8b333409fc1b6",
-      "folder": "nature",
-      "catalogID": "commons-88840249"
-    },
-    {
       "id": "remote-6f13716d5c545447",
       "folder": "nature",
       "catalogID": "commons-169009875"
-    },
-    {
-      "id": "remote-e86917e1383e770e",
-      "folder": "nature",
-      "catalogID": "commons-173590596"
     },
     {
       "id": "remote-f23c561683abd007",
@@ -1092,19 +1077,9 @@
       "catalogID": "commons-189602483"
     },
     {
-      "id": "remote-6e4bb95577df296b",
-      "folder": "nature",
-      "catalogID": "commons-158702810"
-    },
-    {
       "id": "remote-d68c8bf6cfbc2f25",
       "folder": "ocean",
       "catalogID": "commons-184429868"
-    },
-    {
-      "id": "remote-7fa32643cf7cf598",
-      "folder": "nature",
-      "catalogID": "snowy-creek"
     },
     {
       "id": "remote-abf4695c263babae",

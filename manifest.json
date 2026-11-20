@@ -46,13 +46,13 @@
   },
   {
     "file": "catalog-v2.json",
-    "bytes": 15786,
-    "sha256": "791d18e7045c489edcef68fd10c017c0b7969c83a301521257724ee032e3635a"
+    "bytes": 15552,
+    "sha256": "3bfa8126a81a0f971fa7092abc15db6173a4056c93e1f0cb093c7dbfe090016e"
   },
   {
     "file": "catalog.json",
-    "bytes": 119601,
-    "sha256": "4511c5472efbb4eca6d7e406cb2231d1c68e5b6b647b352fa3126d30045f861a"
+    "bytes": 120407,
+    "sha256": "a796579ab0649ee6ca495d74129af5b7477ad80b0f2d60a9df8353f2f99f709a"
   },
   {
     "file": "cloud-sea.png",
@@ -1563,6 +1563,41 @@
     "file": "releases/e310f0d4106542dd/page-002.json",
     "bytes": 19199,
     "sha256": "4bfcc9ff51dcfcfa97c1fa305660cbb5202c9a5f0e130e788a6eea69027cfa62"
+  },
+  {
+    "file": "releases/ee096052acb642c2/page-001.json",
+    "bytes": 27178,
+    "sha256": "24f91d84fad739aef1d627a1e5cfb4dfb2ff3686946f70c4b4c5096d64f37fd1"
+  },
+  {
+    "file": "releases/ee096052acb642c2/page-002.json",
+    "bytes": 24842,
+    "sha256": "f935b2c0049c54788923f80fe8971aac6faf86b6cbef55cd5ac50b83aa7fdce6"
+  },
+  {
+    "file": "releases/ee096052acb642c2/page-003.json",
+    "bytes": 24836,
+    "sha256": "37ac3ff67d33a06d8351add63584c6f5f8133debcb147950759385c1f91e65d2"
+  },
+  {
+    "file": "releases/ee096052acb642c2/page-004.json",
+    "bytes": 24836,
+    "sha256": "2b6adeceeeec3868b0bf5322c9a5cb5e778846c958cce126f9f510fac737dc5e"
+  },
+  {
+    "file": "releases/ee096052acb642c2/page-005.json",
+    "bytes": 26324,
+    "sha256": "228eb741b4f6a69f797eb712736090d2d2c2b68c305a81b6c6bf4e9ecd4abd8e"
+  },
+  {
+    "file": "releases/ee096052acb642c2/page-006.json",
+    "bytes": 25433,
+    "sha256": "6ab2f68cbc07eb7a6ef8e81bdf8868842372415a55c8c60a02bd701b16b635a4"
+  },
+  {
+    "file": "releases/ee096052acb642c2/page-007.json",
+    "bytes": 9359,
+    "sha256": "de9655c2141b77f5672a127076656605c85ad0611135c37fd28ca4d51235a362"
   },
   {
     "file": "releases/f2ee239032a040b6/page-001.json",
@@ -3571,8 +3606,8 @@
   },
   {
     "file": "studio/db62e673199e.json",
-    "bytes": 34747,
-    "sha256": "7e10f46f4ee467f5fabc5462824c36ce8fa0fb64de0f14fd85006c312eba236c"
+    "bytes": 34170,
+    "sha256": "74476999546794a139527cc21c7c2d6bd76fc8a8fda2ce59635be1baab73a2d2"
   },
   {
     "file": "tidal-blue.png",
