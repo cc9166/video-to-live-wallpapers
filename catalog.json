@@ -1,28 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20T11:50:41Z",
+  "updatedAt": "2026-11-21T11:16:56Z",
   "items": [
-    {
-      "id": "commons-61810011",
-      "title": "Violet flower in macro",
-      "kind": "still",
-      "category": "nature",
-      "credit": "Dominik Scythe drscythe · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Violet_flower_in_macro_(Unsplash).jpg",
-      "license": "CC0",
-      "tags": [
-        "botanical"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810011-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810011.jpg",
-      "quality": {
-        "sourceWidth": 4928,
-        "sourceHeight": 3004,
-        "outputWidth": 1440,
-        "outputHeight": 2560,
-        "upscaled": false
-      }
-    },
     {
       "id": "commons-131897774",
       "title": "Macro flower wallpaper",
@@ -2259,6 +2238,17 @@
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0c91b5e3fccc3930c10e527a1a04e715.png",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c3f0087c40ae3bc70a12e1f69b4e1dab.jpg"
+    },
+    {
+      "id": "asset-13d781ae8c075ed090fa1868",
+      "kind": "still",
+      "title": "IMG_1777",
+      "category": "nature",
+      "credit": "用户提供",
+      "license": "用户提供并确认发布",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8b8686aefef9d85d98cc1f278053ff70.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-9064e75d1ca381496263f2e8fee91bc9.jpg"
     }
   ]
 }

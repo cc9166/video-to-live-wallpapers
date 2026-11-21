@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-20T11:50:41Z",
-  "release": "a3967e36785146fe",
-  "total": 258,
+  "updatedAt": "2026-11-21T11:16:56Z",
+  "release": "0c2b438fbe8b4ffa",
+  "total": 259,
   "categories": [
     {
       "id": "e09cedfffb70",
@@ -55,7 +55,7 @@
       "legacy": "nature",
       "order": 4,
       "counts": {
-        "still": 17,
+        "still": 18,
         "live": 3
       }
     },
@@ -95,7 +95,7 @@
   ],
   "pages": [
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a3967e36785146fe/page-001.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/0c2b438fbe8b4ffa/page-001.json",
       "count": 40,
       "folders": [
         "d421f61b2624",
@@ -111,7 +111,7 @@
         {
           "folder": "d421f61b2624",
           "kind": "still",
-          "count": 34
+          "count": 33
         },
         {
           "folder": "mountains",
@@ -126,7 +126,7 @@
         {
           "folder": "nature",
           "kind": "still",
-          "count": 1
+          "count": 2
         },
         {
           "folder": "ocean",
@@ -136,7 +136,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a3967e36785146fe/page-002.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/0c2b438fbe8b4ffa/page-002.json",
       "count": 40,
       "folders": [
         "d421f61b2624",
@@ -159,7 +159,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a3967e36785146fe/page-003.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/0c2b438fbe8b4ffa/page-003.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -176,7 +176,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a3967e36785146fe/page-004.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/0c2b438fbe8b4ffa/page-004.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -193,7 +193,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a3967e36785146fe/page-005.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/0c2b438fbe8b4ffa/page-005.json",
       "count": 40,
       "folders": [
         "abstract",
@@ -216,7 +216,7 @@
         {
           "folder": "d421f61b2624",
           "kind": "still",
-          "count": 29
+          "count": 30
         },
         {
           "folder": "e09cedfffb70",
@@ -236,7 +236,7 @@
         {
           "folder": "nature",
           "kind": "still",
-          "count": 2
+          "count": 1
         },
         {
           "folder": "ocean",
@@ -246,7 +246,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a3967e36785146fe/page-006.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/0c2b438fbe8b4ffa/page-006.json",
       "count": 40,
       "folders": [
         "abstract",
@@ -293,8 +293,8 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a3967e36785146fe/page-007.json",
-      "count": 18,
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/0c2b438fbe8b4ffa/page-007.json",
+      "count": 19,
       "folders": [
         "abstract",
         "architecture",
@@ -330,7 +330,7 @@
         {
           "folder": "nature",
           "kind": "still",
-          "count": 2
+          "count": 3
         },
         {
           "folder": "ocean",
@@ -341,6 +341,7 @@
     }
   ],
   "compatibilityIDs": [
+    "asset-13d781ae8c075ed090fa1868",
     "asset-fd7eef0bbb7afc691846a55a",
     "asset-1c1b02326a8ec424be9da78d",
     "asset-1d6870c3729e545f60e26f3b",
