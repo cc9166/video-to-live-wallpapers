@@ -1,0 +1,114 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "id": "blue-hour",
+      "title": "Blue Hour",
+      "kind": "still",
+      "category": "ocean",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/blue-hour.png",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/blue-hour.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "tags": [
+        "sky",
+        "night"
+      ],
+      "studioFolder": "ocean"
+    },
+    {
+      "id": "salt-rose",
+      "title": "Salt Rose",
+      "kind": "still",
+      "category": "minimal",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/salt-rose.png",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/salt-rose.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "studioFolder": "minimal"
+    },
+    {
+      "id": "quiet-facade",
+      "title": "Quiet Facade",
+      "kind": "still",
+      "category": "architecture",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/quiet-facade.png",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/quiet-facade.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "tags": [
+        "city"
+      ],
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "cloud-sea",
+      "title": "Cloud Sea",
+      "kind": "still",
+      "category": "mountains",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/cloud-sea.png",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/cloud-sea.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "tags": [
+        "sky"
+      ],
+      "studioFolder": "mountains"
+    },
+    {
+      "id": "forest-mist",
+      "title": "Forest Mist",
+      "kind": "still",
+      "category": "nature",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/forest-mist.png",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/forest-mist.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "tags": [
+        "botanical"
+      ],
+      "studioFolder": "nature"
+    },
+    {
+      "id": "dune-light",
+      "title": "Dune Light",
+      "kind": "still",
+      "category": "minimal",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/dune-light.png",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/dune-light.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "studioFolder": "minimal"
+    },
+    {
+      "id": "tidal-blue",
+      "title": "Tidal Blue",
+      "kind": "still",
+      "category": "ocean",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/tidal-blue.png",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/tidal-blue.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "studioFolder": "ocean"
+    },
+    {
+      "id": "alpine-hush",
+      "title": "Alpine Hush",
+      "kind": "still",
+      "category": "mountains",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/alpine-hush.png",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/alpine-hush.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "studioFolder": "mountains"
+    }
+  ]
+}
