@@ -1,176 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-21T11:16:56Z",
+  "updatedAt": "2026-11-23T02:08:57Z",
   "items": [
-    {
-      "id": "commons-131897774",
-      "title": "Macro flower wallpaper",
-      "kind": "still",
-      "category": "nature",
-      "credit": "Free Nature Stock · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Macro_flower_wallpaper.jpg",
-      "license": "CC0",
-      "tags": [
-        "botanical"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-131897774-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-131897774.jpg",
-      "quality": {
-        "sourceWidth": 5472,
-        "sourceHeight": 3648,
-        "outputWidth": 1440,
-        "outputHeight": 2560,
-        "upscaled": false
-      }
-    },
-    {
-      "id": "commons-61810123",
-      "title": "Sunshine flower in macro",
-      "kind": "still",
-      "category": "nature",
-      "credit": "paul morris oldskool2016 · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Sunshine_flower_in_macro_(Unsplash).jpg",
-      "license": "CC0",
-      "tags": [
-        "botanical"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810123-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810123.jpg",
-      "quality": {
-        "sourceWidth": 7360,
-        "sourceHeight": 4912,
-        "outputWidth": 2160,
-        "outputHeight": 3840,
-        "upscaled": false
-      }
-    },
-    {
-      "id": "commons-184429868",
-      "title": "Pacific Sea Nettle",
-      "kind": "live",
-      "category": "ocean",
-      "credit": "Celuici · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Chrysaora_fuscescens_(Pacific_sea_nettle)_swimming.webm",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-184429868-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-184429868.mp4"
-    },
-    {
-      "id": "commons-189602483",
-      "title": "Green Veil Falls",
-      "kind": "live",
-      "category": "nature",
-      "credit": "Kimahri88 · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Cascata_delle_Marmore_(Terni,_Italy).webm",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-189602483-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-189602483.mp4"
-    },
-    {
-      "id": "commons-65079366",
-      "title": "Snowfall Quiet",
-      "kind": "live",
-      "category": "minimal",
-      "credit": "Extemporalist · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Falling_Powder_overlies_melt-water_flowing_down_Hachey_Creek_in_Myra-Bellevue_Park,_British_Columbia.webm",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-65079366-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-65079366.mp4"
-    },
-    {
-      "id": "commons-169009875",
-      "title": "Velvet Cascade",
-      "kind": "live",
-      "category": "nature",
-      "credit": "Shyamal · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Athirapally_falls.webm",
-      "license": "CC0",
-      "tags": [],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-169009875-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-169009875.mp4"
-    },
-    {
-      "id": "commons-197917900",
-      "title": "Boreal Glow",
-      "kind": "live",
-      "category": "abstract",
-      "credit": "NASA's Scientific Visualization Studio - Amentum Services, Inc./Mike Toillion · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Alaskan_Aurora_Time_Lapse_(SVS15077).webm",
-      "license": "Public domain",
-      "tags": [
-        "sky",
-        "night"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-197917900-hd-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-197917900-hd.mp4",
-      "quality": {
-        "sourceWidth": 4240,
-        "sourceHeight": 2832,
-        "outputWidth": 1440,
-        "outputHeight": 2560,
-        "upscaled": false
-      }
-    },
-    {
-      "id": "commons-202410686",
-      "title": "Nebula Drift",
-      "kind": "live",
-      "category": "abstract",
-      "credit": "Producer: Gregory Bacon (STScI), Frank Summers (STScI); Visualization: Leah Hustak (STScI), Christian Nieves (STScI), Al · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Multiwavelength_Flight_into_the_Cat%E2%80%99s_Head_Nebula_(1505697).webm",
-      "license": "Public domain",
-      "tags": [
-        "night"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-202410686-hd-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-202410686-hd.mp4",
-      "quality": {
-        "sourceWidth": 2160,
-        "sourceHeight": 3840,
-        "outputWidth": 2160,
-        "outputHeight": 3840,
-        "upscaled": false
-      }
-    },
-    {
-      "id": "commons-151568289",
-      "title": "Lunar Passage",
-      "kind": "live",
-      "category": "minimal",
-      "credit": "NASA's Scientific Visualization Studio - USRA/Ernie Wright, Advocates in Manpower Management, Inc./David Ladd, ADNET Sys · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:From_the_Moon_to_the_Earth_(SVS5039_-_moon_to_earth_2160p30).webm",
-      "license": "Public domain",
-      "tags": [
-        "night"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-151568289-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-151568289.mp4"
-    },
-    {
-      "id": "commons-173367376",
-      "title": "Galaxy in Motion",
-      "kind": "live",
-      "category": "abstract",
-      "credit": "NASA's Scientific Visualization Studio - eMITS/Adriana Manrique Gutierrez, eMITS/Jonathan North, eMITS/Joy Ng · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:The_Heliosphere_Within_The_Milky_Way_Galaxy_(SVS20406_-_MilkyWayZoom_30fps_proRes_wStars).webm",
-      "license": "Public domain",
-      "tags": [
-        "night"
-      ],
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376.mp4"
-    },
-    {
-      "id": "asset-e449a2bcbcd039ed2131370f",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-747a7a3ff65e53909c8d1e4f9cedc7a1.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d228f2b10db3eba858eccac1482c8333.jpg",
-      "title": "IMG_1356",
-      "category": "nature",
-      "credit": "用户提供",
-      "license": "用户上传素材；来源小红书；未核验第三方公开许可",
-      "sourceURL": "https://www.xiaohongshu.com/"
-    },
     {
       "id": "asset-9623a6dd7ec16f86e5d6b32b",
       "kind": "still",
@@ -1723,12 +1554,34 @@
       "sourceURL": "https://www.xiaohongshu.com/"
     },
     {
+      "id": "asset-13d781ae8c075ed090fa1868",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8b8686aefef9d85d98cc1f278053ff70.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-9064e75d1ca381496263f2e8fee91bc9.jpg",
+      "title": "IMG_1777",
+      "category": "mountains",
+      "credit": "用户提供",
+      "license": "用户提供并确认发布",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-fd7eef0bbb7afc691846a55a",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0c91b5e3fccc3930c10e527a1a04e715.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c3f0087c40ae3bc70a12e1f69b4e1dab.jpg",
+      "title": "IMG_1776",
+      "category": "mountains",
+      "credit": "用户提供",
+      "license": "用户提供并确认发布",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
       "id": "asset-60de3aede151fae48b198fc6",
       "kind": "still",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-454da86114182df56d764b6d1766236e.png",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f8f8c3c8fd8eb38ddc4daa3214d04c8d.jpg",
       "title": "IMG_1774",
-      "category": "minimal",
+      "category": "mountains",
       "credit": "用户提供",
       "license": "用户提供并确认发布",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
@@ -1739,7 +1592,7 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8839f440eab473cdf065e9c8f886196a.png",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-52d75aaf2710a7332dc47d209b0b6f16.jpg",
       "title": "IMG_1772",
-      "category": "minimal",
+      "category": "mountains",
       "credit": "用户提供",
       "license": "用户提供并确认发布",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
@@ -1750,7 +1603,7 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-dbf82899c239f41e12d3a6632d438b5b.png",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-42b0f14c083e5ad777c01e202461cf47.jpg",
       "title": "IMG_1771",
-      "category": "minimal",
+      "category": "mountains",
       "credit": "用户提供",
       "license": "用户提供并确认发布",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
@@ -2229,26 +2082,125 @@
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
     },
     {
-      "id": "asset-fd7eef0bbb7afc691846a55a",
+      "id": "asset-b4c888d8f08eae64e4a8bc8f",
       "kind": "still",
-      "title": "IMG_1776",
-      "category": "nature",
-      "credit": "用户提供",
-      "license": "用户提供并确认发布",
-      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0c91b5e3fccc3930c10e527a1a04e715.png",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c3f0087c40ae3bc70a12e1f69b4e1dab.jpg"
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-9e5648779405bbbdda39e00e158bb60c.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b455eea83c590fd67a22f6cd5d788e00.jpg",
+      "title": "Glass Wave",
+      "category": "ocean",
+      "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
+      "license": "原创生成内容；项目所有者确认可用于 App 分发",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
     },
     {
-      "id": "asset-13d781ae8c075ed090fa1868",
+      "id": "asset-72f73c6bc837a35d4bdd219d",
       "kind": "still",
-      "title": "IMG_1777",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0a15b18f0d05316abc30047be2580135.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-822d33d907a6a0fbccd0fba8c0058968.jpg",
+      "title": "Foam on Dark Sand",
+      "category": "ocean",
+      "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
+      "license": "原创生成内容；项目所有者确认可用于 App 分发",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-db27f870d2e122696e10dae6",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8ae7f42202340e89779b3938ab083c67.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f85d6a931a94fe594f73eb6901be56de.jpg",
+      "title": "Ember Tide",
+      "category": "ocean",
+      "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
+      "license": "原创生成内容；项目所有者确认可用于 App 分发",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-fe2d7b487b993a6f3fc3a76a",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bb68c5eebe678d8dae91cf49310d223c.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-032d080ee74f89bfbe5c186cb240b9d5.jpg",
+      "title": "Moss Cliff Falls",
       "category": "nature",
-      "credit": "用户提供",
-      "license": "用户提供并确认发布",
-      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8b8686aefef9d85d98cc1f278053ff70.png",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-9064e75d1ca381496263f2e8fee91bc9.jpg"
+      "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
+      "license": "原创生成内容；项目所有者确认可用于 App 分发",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-311d87d9451b98b010a5d8d2",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bb4a2fbdf025bc189e688e780d5b200e.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-091ac23dc848c810bb079a9601f4c842.jpg",
+      "title": "Window Cat",
+      "category": "nature",
+      "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
+      "license": "原创生成内容；项目所有者确认可用于 App 分发",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-a305edcc97e597ebe44a3748",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-5eb06b003ae04a3c83e0e67fdbc9f24e.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-3d87996fec964591af9797870790c430.jpg",
+      "title": "Frost Field",
+      "category": "mountains",
+      "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
+      "license": "原创生成内容；项目所有者确认可用于 App 分发",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-27646856584b4e838acc2098",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-014a091e116d5ef2a83d63ff54e3322e.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-51d9b89e438bd4f2644aa7991770170d.jpg",
+      "title": "Deep Caustics",
+      "category": "abstract",
+      "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
+      "license": "原创生成内容；项目所有者确认可用于 App 分发",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-ac7531055516ff647dbaa3dd",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-03e34cf6482f7451239207a1de646221.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0e02fd6215f5ad295279b9f46e2488ea.jpg",
+      "title": "Glass Lumen",
+      "category": "abstract",
+      "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
+      "license": "原创生成内容；项目所有者确认可用于 App 分发",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-cb8e2b74f80b30796acbba9f",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-58fc492fd353cb9dbee2314bafef5b43.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c21cf326328cc3107408ae2fc1bcd5fa.jpg",
+      "title": "Amber Ribbon",
+      "category": "abstract",
+      "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
+      "license": "原创生成内容；项目所有者确认可用于 App 分发",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-258746cc77f69fa169844b3a",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0e599fb7ef6d176430518417561289a7.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-356702891338cd27b4c1c8a3b9c6cc9c.jpg",
+      "title": "Starlit Ridge",
+      "category": "nature",
+      "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
+      "license": "原创生成内容；项目所有者确认可用于 App 分发",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+    },
+    {
+      "id": "asset-c62c6d15bd22bde49a1b5676",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-37e75f0934c011fec9fcf15ee711e4f8.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c1357a1969fadf4b8b00ae4fb7a1a804.jpg",
+      "title": "Quiet Fireworks",
+      "category": "nature",
+      "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
+      "license": "原创生成内容；项目所有者确认可用于 App 分发",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
     }
   ]
 }
