@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T09:10:14Z",
+  "updatedAt": "2026-11-25T09:16:09Z",
   "items": [
     {
       "id": "asset-7dbe31388dc152e100b65513",
@@ -11,7 +11,8 @@
       "category": "nature",
       "credit": "Pexels / Costa Karabelas",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/branches-on-a-desert-18750186/"
+      "sourceURL": "https://www.pexels.com/photo/branches-on-a-desert-18750186/",
+      "premium": true
     },
     {
       "id": "asset-8fbff50e517c4a17d8037af3",
@@ -22,7 +23,8 @@
       "category": "nature",
       "credit": "Pexels / raouf bedrani",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/sand-dune-11377054/"
+      "sourceURL": "https://www.pexels.com/photo/sand-dune-11377054/",
+      "premium": true
     },
     {
       "id": "asset-47f78f853de8d4e2a490276e",
@@ -33,7 +35,8 @@
       "category": "nature",
       "credit": "Pexels / 奇 徐",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/serene-desert-oasis-with-sand-dunes-30165122/"
+      "sourceURL": "https://www.pexels.com/photo/serene-desert-oasis-with-sand-dunes-30165122/",
+      "premium": true
     },
     {
       "id": "asset-cb35c8986a6b6e48fe42160c",
@@ -44,7 +47,8 @@
       "category": "nature",
       "credit": "Pexels / Engin Akyurt",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/close-up-of-sand-in-a-desert-26922694/"
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-sand-in-a-desert-26922694/",
+      "premium": true
     },
     {
       "id": "asset-ef8dba84d6151a5752d6ddc3",
@@ -55,7 +59,8 @@
       "category": "nature",
       "credit": "Pexels / Grbr Snts",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/footprints-in-the-sand-in-the-desert-14821006/"
+      "sourceURL": "https://www.pexels.com/photo/footprints-in-the-sand-in-the-desert-14821006/",
+      "premium": true
     },
     {
       "id": "asset-ff61021c2517cff8139581b8",
@@ -66,7 +71,8 @@
       "category": "nature",
       "credit": "Pexels / Maria Charizani",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/tree-in-a-desert-under-a-clear-blue-sky-6128843/"
+      "sourceURL": "https://www.pexels.com/photo/tree-in-a-desert-under-a-clear-blue-sky-6128843/",
+      "premium": true
     },
     {
       "id": "commons-142125305",
@@ -77,7 +83,8 @@
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Red_sand_diff_8k_(Rohit_Seervi_via_Poly_Haven).png",
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125305-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125305.jpg"
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125305.jpg",
+      "premium": true
     },
     {
       "id": "asset-31dde0589799f2f065914b4d",
@@ -88,7 +95,8 @@
       "category": "nature",
       "credit": "Pexels / Engin Akyurt",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/serene-sand-dunes-with-textured-patterns-29147670/"
+      "sourceURL": "https://www.pexels.com/photo/serene-sand-dunes-with-textured-patterns-29147670/",
+      "premium": true
     },
     {
       "id": "asset-b611cb2254666aa7df739415",
@@ -99,7 +107,8 @@
       "category": "nature",
       "credit": "Pexels / Kyle Karbowski",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/brown-desert-under-the-blue-sky-9968067/"
+      "sourceURL": "https://www.pexels.com/photo/brown-desert-under-the-blue-sky-9968067/",
+      "premium": false
     },
     {
       "id": "asset-903ee7ba83992798d8e6c3bc",
@@ -110,7 +119,8 @@
       "category": "nature",
       "credit": "Pexels / Taryn Elliott",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/brown-sand-under-gray-sky-4405243/"
+      "sourceURL": "https://www.pexels.com/photo/brown-sand-under-gray-sky-4405243/",
+      "premium": false
     },
     {
       "id": "asset-233a7fafe5ca702b59f9420c",
@@ -121,7 +131,8 @@
       "category": "nature",
       "credit": "Pexels / KJeremy",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-desert-with-a-plane-flying-over-it-16265138/"
+      "sourceURL": "https://www.pexels.com/video/a-desert-with-a-plane-flying-over-it-16265138/",
+      "premium": false
     },
     {
       "id": "asset-b0245a464a22edf1b43743b5",
@@ -132,7 +143,8 @@
       "category": "nature",
       "credit": "Pexels / Tanya",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/vertical-shot-of-desert-dunes-11371498/"
+      "sourceURL": "https://www.pexels.com/video/vertical-shot-of-desert-dunes-11371498/",
+      "premium": false
     },
     {
       "id": "asset-3b1ff64d615692522fdcd262",
@@ -143,7 +155,8 @@
       "category": "nature",
       "credit": "Pexels / Daniel Bernardi",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/clear-sky-over-desert-by-sea-10869006/"
+      "sourceURL": "https://www.pexels.com/video/clear-sky-over-desert-by-sea-10869006/",
+      "premium": false
     },
     {
       "id": "asset-da8818b6e4447fef63b64271",
@@ -154,7 +167,8 @@
       "category": "nature",
       "credit": "Pexels / Tuấn Vũ",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/glowing-sunlight-reflection-on-ocean-waves-40050198/"
+      "sourceURL": "https://www.pexels.com/photo/glowing-sunlight-reflection-on-ocean-waves-40050198/",
+      "premium": true
     },
     {
       "id": "asset-f9309492d82726260dddddc2",
@@ -165,7 +179,8 @@
       "category": "nature",
       "credit": "Pexels / Mia",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/close-up-of-wavy-water-17396296/"
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-wavy-water-17396296/",
+      "premium": true
     },
     {
       "id": "asset-60c426626642eb4d902879f1",
@@ -176,7 +191,8 @@
       "category": "nature",
       "credit": "Pexels / Vitória Zanella",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/calm-beach-shoreline-with-gentle-waves-35562646/"
+      "sourceURL": "https://www.pexels.com/photo/calm-beach-shoreline-with-gentle-waves-35562646/",
+      "premium": true
     },
     {
       "id": "asset-75aacf9cfb4a13173d5c61d5",
@@ -187,7 +203,8 @@
       "category": "nature",
       "credit": "Pexels / Enes Akdoğan",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/sunlight-reflecting-in-sea-26588312/"
+      "sourceURL": "https://www.pexels.com/photo/sunlight-reflecting-in-sea-26588312/",
+      "premium": true
     },
     {
       "id": "asset-6bd62fb605b5d473d7ef7bed",
@@ -198,7 +215,8 @@
       "category": "nature",
       "credit": "Pexels / Vera Emilie",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/calm-blue-sea-18001087/"
+      "sourceURL": "https://www.pexels.com/photo/calm-blue-sea-18001087/",
+      "premium": true
     },
     {
       "id": "asset-d53a4dc4d5b471ed23a2e3d5",
@@ -209,7 +227,8 @@
       "category": "nature",
       "credit": "Pexels / Atlantic Ambience",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/the-sea-under-the-blue-sky-and-white-clouds-12597068/"
+      "sourceURL": "https://www.pexels.com/photo/the-sea-under-the-blue-sky-and-white-clouds-12597068/",
+      "premium": true
     },
     {
       "id": "asset-4586232095259c3c81a3f1b0",
@@ -220,7 +239,8 @@
       "category": "nature",
       "credit": "Pexels / RDNE Stock project",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/sea-shells-and-starfish-on-sand-8456359/"
+      "sourceURL": "https://www.pexels.com/video/sea-shells-and-starfish-on-sand-8456359/",
+      "premium": true
     },
     {
       "id": "asset-44099ba0f860acd6aa91a4f8",
@@ -231,7 +251,8 @@
       "category": "nature",
       "credit": "Pexels / Paul Uchechukwu 🇳🇬",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/serene-waves-at-sunset-on-tranquil-beach-41055265/"
+      "sourceURL": "https://www.pexels.com/photo/serene-waves-at-sunset-on-tranquil-beach-41055265/",
+      "premium": true
     },
     {
       "id": "asset-2f4e3bdb66e80e851431d3c4",
@@ -242,7 +263,8 @@
       "category": "nature",
       "credit": "Pexels / Nrlh Semiz",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/vibrant-blue-ocean-waves-captured-from-above-40059176/"
+      "sourceURL": "https://www.pexels.com/photo/vibrant-blue-ocean-waves-captured-from-above-40059176/",
+      "premium": false
     },
     {
       "id": "asset-58fb727297340d06689bebf6",
@@ -253,7 +275,8 @@
       "category": "nature",
       "credit": "Pexels / Igor Sanches",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/vibrant-ocean-waves-crashing-on-shoreline-35541116/"
+      "sourceURL": "https://www.pexels.com/photo/vibrant-ocean-waves-crashing-on-shoreline-35541116/",
+      "premium": false
     },
     {
       "id": "asset-ab4ae54aae583455ae0ed5c7",
@@ -264,7 +287,8 @@
       "category": "nature",
       "credit": "Pexels / Rahime Gül",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/ocean-waves-crashing-14198927/"
+      "sourceURL": "https://www.pexels.com/photo/ocean-waves-crashing-14198927/",
+      "premium": false
     },
     {
       "id": "asset-63b70f8329191a7624a6eaa4",
@@ -275,7 +299,8 @@
       "category": "nature",
       "credit": "Pexels / Ahmed ؜",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/waves-of-the-ocean-9620654/"
+      "sourceURL": "https://www.pexels.com/video/waves-of-the-ocean-9620654/",
+      "premium": false
     },
     {
       "id": "asset-8f7fcbf7c70f136ea5cf9f0b",
@@ -286,7 +311,8 @@
       "category": "nature",
       "credit": "Pexels / Tien Nguyen",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/hoang-hon-bi-n-18498060/"
+      "sourceURL": "https://www.pexels.com/video/hoang-hon-bi-n-18498060/",
+      "premium": false
     },
     {
       "id": "asset-e6345c83a0b5582b4bc56c5f",
@@ -297,7 +323,8 @@
       "category": "nature",
       "credit": "Pexels / ablho prro",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/tropical-beach-with-hanging-pandanus-plant-39648150/"
+      "sourceURL": "https://www.pexels.com/photo/tropical-beach-with-hanging-pandanus-plant-39648150/",
+      "premium": true
     },
     {
       "id": "asset-d0f2042be2f720aae8e6177f",
@@ -308,7 +335,8 @@
       "category": "nature",
       "credit": "Pexels / Nandhakishor P",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/scenic-tropical-beach-with-palm-trees-and-rocky-shoreline-33071323/"
+      "sourceURL": "https://www.pexels.com/photo/scenic-tropical-beach-with-palm-trees-and-rocky-shoreline-33071323/",
+      "premium": true
     },
     {
       "id": "asset-ce9674f3cddf7824893fc98a",
@@ -319,7 +347,8 @@
       "category": "nature",
       "credit": "Pexels / Priscila Almeida",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/tropical-beach-with-coconut-palms-and-ocean-waves-31377612/"
+      "sourceURL": "https://www.pexels.com/photo/tropical-beach-with-coconut-palms-and-ocean-waves-31377612/",
+      "premium": true
     },
     {
       "id": "asset-8aa651880d240f023b64580a",
@@ -330,7 +359,8 @@
       "category": "nature",
       "credit": "Pexels / Uday Veeru",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/tropical-coastal-sunrise-with-palm-trees-39014750/"
+      "sourceURL": "https://www.pexels.com/photo/tropical-coastal-sunrise-with-palm-trees-39014750/",
+      "premium": true
     },
     {
       "id": "asset-d2f36d20ce57b0fdd35b3b08",
@@ -341,7 +371,8 @@
       "category": "nature",
       "credit": "Pexels / bynamnamnam",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/tropical-beach-with-palm-trees-and-ocean-waves-34359832/"
+      "sourceURL": "https://www.pexels.com/photo/tropical-beach-with-palm-trees-and-ocean-waves-34359832/",
+      "premium": true
     },
     {
       "id": "asset-56048922a4b0c54dca19d567",
@@ -352,7 +383,8 @@
       "category": "nature",
       "credit": "Pexels / Ali Kazal",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/tropical-beach-view-through-palm-trees-in-phuket-31029378/"
+      "sourceURL": "https://www.pexels.com/photo/tropical-beach-view-through-palm-trees-in-phuket-31029378/",
+      "premium": true
     },
     {
       "id": "asset-27116ad8dd092b299a07e538",
@@ -363,7 +395,8 @@
       "category": "nature",
       "credit": "Pexels / Peggy Anke",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/people-walking-on-the-shore-10231737/"
+      "sourceURL": "https://www.pexels.com/video/people-walking-on-the-shore-10231737/",
+      "premium": true
     },
     {
       "id": "asset-8aed79e74da532fc063e191a",
@@ -374,7 +407,8 @@
       "category": "nature",
       "credit": "Pexels / meleesten ‎",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/tropical-rocky-coast-with-palm-trees-8039336/"
+      "sourceURL": "https://www.pexels.com/photo/tropical-rocky-coast-with-palm-trees-8039336/",
+      "premium": true
     },
     {
       "id": "asset-5938137db22c7dbb1a0d587e",
@@ -385,7 +419,8 @@
       "category": "nature",
       "credit": "Pexels / Asad Photo Maldives",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/clouds-above-sunny-beach-22480990/"
+      "sourceURL": "https://www.pexels.com/photo/clouds-above-sunny-beach-22480990/",
+      "premium": true
     },
     {
       "id": "asset-60e615c62ca76c3338548b56",
@@ -396,7 +431,8 @@
       "category": "nature",
       "credit": "Pexels / CHRISTO SHAJU",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/shadow-of-a-palm-tree-on-the-beach-17634000/"
+      "sourceURL": "https://www.pexels.com/photo/shadow-of-a-palm-tree-on-the-beach-17634000/",
+      "premium": false
     },
     {
       "id": "asset-78cfbd8d663d088211d17353",
@@ -407,7 +443,8 @@
       "category": "nature",
       "credit": "Pexels / Alexey Demidov",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/photo-of-a-tropical-beach-11006267/"
+      "sourceURL": "https://www.pexels.com/photo/photo-of-a-tropical-beach-11006267/",
+      "premium": false
     },
     {
       "id": "asset-12ffcb06e65086d312f98f88",
@@ -418,7 +455,8 @@
       "category": "nature",
       "credit": "Pexels / Nicolas",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/rocks-on-tropical-beach-13424207/"
+      "sourceURL": "https://www.pexels.com/video/rocks-on-tropical-beach-13424207/",
+      "premium": false
     },
     {
       "id": "asset-c9274b36e214106dfedf3b64",
@@ -429,7 +467,8 @@
       "category": "nature",
       "credit": "Pexels / Peggy Anke",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-tropical-island-beach-10432674/"
+      "sourceURL": "https://www.pexels.com/video/a-tropical-island-beach-10432674/",
+      "premium": false
     },
     {
       "id": "asset-b008489e3082c360e239e9e5",
@@ -440,7 +479,8 @@
       "category": "nature",
       "credit": "Pexels / Peggy Anke",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-palm-tree-in-the-beach-4627340/"
+      "sourceURL": "https://www.pexels.com/video/a-palm-tree-in-the-beach-4627340/",
+      "premium": false
     },
     {
       "id": "commons-77587226",
@@ -451,7 +491,8 @@
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Yosa_Buson_-_Snow_Landscape_-_1997.111_-_Cleveland_Museum_of_Art.tif",
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-77587226-hq-20261104-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-77587226-hq-20261104.jpg"
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-77587226-hq-20261104.jpg",
+      "premium": true
     },
     {
       "id": "commons-51441017",
@@ -462,7 +503,8 @@
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Cold-snow-landscape-nature_(23956950429).jpg",
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-51441017-hq-20261104-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-51441017-hq-20261104.jpg"
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-51441017-hq-20261104.jpg",
+      "premium": true
     },
     {
       "id": "commons-153491654",
@@ -473,7 +515,8 @@
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Wetterspitzen_(Stubaier_Alpen).jpg",
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153491654-hq-20261104-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153491654-hq-20261104.jpg"
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-153491654-hq-20261104.jpg",
+      "premium": true
     },
     {
       "id": "asset-741d5614c1690a0a0faaaf5e",
@@ -484,7 +527,8 @@
       "category": "nature",
       "credit": "Pexels / Shahid Sultan",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/pristine-snow-covered-landscape-in-winter-35880546/"
+      "sourceURL": "https://www.pexels.com/photo/pristine-snow-covered-landscape-in-winter-35880546/",
+      "premium": true
     },
     {
       "id": "asset-fe1a7e48f01f14b593747e36",
@@ -495,7 +539,8 @@
       "category": "nature",
       "credit": "Pexels / Antoinette Hürlimann",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/snow-covered-trees-in-serene-winter-landscape-35713204/"
+      "sourceURL": "https://www.pexels.com/photo/snow-covered-trees-in-serene-winter-landscape-35713204/",
+      "premium": true
     },
     {
       "id": "asset-7cee1d0e44644dffd60ee268",
@@ -506,7 +551,8 @@
       "category": "nature",
       "credit": "Pexels / Tuğba K.",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/hot-tea-cup-in-scenic-snowy-winter-landscape-35650189/"
+      "sourceURL": "https://www.pexels.com/photo/hot-tea-cup-in-scenic-snowy-winter-landscape-35650189/",
+      "premium": true
     },
     {
       "id": "asset-2a82a2955e15514aae854878",
@@ -517,7 +563,8 @@
       "category": "nature",
       "credit": "Pexels / Chalta Phirta",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/snow-covering-tree-and-buildings-in-background-19390783/"
+      "sourceURL": "https://www.pexels.com/photo/snow-covering-tree-and-buildings-in-background-19390783/",
+      "premium": true
     },
     {
       "id": "asset-d58a79fd679536eac6f18065",
@@ -528,7 +575,8 @@
       "category": "nature",
       "credit": "Pexels / Halil İbrahim Özcan",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/buildings-with-apartments-in-town-in-winter-19279088/"
+      "sourceURL": "https://www.pexels.com/photo/buildings-with-apartments-in-town-in-winter-19279088/",
+      "premium": true
     },
     {
       "id": "asset-60104beee18cecac54252bb1",
@@ -539,7 +587,8 @@
       "category": "nature",
       "credit": "Pexels / Elina Volkova",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/snow-covered-pine-trees-against-clear-blue-sky-36209407/"
+      "sourceURL": "https://www.pexels.com/photo/snow-covered-pine-trees-against-clear-blue-sky-36209407/",
+      "premium": true
     },
     {
       "id": "asset-86ca399663cb719c1987b601",
@@ -550,7 +599,8 @@
       "category": "nature",
       "credit": "Pexels / Gizem Gökce",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/serene-snow-covered-winter-forest-landscape-35745687/"
+      "sourceURL": "https://www.pexels.com/photo/serene-snow-covered-winter-forest-landscape-35745687/",
+      "premium": true
     },
     {
       "id": "asset-c3c7b9f815873df4261446a4",
@@ -561,7 +611,8 @@
       "category": "nature",
       "credit": "Pexels / mehmet teke",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/close-up-of-snow-covered-branches-in-winter-town-35402384/"
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-snow-covered-branches-in-winter-town-35402384/",
+      "premium": true
     },
     {
       "id": "asset-3afd4cee30837e0ef09ab8c8",
@@ -572,7 +623,8 @@
       "category": "nature",
       "credit": "Pexels / Azeen Shah",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/view-of-a-field-and-trees-at-snowfall-20318968/"
+      "sourceURL": "https://www.pexels.com/photo/view-of-a-field-and-trees-at-snowfall-20318968/",
+      "premium": true
     },
     {
       "id": "asset-1aa787255a7a4479dca0881c",
@@ -583,7 +635,8 @@
       "category": "nature",
       "credit": "Pexels / 호랑 이쁜",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/-20049525/"
+      "sourceURL": "https://www.pexels.com/video/-20049525/",
+      "premium": true
     },
     {
       "id": "asset-756330ddb3d14ed62415a26b",
@@ -594,7 +647,8 @@
       "category": "nature",
       "credit": "Pexels / Magda Ehlers",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/snowy-pathway-in-winter-forest-wonderland-35637028/"
+      "sourceURL": "https://www.pexels.com/photo/snowy-pathway-in-winter-forest-wonderland-35637028/",
+      "premium": true
     },
     {
       "id": "asset-972bbc7fc04280036bbb7d83",
@@ -605,7 +659,8 @@
       "category": "nature",
       "credit": "Free Nature Stock / CC0",
       "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
-      "sourceURL": "https://freenaturestock.com/video/icy-winter-water/"
+      "sourceURL": "https://freenaturestock.com/video/icy-winter-water/",
+      "premium": true
     },
     {
       "id": "asset-3f4fbf9224754d18ccd8a2ec",
@@ -616,7 +671,8 @@
       "category": "nature",
       "credit": "Free Nature Stock / CC0",
       "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
-      "sourceURL": "https://freenaturestock.com/video/icy-river-rocks/"
+      "sourceURL": "https://freenaturestock.com/video/icy-river-rocks/",
+      "premium": false
     },
     {
       "id": "asset-06b63b77f19cde5b53632eaa",
@@ -627,7 +683,8 @@
       "category": "nature",
       "credit": "Free Nature Stock / CC0",
       "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
-      "sourceURL": "https://freenaturestock.com/video/ice-over-river-water/"
+      "sourceURL": "https://freenaturestock.com/video/ice-over-river-water/",
+      "premium": false
     },
     {
       "id": "asset-582159372e6ae4c42627b45f",
@@ -638,7 +695,8 @@
       "category": "nature",
       "credit": "Pexels / Bofforss",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-white-dog-is-standing-in-the-snow-19642636/"
+      "sourceURL": "https://www.pexels.com/video/a-white-dog-is-standing-in-the-snow-19642636/",
+      "premium": false
     },
     {
       "id": "asset-d7ae01c2799a139aeb6d4a7a",
@@ -649,7 +707,8 @@
       "category": "nature",
       "credit": "Pexels / binary Ego",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/snow-blizzard-14034843/"
+      "sourceURL": "https://www.pexels.com/video/snow-blizzard-14034843/",
+      "premium": false
     },
     {
       "id": "asset-d6d7ccfd78ba1b05e5cbdb15",
@@ -660,7 +719,8 @@
       "category": "nature",
       "credit": "Pexels / binary Ego",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/car-covered-with-snow-14034822/"
+      "sourceURL": "https://www.pexels.com/video/car-covered-with-snow-14034822/",
+      "premium": false
     },
     {
       "id": "asset-266245f00f537df2749de012",
@@ -671,7 +731,8 @@
       "category": "nature",
       "credit": "Pexels / Christina & Peter",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/golden-autumn-forest-with-vibrant-foliage-40593031/"
+      "sourceURL": "https://www.pexels.com/photo/golden-autumn-forest-with-vibrant-foliage-40593031/",
+      "premium": true
     },
     {
       "id": "asset-a3b3ee5a951e1da677ee5f1b",
@@ -682,7 +743,8 @@
       "category": "nature",
       "credit": "Pexels / Physical  Pixel",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/vibrant-autumn-foliage-in-a-sunlit-forest-40440495/"
+      "sourceURL": "https://www.pexels.com/photo/vibrant-autumn-foliage-in-a-sunlit-forest-40440495/",
+      "premium": true
     },
     {
       "id": "asset-897dec916b64cbeb9de94f0a",
@@ -693,7 +755,8 @@
       "category": "nature",
       "credit": "Pexels / Ebahir",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/vibrant-autumn-foliage-on-a-rustic-wall-40283694/"
+      "sourceURL": "https://www.pexels.com/photo/vibrant-autumn-foliage-on-a-rustic-wall-40283694/",
+      "premium": true
     },
     {
       "id": "asset-3469b74eda32969736e6525c",
@@ -704,7 +767,8 @@
       "category": "nature",
       "credit": "Pexels / Griselda Belba",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/autumn-leaves-on-a-concrete-pathway-34735137/"
+      "sourceURL": "https://www.pexels.com/photo/autumn-leaves-on-a-concrete-pathway-34735137/",
+      "premium": true
     },
     {
       "id": "asset-495439c0b65a15e15e0dbe54",
@@ -715,7 +779,8 @@
       "category": "nature",
       "credit": "Pexels / Rahmi Aksöz",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/a-bench-with-leaves-on-it-and-a-leaf-on-the-ground-18594962/"
+      "sourceURL": "https://www.pexels.com/photo/a-bench-with-leaves-on-it-and-a-leaf-on-the-ground-18594962/",
+      "premium": true
     },
     {
       "id": "asset-12fa63b84a8e7f58a4c35c0e",
@@ -726,7 +791,8 @@
       "category": "nature",
       "credit": "Pexels / Damir K",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/autumn-leaves-on-ground-15864382/"
+      "sourceURL": "https://www.pexels.com/photo/autumn-leaves-on-ground-15864382/",
+      "premium": true
     },
     {
       "id": "asset-8c943067faf9010231f41ca2",
@@ -737,7 +803,8 @@
       "category": "nature",
       "credit": "Pexels / Jolly Lamb",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/photograph-of-yellow-maple-leaves-10314310/"
+      "sourceURL": "https://www.pexels.com/photo/photograph-of-yellow-maple-leaves-10314310/",
+      "premium": false
     },
     {
       "id": "asset-55f97f6352950d18a38e9448",
@@ -748,7 +815,8 @@
       "category": "nature",
       "credit": "Pexels / Mathias Reding",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/close-up-of-autumn-leaves-on-ground-9709053/"
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-autumn-leaves-on-ground-9709053/",
+      "premium": false
     },
     {
       "id": "asset-ed8048a6aa2a692638f6f8ef",
@@ -759,7 +827,8 @@
       "category": "nature",
       "credit": "Pexels / SN.CHE",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-person-holding-a-leaf-in-their-hand-18785485/"
+      "sourceURL": "https://www.pexels.com/video/a-person-holding-a-leaf-in-their-hand-18785485/",
+      "premium": false
     },
     {
       "id": "asset-45f2c5249c2fd154f5bcf03f",
@@ -770,7 +839,8 @@
       "category": "nature",
       "credit": "Pexels / Stefanie Jockschat",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/potsdam-im-herbst-no2-18753492/"
+      "sourceURL": "https://www.pexels.com/video/potsdam-im-herbst-no2-18753492/",
+      "premium": false
     },
     {
       "id": "asset-55e44127cceaf50a512e7d23",
@@ -781,7 +851,8 @@
       "category": "nature",
       "credit": "Pexels / Theodore W.T.",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/person-walking-at-the-park-14185184/"
+      "sourceURL": "https://www.pexels.com/video/person-walking-at-the-park-14185184/",
+      "premium": false
     },
     {
       "id": "asset-d67615e6b8aa7a0cecc9184b",
@@ -792,7 +863,8 @@
       "category": "minimal",
       "credit": "Pexels / Jakub Zerdzicki",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/abstract-shapes-on-blue-background-18859903/"
+      "sourceURL": "https://www.pexels.com/photo/abstract-shapes-on-blue-background-18859903/",
+      "premium": true
     },
     {
       "id": "asset-14ac8a7c52a21ee4a834f9d7",
@@ -803,7 +875,8 @@
       "category": "minimal",
       "credit": "Pexels / Threze Gue",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/monochrome-photo-of-shadow-10072229/"
+      "sourceURL": "https://www.pexels.com/photo/monochrome-photo-of-shadow-10072229/",
+      "premium": true
     },
     {
       "id": "asset-7f846d9416d511ed15553468",
@@ -814,7 +887,8 @@
       "category": "minimal",
       "credit": "Pexels / Marina M",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/pink-gradient-background-8357145/"
+      "sourceURL": "https://www.pexels.com/photo/pink-gradient-background-8357145/",
+      "premium": true
     },
     {
       "id": "asset-254e629ded867862599adc9d",
@@ -825,7 +899,8 @@
       "category": "minimal",
       "credit": "Pexels / KATRIN  BOLOVTSOVA",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/geometric-sculpture-7296333/"
+      "sourceURL": "https://www.pexels.com/video/geometric-sculpture-7296333/",
+      "premium": true
     },
     {
       "id": "asset-13b233b4c4c2d938e58327b0",
@@ -836,7 +911,8 @@
       "category": "minimal",
       "credit": "Pexels / 𝗛&𝗖𝗢",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/yellow-building-3068581/"
+      "sourceURL": "https://www.pexels.com/photo/yellow-building-3068581/",
+      "premium": true
     },
     {
       "id": "dune-light",
@@ -847,7 +923,8 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/dune-light.png",
       "credit": "Video To Live · AI-created artwork",
       "sourceURL": "https://ccong.xyz/video-to-live/",
-      "license": "Included wallpaper"
+      "license": "Included wallpaper",
+      "premium": false
     },
     {
       "id": "salt-rose",
@@ -858,7 +935,8 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/salt-rose.png",
       "credit": "Video To Live · AI-created artwork",
       "sourceURL": "https://ccong.xyz/video-to-live/",
-      "license": "Included wallpaper"
+      "license": "Included wallpaper",
+      "premium": false
     },
     {
       "id": "commons-65079366",
@@ -869,7 +947,8 @@
       "sourceURL": "https://commons.wikimedia.org/wiki/File:Falling_Powder_overlies_melt-water_flowing_down_Hachey_Creek_in_Myra-Bellevue_Park,_British_Columbia.webm",
       "license": "CC0",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-65079366-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-65079366.mp4"
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-65079366.mp4",
+      "premium": false
     },
     {
       "id": "commons-151568289",
@@ -883,7 +962,8 @@
         "night"
       ],
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-151568289-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-151568289.mp4"
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-151568289.mp4",
+      "premium": false
     },
     {
       "id": "asset-969f177d0fcce8caff70f71c",
@@ -894,7 +974,8 @@
       "category": "minimal",
       "credit": "Pexels / Leeloo The First",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/shadow-of-palm-leaves-with-glasses-6945212/"
+      "sourceURL": "https://www.pexels.com/video/shadow-of-palm-leaves-with-glasses-6945212/",
+      "premium": false
     },
     {
       "id": "asset-a86233acbe994adc6f819cdb",
@@ -905,7 +986,8 @@
       "category": "minimal",
       "credit": "Pexels / Steve A Johnson",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/pink-and-blue-abstract-painting-25038245/"
+      "sourceURL": "https://www.pexels.com/photo/pink-and-blue-abstract-painting-25038245/",
+      "premium": true
     },
     {
       "id": "asset-87b4e0c5abf293da624ba01e",
@@ -916,7 +998,8 @@
       "category": "minimal",
       "credit": "Pexels / Valeria Nikitina",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/painted-surface-11429036/"
+      "sourceURL": "https://www.pexels.com/photo/painted-surface-11429036/",
+      "premium": true
     },
     {
       "id": "asset-bc2d4523abdda150a140347b",
@@ -927,7 +1010,8 @@
       "category": "minimal",
       "credit": "Pexels / KATRIN  BOLOVTSOVA",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/geometric-sculptures-7296559/"
+      "sourceURL": "https://www.pexels.com/video/geometric-sculptures-7296559/",
+      "premium": true
     },
     {
       "id": "asset-e94db2774e7fe15343a674be",
@@ -938,7 +1022,8 @@
       "category": "minimal",
       "credit": "Pexels / KATRIN  BOLOVTSOVA",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/geometric-sculptures-7296547/"
+      "sourceURL": "https://www.pexels.com/video/geometric-sculptures-7296547/",
+      "premium": true
     },
     {
       "id": "asset-e7a714451132442e1dfdca84",
@@ -949,7 +1034,8 @@
       "category": "minimal",
       "credit": "Pexels / Polina ⠀",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/a-close-up-shot-of-an-abstract-painting-6108841/"
+      "sourceURL": "https://www.pexels.com/photo/a-close-up-shot-of-an-abstract-painting-6108841/",
+      "premium": true
     },
     {
       "id": "asset-98f8400cf5600bf04b348839",
@@ -960,7 +1046,8 @@
       "category": "minimal",
       "credit": "Pexels / kaboompics",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/painted-wall-surface-4710928/"
+      "sourceURL": "https://www.pexels.com/photo/painted-wall-surface-4710928/",
+      "premium": true
     },
     {
       "id": "asset-780ef2b20912c578e8e95618",
@@ -971,7 +1058,8 @@
       "category": "minimal",
       "credit": "Pexels / Steve A Johnson",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/canvas-on-white-wall-24600252/"
+      "sourceURL": "https://www.pexels.com/photo/canvas-on-white-wall-24600252/",
+      "premium": true
     },
     {
       "id": "asset-c3a34c8a6829e11b733d9512",
@@ -982,7 +1070,8 @@
       "category": "minimal",
       "credit": "Pexels / Tamanna Rumee",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/purple-and-yellow-abstract-painting-8749146/"
+      "sourceURL": "https://www.pexels.com/photo/purple-and-yellow-abstract-painting-8749146/",
+      "premium": false
     },
     {
       "id": "asset-cad4ac66518e2a0e114eac7b",
@@ -993,7 +1082,8 @@
       "category": "minimal",
       "credit": "Pexels / Eva Bronzini",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/close-up-photo-of-white-blank-paper-7967943/"
+      "sourceURL": "https://www.pexels.com/photo/close-up-photo-of-white-blank-paper-7967943/",
+      "premium": false
     },
     {
       "id": "asset-72dc3695d7a623943f157ce7",
@@ -1004,7 +1094,8 @@
       "category": "minimal",
       "credit": "Pexels / Polina ⠀",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/gray-and-pink-abstract-painting-6108947/"
+      "sourceURL": "https://www.pexels.com/photo/gray-and-pink-abstract-painting-6108947/",
+      "premium": false
     },
     {
       "id": "asset-e1cd2d6dad5c4aed54ccf71e",
@@ -1015,7 +1106,8 @@
       "category": "minimal",
       "credit": "Pexels / Alexander Grey",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/photo-of-colorful-art-materials-4219291/"
+      "sourceURL": "https://www.pexels.com/photo/photo-of-colorful-art-materials-4219291/",
+      "premium": false
     },
     {
       "id": "asset-388679357ce98da7d77c4ee2",
@@ -1026,7 +1118,8 @@
       "category": "minimal",
       "credit": "Pexels / Alex J. Reed",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/selective-focus-photography-of-plastic-cases-244028/"
+      "sourceURL": "https://www.pexels.com/photo/selective-focus-photography-of-plastic-cases-244028/",
+      "premium": false
     },
     {
       "id": "asset-2f8075d95af2b5c9568c78d6",
@@ -1037,7 +1130,8 @@
       "category": "abstract",
       "credit": "Pexels / Landiva  Weber",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/vibrant-abstract-color-gradient-art-29915900/"
+      "sourceURL": "https://www.pexels.com/photo/vibrant-abstract-color-gradient-art-29915900/",
+      "premium": true
     },
     {
       "id": "asset-13827bea4de4e3489b63184a",
@@ -1048,7 +1142,8 @@
       "category": "abstract",
       "credit": "Pexels / REFARGOTOHP",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/circles-with-gradients-8961542/"
+      "sourceURL": "https://www.pexels.com/photo/circles-with-gradients-8961542/",
+      "premium": true
     },
     {
       "id": "asset-45a3f8a8bb206cb79b321b54",
@@ -1059,7 +1154,8 @@
       "category": "abstract",
       "credit": "Pexels / Codioful (formerly Gradienta)",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/dark-colorful-lights-on-abstract-background-7130481/"
+      "sourceURL": "https://www.pexels.com/photo/dark-colorful-lights-on-abstract-background-7130481/",
+      "premium": true
     },
     {
       "id": "asset-0a9966ab46564e199df65524",
@@ -1070,7 +1166,8 @@
       "category": "abstract",
       "credit": "Pexels / Ann Hannes",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/close-up-of-rough-wall-20387209/"
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-rough-wall-20387209/",
+      "premium": true
     },
     {
       "id": "asset-c0c1c71a595c16a1a0203604",
@@ -1081,7 +1178,8 @@
       "category": "abstract",
       "credit": "Pexels / Kseniya Lapteva",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/close-up-shot-of-an-abstract-painting-9175996/"
+      "sourceURL": "https://www.pexels.com/photo/close-up-shot-of-an-abstract-painting-9175996/",
+      "premium": true
     },
     {
       "id": "asset-e04c87cf33acd484e19b6b36",
@@ -1092,7 +1190,8 @@
       "category": "abstract",
       "credit": "Pexels / Kseniya Lapteva",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/close-up-shot-of-an-abstract-painting-9175741/"
+      "sourceURL": "https://www.pexels.com/photo/close-up-shot-of-an-abstract-painting-9175741/",
+      "premium": true
     },
     {
       "id": "asset-1a974656126128d1fafe5cff",
@@ -1103,7 +1202,8 @@
       "category": "abstract",
       "credit": "Pexels / Eva Bronzini",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-blur-video-of-a-color-7639979/"
+      "sourceURL": "https://www.pexels.com/video/a-blur-video-of-a-color-7639979/",
+      "premium": true
     },
     {
       "id": "asset-a8abe680dba73123c79a482c",
@@ -1114,7 +1214,8 @@
       "category": "abstract",
       "credit": "Pexels / ready made",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/concrete-wall-with-rough-surface-3874048/"
+      "sourceURL": "https://www.pexels.com/photo/concrete-wall-with-rough-surface-3874048/",
+      "premium": true
     },
     {
       "id": "asset-85dd24e37a62c928eb043251",
@@ -1125,7 +1226,8 @@
       "category": "abstract",
       "credit": "Pexels / Marina M",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/brown-background-8357142/"
+      "sourceURL": "https://www.pexels.com/photo/brown-background-8357142/",
+      "premium": true
     },
     {
       "id": "asset-7619d79c26074100c1ab4854",
@@ -1136,7 +1238,8 @@
       "category": "abstract",
       "credit": "Pexels / Codioful (formerly Gradienta)",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/blue-gradient-wallpaper-7130556/"
+      "sourceURL": "https://www.pexels.com/photo/blue-gradient-wallpaper-7130556/",
+      "premium": false
     },
     {
       "id": "asset-2401a6c1abc29c606ab260c4",
@@ -1147,7 +1250,8 @@
       "category": "abstract",
       "credit": "Pexels / Codioful (formerly Gradienta)",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/bright-colorful-lights-on-gradient-background-7130467/"
+      "sourceURL": "https://www.pexels.com/photo/bright-colorful-lights-on-gradient-background-7130467/",
+      "premium": false
     },
     {
       "id": "asset-329c5428bc3017e0f1cfb77d",
@@ -1158,7 +1262,8 @@
       "category": "abstract",
       "credit": "Pexels / oleg  lehnitsky",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-bright-color-wallpaper-8144158/"
+      "sourceURL": "https://www.pexels.com/video/a-bright-color-wallpaper-8144158/",
+      "premium": false
     },
     {
       "id": "asset-ca4576e371bf451f2c6fee3c",
@@ -1169,7 +1274,8 @@
       "category": "abstract",
       "credit": "Pexels / Eva Bronzini",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/artsy-background-7639588/"
+      "sourceURL": "https://www.pexels.com/video/artsy-background-7639588/",
+      "premium": false
     },
     {
       "id": "asset-c7e7c25baf6ee61703faed44",
@@ -1180,7 +1286,8 @@
       "category": "abstract",
       "credit": "Pexels / Eva Bronzini",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/video-of-a-blur-violet-7639540/"
+      "sourceURL": "https://www.pexels.com/video/video-of-a-blur-violet-7639540/",
+      "premium": false
     },
     {
       "id": "asset-4d64b62b6beeb893a0600718",
@@ -1191,7 +1298,8 @@
       "category": "abstract",
       "credit": "Pexels / Arina Dmitrieva",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/thick-clouds-over-the-grassland-8801359/"
+      "sourceURL": "https://www.pexels.com/photo/thick-clouds-over-the-grassland-8801359/",
+      "premium": true
     },
     {
       "id": "asset-8ded1fba5561bcf5dc8c9ab9",
@@ -1202,7 +1310,8 @@
       "category": "abstract",
       "credit": "Pexels / Nothing Ahead",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/vibrant-sunset-sky-with-colorful-clouds-38602715/"
+      "sourceURL": "https://www.pexels.com/photo/vibrant-sunset-sky-with-colorful-clouds-38602715/",
+      "premium": true
     },
     {
       "id": "asset-ffd6f86b0d9fa173a0ab3f3c",
@@ -1213,7 +1322,8 @@
       "category": "abstract",
       "credit": "Pexels / Rino Adamo",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/pastel-sunset-clouds-in-a-vibrant-sky-35690368/"
+      "sourceURL": "https://www.pexels.com/photo/pastel-sunset-clouds-in-a-vibrant-sky-35690368/",
+      "premium": true
     },
     {
       "id": "asset-cc1f79f65e7614b7e602bbd9",
@@ -1224,7 +1334,8 @@
       "category": "abstract",
       "credit": "Pexels / Abdulvahap Demir",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/utility-pole-against-the-evening-sky-19442508/"
+      "sourceURL": "https://www.pexels.com/photo/utility-pole-against-the-evening-sky-19442508/",
+      "premium": true
     },
     {
       "id": "asset-0141e67acfab84aa183721ff",
@@ -1235,7 +1346,8 @@
       "category": "abstract",
       "credit": "Pexels / shaoyi yu",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/clouds-on-sky-at-sunset-12108054/"
+      "sourceURL": "https://www.pexels.com/photo/clouds-on-sky-at-sunset-12108054/",
+      "premium": true
     },
     {
       "id": "asset-31c265eb7cfd3b198ce2ba0c",
@@ -1246,7 +1358,8 @@
       "category": "abstract",
       "credit": "Pexels / Adna Topalovic",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/vivid-sunset-with-dramatic-cloudscape-36970993/"
+      "sourceURL": "https://www.pexels.com/photo/vivid-sunset-with-dramatic-cloudscape-36970993/",
+      "premium": true
     },
     {
       "id": "asset-da996c056100e41560c77fcf",
@@ -1257,7 +1370,8 @@
       "category": "abstract",
       "credit": "Pexels / Ola Noland",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/purple-sunset-at-the-sea-20541702/"
+      "sourceURL": "https://www.pexels.com/photo/purple-sunset-at-the-sea-20541702/",
+      "premium": true
     },
     {
       "id": "asset-d54d0706032339ffb87c6f08",
@@ -1268,7 +1382,8 @@
       "category": "abstract",
       "credit": "Pexels / Ömer  BÜLBÜL",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/sky-during-sunset-19145546/"
+      "sourceURL": "https://www.pexels.com/photo/sky-during-sunset-19145546/",
+      "premium": true
     },
     {
       "id": "asset-96aafc3082b85ebf3a086a6c",
@@ -1279,7 +1394,8 @@
       "category": "abstract",
       "credit": "Pexels / Dominika Mazur",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/clouds-in-the-sky-14617608/"
+      "sourceURL": "https://www.pexels.com/photo/clouds-in-the-sky-14617608/",
+      "premium": false
     },
     {
       "id": "asset-f4126663895336318f9c0d25",
@@ -1290,7 +1406,8 @@
       "category": "abstract",
       "credit": "Pexels / Nothing Ahead",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/photo-of-sky-during-dawn-8180041/"
+      "sourceURL": "https://www.pexels.com/photo/photo-of-sky-during-dawn-8180041/",
+      "premium": false
     },
     {
       "id": "asset-abdb8017ae5e74bc5156ad89",
@@ -1301,7 +1418,8 @@
       "category": "abstract",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": false
     },
     {
       "id": "asset-75ec3b12a380dbb528db4031",
@@ -1312,7 +1430,8 @@
       "category": "abstract",
       "credit": "Pexels / Anete Lusina",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/video-of-a-sky-and-tree-6353198/"
+      "sourceURL": "https://www.pexels.com/video/video-of-a-sky-and-tree-6353198/",
+      "premium": false
     },
     {
       "id": "asset-ec26e5e75c79ef96853d985c",
@@ -1323,7 +1442,8 @@
       "category": "abstract",
       "credit": "Pexels / Sapol Churanon",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/drone-footage-of-city-at-night-11790687/"
+      "sourceURL": "https://www.pexels.com/video/drone-footage-of-city-at-night-11790687/",
+      "premium": false
     },
     {
       "id": "aurora-ridge",
@@ -1338,7 +1458,8 @@
       "tags": [
         "sky",
         "night"
-      ]
+      ],
+      "premium": true
     },
     {
       "id": "iridescent-flow",
@@ -1349,7 +1470,8 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/iridescent-flow.png",
       "credit": "Video To Live · AI-created artwork",
       "sourceURL": "https://ccong.xyz/video-to-live/",
-      "license": "Included wallpaper"
+      "license": "Included wallpaper",
+      "premium": true
     },
     {
       "id": "asset-cee8e6b329e631bfe109fb68",
@@ -1360,7 +1482,8 @@
       "category": "abstract",
       "credit": "Pexels / Up Modern",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/modern-abstract-3d-render-with-gradient-curves-31032752/"
+      "sourceURL": "https://www.pexels.com/photo/modern-abstract-3d-render-with-gradient-curves-31032752/",
+      "premium": true
     },
     {
       "id": "asset-6bc12edefd05db1d83e77ad7",
@@ -1371,7 +1494,8 @@
       "category": "abstract",
       "credit": "Pexels / Eva Bronzini",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-blur-color-of-a-yellow-and-pink-7639980/"
+      "sourceURL": "https://www.pexels.com/video/a-blur-color-of-a-yellow-and-pink-7639980/",
+      "premium": true
     },
     {
       "id": "asset-1441d10615c5fe23baf14942",
@@ -1382,7 +1506,8 @@
       "category": "abstract",
       "credit": "Pexels / Codioful (formerly Gradienta)",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/purple-and-pink-gradient-wallpaper-7130567/"
+      "sourceURL": "https://www.pexels.com/photo/purple-and-pink-gradient-wallpaper-7130567/",
+      "premium": true
     },
     {
       "id": "pearl-folds",
@@ -1393,7 +1518,8 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/pearl-folds.png",
       "credit": "Video To Live · AI-created artwork",
       "sourceURL": "https://ccong.xyz/video-to-live/",
-      "license": "Included wallpaper"
+      "license": "Included wallpaper",
+      "premium": true
     },
     {
       "id": "asset-27646856584b4e838acc2098",
@@ -1404,7 +1530,8 @@
       "category": "abstract",
       "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
       "license": "原创生成内容；项目所有者确认可用于 App 分发",
-      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
+      "premium": true
     },
     {
       "id": "asset-ac7531055516ff647dbaa3dd",
@@ -1415,7 +1542,8 @@
       "category": "abstract",
       "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
       "license": "原创生成内容；项目所有者确认可用于 App 分发",
-      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
+      "premium": false
     },
     {
       "id": "asset-cb8e2b74f80b30796acbba9f",
@@ -1426,7 +1554,8 @@
       "category": "abstract",
       "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
       "license": "原创生成内容；项目所有者确认可用于 App 分发",
-      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
+      "premium": false
     },
     {
       "id": "commons-197917900",
@@ -1448,7 +1577,8 @@
         "outputWidth": 1440,
         "outputHeight": 2560,
         "upscaled": false
-      }
+      },
+      "premium": false
     },
     {
       "id": "commons-202410686",
@@ -1469,7 +1599,8 @@
         "outputWidth": 2160,
         "outputHeight": 3840,
         "upscaled": false
-      }
+      },
+      "premium": false
     },
     {
       "id": "commons-173367376",
@@ -1483,7 +1614,8 @@
         "night"
       ],
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376.mp4"
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-173367376.mp4",
+      "premium": false
     },
     {
       "id": "nasa-carina-stars",
@@ -1497,7 +1629,8 @@
         "night"
       ],
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/nasa-carina-stars.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/nasa-carina-stars-thumb.jpg"
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/nasa-carina-stars-thumb.jpg",
+      "premium": true
     },
     {
       "id": "asset-258746cc77f69fa169844b3a",
@@ -1508,7 +1641,8 @@
       "category": "nature",
       "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
       "license": "原创生成内容；项目所有者确认可用于 App 分发",
-      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
+      "premium": true
     },
     {
       "id": "asset-c62c6d15bd22bde49a1b5676",
@@ -1519,7 +1653,8 @@
       "category": "nature",
       "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
       "license": "原创生成内容；项目所有者确认可用于 App 分发",
-      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers"
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
+      "premium": true
     },
     {
       "id": "asset-a56d801e5a85431327ab17f3",
@@ -1530,7 +1665,8 @@
       "category": "nature",
       "credit": "Free Nature Stock / CC0",
       "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
-      "sourceURL": "https://freenaturestock.com/video/starry-night-rising/"
+      "sourceURL": "https://freenaturestock.com/video/starry-night-rising/",
+      "premium": true
     },
     {
       "id": "asset-65f610ccd7ae600bbfa0584f",
@@ -1541,7 +1677,8 @@
       "category": "nature",
       "credit": "Free Nature Stock / CC0",
       "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
-      "sourceURL": "https://freenaturestock.com/video/milky-way-through-the-clouds/"
+      "sourceURL": "https://freenaturestock.com/video/milky-way-through-the-clouds/",
+      "premium": true
     },
     {
       "id": "asset-b8b1e62cde6474b85c2b6b16",
@@ -1552,7 +1689,8 @@
       "category": "nature",
       "credit": "Free Nature Stock / CC0",
       "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
-      "sourceURL": "https://freenaturestock.com/video/moonlit-clouds/"
+      "sourceURL": "https://freenaturestock.com/video/moonlit-clouds/",
+      "premium": true
     },
     {
       "id": "asset-1507933ede4185f5c851fe9d",
@@ -1563,7 +1701,8 @@
       "category": "nature",
       "credit": "Pexels / Talha Resitoglu",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/starry-night-sky-with-milky-way-visible-36633067/"
+      "sourceURL": "https://www.pexels.com/photo/starry-night-sky-with-milky-way-visible-36633067/",
+      "premium": true
     },
     {
       "id": "asset-d2950227b022f5459e5c86ea",
@@ -1574,7 +1713,8 @@
       "category": "nature",
       "credit": "Pexels / Zeynep Sude  Emek",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/the-milky-way-over-the-hills-of-the-desert-27771787/"
+      "sourceURL": "https://www.pexels.com/photo/the-milky-way-over-the-hills-of-the-desert-27771787/",
+      "premium": true
     },
     {
       "id": "asset-a8059d1a0771ddd0a146998e",
@@ -1585,7 +1725,8 @@
       "category": "nature",
       "credit": "Pexels / Ademir Mattos",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/stars-on-night-sky-17954395/"
+      "sourceURL": "https://www.pexels.com/photo/stars-on-night-sky-17954395/",
+      "premium": true
     },
     {
       "id": "asset-6a3e9f147408c017b3bd50c8",
@@ -1596,7 +1737,8 @@
       "category": "nature",
       "credit": "Pexels / C.T. PHAT",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/stars-in-the-dark-sky-17916303/"
+      "sourceURL": "https://www.pexels.com/photo/stars-in-the-dark-sky-17916303/",
+      "premium": true
     },
     {
       "id": "asset-e109ccc4844cc20bcc743bf9",
@@ -1607,7 +1749,8 @@
       "category": "nature",
       "credit": "Pexels / Alicia Zinn",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/milky-way-in-dark-sky-11564053/"
+      "sourceURL": "https://www.pexels.com/photo/milky-way-in-dark-sky-11564053/",
+      "premium": true
     },
     {
       "id": "asset-a26d5fab167c8b705fa96081",
@@ -1618,7 +1761,8 @@
       "category": "nature",
       "credit": "Pexels / Shay Wood",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/photo-of-milky-way-574115/"
+      "sourceURL": "https://www.pexels.com/photo/photo-of-milky-way-574115/",
+      "premium": true
     },
     {
       "id": "asset-4b0c75ee8a06149fa3e2b5a6",
@@ -1629,7 +1773,8 @@
       "category": "nature",
       "credit": "Free Nature Stock / CC0",
       "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
-      "sourceURL": "https://freenaturestock.com/video/flying-through-the-stars/"
+      "sourceURL": "https://freenaturestock.com/video/flying-through-the-stars/",
+      "premium": true
     },
     {
       "id": "asset-ef7cc1b43080bd14d6d4e8c5",
@@ -1640,7 +1785,8 @@
       "category": "nature",
       "credit": "Free Nature Stock / CC0",
       "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
-      "sourceURL": "https://freenaturestock.com/video/northern-night-sky-before-dawn/"
+      "sourceURL": "https://freenaturestock.com/video/northern-night-sky-before-dawn/",
+      "premium": true
     },
     {
       "id": "asset-ddf3a3181cc099af6238369c",
@@ -1651,7 +1797,8 @@
       "category": "nature",
       "credit": "Free Nature Stock / CC0",
       "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
-      "sourceURL": "https://freenaturestock.com/video/milky-way-pan-over-tree-silhouettes/"
+      "sourceURL": "https://freenaturestock.com/video/milky-way-pan-over-tree-silhouettes/",
+      "premium": false
     },
     {
       "id": "asset-049719533c511af0def0c848",
@@ -1662,7 +1809,8 @@
       "category": "nature",
       "credit": "Free Nature Stock / CC0",
       "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
-      "sourceURL": "https://freenaturestock.com/video/flying-toward-the-milky-way/"
+      "sourceURL": "https://freenaturestock.com/video/flying-toward-the-milky-way/",
+      "premium": false
     },
     {
       "id": "asset-6f0d887c6f4700253b423d2d",
@@ -1673,7 +1821,8 @@
       "category": "nature",
       "credit": "Free Nature Stock / CC0",
       "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
-      "sourceURL": "https://freenaturestock.com/video/clouds-at-dusk/"
+      "sourceURL": "https://freenaturestock.com/video/clouds-at-dusk/",
+      "premium": false
     },
     {
       "id": "asset-137ca11d877f04b52a0b690f",
@@ -1684,7 +1833,8 @@
       "category": "nature",
       "credit": "Pexels / Gentayangan",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-pond-with-birds-and-palm-trees-in-the-background-19071265/"
+      "sourceURL": "https://www.pexels.com/video/a-pond-with-birds-and-palm-trees-in-the-background-19071265/",
+      "premium": false
     },
     {
       "id": "asset-5a060754ea57b1ad0a6922bc",
@@ -1695,7 +1845,8 @@
       "category": "nature",
       "credit": "Pexels / Jorryn Morais",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/time-lapse-of-a-starry-night-sky-14922976/"
+      "sourceURL": "https://www.pexels.com/video/time-lapse-of-a-starry-night-sky-14922976/",
+      "premium": false
     },
     {
       "id": "asset-be4373715ca9aab461469cf7",
@@ -1706,7 +1857,8 @@
       "category": "architecture",
       "credit": "Pexels / Mathias Reding",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/lights-behind-wet-window-at-night-11285597/"
+      "sourceURL": "https://www.pexels.com/photo/lights-behind-wet-window-at-night-11285597/",
+      "premium": true
     },
     {
       "id": "asset-f01dcc4c40468c25dfe4a244",
@@ -1717,7 +1869,8 @@
       "category": "architecture",
       "credit": "Pexels / Darya Grey_Owl",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/buildings-in-city-at-night-16763426/"
+      "sourceURL": "https://www.pexels.com/photo/buildings-in-city-at-night-16763426/",
+      "premium": true
     },
     {
       "id": "asset-987a344f57e5204f61328a31",
@@ -1728,7 +1881,8 @@
       "category": "architecture",
       "credit": "Pexels / Ali Tilki",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/traffic-on-city-street-at-night-11818869/"
+      "sourceURL": "https://www.pexels.com/video/traffic-on-city-street-at-night-11818869/",
+      "premium": true
     },
     {
       "id": "asset-403c515c312d6be485947dcc",
@@ -1739,7 +1893,8 @@
       "category": "architecture",
       "credit": "Pexels / Pavel S",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/photo-of-an-empty-road-at-night-time-8146556/"
+      "sourceURL": "https://www.pexels.com/photo/photo-of-an-empty-road-at-night-time-8146556/",
+      "premium": true
     },
     {
       "id": "asset-868760a11c9c04c47de80b4d",
@@ -1750,7 +1905,8 @@
       "category": "architecture",
       "credit": "Pexels / Edward Eyer",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/white-and-blue-boat-on-water-near-city-buildings-during-night-time-4870808/"
+      "sourceURL": "https://www.pexels.com/photo/white-and-blue-boat-on-water-near-city-buildings-during-night-time-4870808/",
+      "premium": true
     },
     {
       "id": "asset-e31a1b66e1e4ed1defc45cda",
@@ -1761,7 +1917,8 @@
       "category": "architecture",
       "credit": "Pexels / Allen Boguslavsky",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/vibrant-night-street-scene-in-hong-kong-40019067/"
+      "sourceURL": "https://www.pexels.com/photo/vibrant-night-street-scene-in-hong-kong-40019067/",
+      "premium": false
     },
     {
       "id": "asset-5812fa0cd2c046d08927254f",
@@ -1772,7 +1929,8 @@
       "category": "architecture",
       "credit": "Pexels / Willian Justen de Vasconcellos",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/car-on-street-in-city-at-night-15829047/"
+      "sourceURL": "https://www.pexels.com/photo/car-on-street-in-city-at-night-15829047/",
+      "premium": false
     },
     {
       "id": "asset-976a305cfecccb93259ba1eb",
@@ -1783,7 +1941,8 @@
       "category": "architecture",
       "credit": "Pexels / Mohammed Abubakr",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-street-with-a-building-and-a-street-light-16934543/"
+      "sourceURL": "https://www.pexels.com/video/a-street-with-a-building-and-a-street-light-16934543/",
+      "premium": false
     },
     {
       "id": "asset-125a507baf0a65a5430698ac",
@@ -1794,7 +1953,8 @@
       "category": "architecture",
       "credit": "Pexels / Evgenij Mikhailov",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/the-building-where-the-hotel-is-located-16148130/"
+      "sourceURL": "https://www.pexels.com/video/the-building-where-the-hotel-is-located-16148130/",
+      "premium": false
     },
     {
       "id": "asset-0407a15e1a8658f50f82f235",
@@ -1805,7 +1965,8 @@
       "category": "architecture",
       "credit": "Pexels / Gerson  Bahena",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/city-at-night-11933153/"
+      "sourceURL": "https://www.pexels.com/video/city-at-night-11933153/",
+      "premium": false
     },
     {
       "id": "asset-227ea3b9e1d03095282a7991",
@@ -1816,7 +1977,8 @@
       "category": "architecture",
       "credit": "Pexels / Mikhail Nilov",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/woman-in-neon-light-at-the-party-8108553/"
+      "sourceURL": "https://www.pexels.com/photo/woman-in-neon-light-at-the-party-8108553/",
+      "premium": true
     },
     {
       "id": "asset-2ef8ff4fe73c6e2ae7ba45d2",
@@ -1827,7 +1989,8 @@
       "category": "architecture",
       "credit": "Pexels / Mikhail Nilov",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/man-in-black-shirt-wearing-black-sunglasses-8108417/"
+      "sourceURL": "https://www.pexels.com/photo/man-in-black-shirt-wearing-black-sunglasses-8108417/",
+      "premium": false
     },
     {
       "id": "asset-c58868748b97838da8777815",
@@ -1838,7 +2001,8 @@
       "category": "architecture",
       "credit": "Pexels / Mikhail Nilov",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/woman-in-black-clothing-leaning-on-a-bar-8108082/"
+      "sourceURL": "https://www.pexels.com/photo/woman-in-black-clothing-leaning-on-a-bar-8108082/",
+      "premium": false
     },
     {
       "id": "asset-1d24717ca769bf4531c51374",
@@ -1849,7 +2013,8 @@
       "category": "architecture",
       "credit": "Pexels / Mikhail Nilov",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/woman-in-black-leather-jacket-8107913/"
+      "sourceURL": "https://www.pexels.com/photo/woman-in-black-leather-jacket-8107913/",
+      "premium": false
     },
     {
       "id": "asset-2c9eef2641153feb40d27746",
@@ -1860,7 +2025,8 @@
       "category": "architecture",
       "credit": "Pexels / Mikhail Nilov",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/woman-holding-a-gun-8107902/"
+      "sourceURL": "https://www.pexels.com/photo/woman-holding-a-gun-8107902/",
+      "premium": false
     },
     {
       "id": "asset-be9ec5d7e7f17c4f1a67b272",
@@ -1871,7 +2037,8 @@
       "category": "architecture",
       "credit": "Pexels / cottonbro studio",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/man-and-woman-posing-while-looking-at-camera-8683479/"
+      "sourceURL": "https://www.pexels.com/video/man-and-woman-posing-while-looking-at-camera-8683479/",
+      "premium": false
     },
     {
       "id": "asset-584364c2d467842960eeba53",
@@ -1882,7 +2049,8 @@
       "category": "architecture",
       "credit": "Pexels / Dominik Gryzbon",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/vibrant-nightlife-in-downtown-miami-31546916/"
+      "sourceURL": "https://www.pexels.com/photo/vibrant-nightlife-in-downtown-miami-31546916/",
+      "premium": true
     },
     {
       "id": "asset-7f7df115ab513488db7ac25f",
@@ -1893,7 +2061,8 @@
       "category": "architecture",
       "credit": "Pexels / Vincent Rivaud",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/vibrant-nightlife-at-iconic-colony-hotel-28962891/"
+      "sourceURL": "https://www.pexels.com/photo/vibrant-nightlife-at-iconic-colony-hotel-28962891/",
+      "premium": true
     },
     {
       "id": "asset-27dacc51e7507adf93810b90",
@@ -1904,7 +2073,8 @@
       "category": "architecture",
       "credit": "Pexels / Osmany Mederos",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/people-in-the-bar-restaurant-on-the-hotel-lobby-14332619/"
+      "sourceURL": "https://www.pexels.com/photo/people-in-the-bar-restaurant-on-the-hotel-lobby-14332619/",
+      "premium": true
     },
     {
       "id": "asset-5864c2aa1ae926fbe0124afd",
@@ -1915,7 +2085,8 @@
       "category": "architecture",
       "credit": "Pexels / Osmany Mederos",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/silhouette-of-palm-tree-beside-the-illuminated-building-14332614/"
+      "sourceURL": "https://www.pexels.com/photo/silhouette-of-palm-tree-beside-the-illuminated-building-14332614/",
+      "premium": true
     },
     {
       "id": "asset-07082a2de2f41a6fad75725b",
@@ -1926,7 +2097,8 @@
       "category": "architecture",
       "credit": "Pexels / Luis  Erives",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/neon-lighting-on-building-at-night-11457830/"
+      "sourceURL": "https://www.pexels.com/photo/neon-lighting-on-building-at-night-11457830/",
+      "premium": true
     },
     {
       "id": "asset-89ad8a44983ed5383a018b6c",
@@ -1937,7 +2109,8 @@
       "category": "architecture",
       "credit": "Pexels / Luis  Erives",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/car-and-people-near-casino-at-night-11457823/"
+      "sourceURL": "https://www.pexels.com/photo/car-and-people-near-casino-at-night-11457823/",
+      "premium": true
     },
     {
       "id": "asset-a20119ceae81407cdc3faf46",
@@ -1948,7 +2121,8 @@
       "category": "architecture",
       "credit": "Pexels / Luis  Erives",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/illuminated-city-street-at-night-11457821/"
+      "sourceURL": "https://www.pexels.com/photo/illuminated-city-street-at-night-11457821/",
+      "premium": false
     },
     {
       "id": "asset-546caae1430834a427fa8bd6",
@@ -1959,7 +2133,8 @@
       "category": "architecture",
       "credit": "Pexels / Javier Camacho",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/bright-modern-cityscape-with-buildings-glowing-at-night-4092992/"
+      "sourceURL": "https://www.pexels.com/photo/bright-modern-cityscape-with-buildings-glowing-at-night-4092992/",
+      "premium": false
     },
     {
       "id": "asset-e6ca21c5440c1ab84cbcf2f3",
@@ -1970,7 +2145,8 @@
       "category": "architecture",
       "credit": "Pexels / Kebs Visuals",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/colorful-neon-lights-illuminate-the-iconic-colony-hotel-11457816/"
+      "sourceURL": "https://www.pexels.com/photo/colorful-neon-lights-illuminate-the-iconic-colony-hotel-11457816/",
+      "premium": true
     },
     {
       "id": "asset-1b84c2ce5a71aa629a8d22dc",
@@ -1981,7 +2157,8 @@
       "category": "architecture",
       "credit": "Rockstar Games · 官方宣传图",
       "license": "官方宣传素材，版权归 Rockstar Games 所有",
-      "sourceURL": "https://www.rockstargames.com/VI/media"
+      "sourceURL": "https://www.rockstargames.com/VI/media",
+      "premium": true
     },
     {
       "id": "asset-224f176a0a5931753a12dbcb",
@@ -1992,7 +2169,8 @@
       "category": "architecture",
       "credit": "Rockstar Games · 官方宣传图",
       "license": "官方宣传素材，版权归 Rockstar Games 所有",
-      "sourceURL": "https://www.rockstargames.com/VI/media"
+      "sourceURL": "https://www.rockstargames.com/VI/media",
+      "premium": true
     },
     {
       "id": "asset-b1dbf21c1e6cf0c4c14cf38c",
@@ -2003,7 +2181,8 @@
       "category": "architecture",
       "credit": "Rockstar Games · 官方宣传图",
       "license": "官方宣传素材，版权归 Rockstar Games 所有",
-      "sourceURL": "https://www.rockstargames.com/VI/media"
+      "sourceURL": "https://www.rockstargames.com/VI/media",
+      "premium": true
     },
     {
       "id": "asset-99139b7a74e1b98fb5531b48",
@@ -2014,7 +2193,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": true
     },
     {
       "id": "asset-a602edf9196bd5d624cfeb0d",
@@ -2025,7 +2205,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": true
     },
     {
       "id": "asset-a6838d129772340005dddd0e",
@@ -2036,7 +2217,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": true
     },
     {
       "id": "asset-164ab9738370a78cb43b9352",
@@ -2047,7 +2229,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": true
     },
     {
       "id": "asset-d4c95cc606477ac692646451",
@@ -2058,7 +2241,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": true
     },
     {
       "id": "asset-8be75bff182752cd77d16fe3",
@@ -2069,7 +2253,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": true
     },
     {
       "id": "asset-ae037d2f61352eed37b379d1",
@@ -2080,7 +2265,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": true
     },
     {
       "id": "asset-820c71bd555458d3cce53093",
@@ -2091,7 +2277,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": true
     },
     {
       "id": "asset-0c598b9b4172dd15dbdc0a2b",
@@ -2102,7 +2289,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": true
     },
     {
       "id": "asset-5c73200f55311a2b5fccc2b4",
@@ -2113,7 +2301,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": true
     },
     {
       "id": "asset-3eb553283eab998450a2b2c1",
@@ -2124,7 +2313,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": true
     },
     {
       "id": "asset-02fbe3fa8a03a976dec500c5",
@@ -2135,7 +2325,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": true
     },
     {
       "id": "asset-1ed5964d6347147690ce4311",
@@ -2146,7 +2337,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": true
     },
     {
       "id": "asset-e333c4c55a5528d1d001db13",
@@ -2157,7 +2349,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": false
     },
     {
       "id": "asset-cae2a11191a29e32f7f72bed",
@@ -2168,7 +2361,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": false
     },
     {
       "id": "asset-df8b05f47a6ebbeeaef667b0",
@@ -2179,7 +2373,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": false
     },
     {
       "id": "asset-81de2b1b3b1a354418945e5c",
@@ -2190,7 +2385,8 @@
       "category": "architecture",
       "credit": "用户导入",
       "license": "用户导入并确认可用于本 App 展示",
-      "sourceURL": "https://www.xiaohongshu.com/"
+      "sourceURL": "https://www.xiaohongshu.com/",
+      "premium": false
     },
     {
       "id": "asset-c7a605838b3a364674c9b98c",
@@ -2201,7 +2397,8 @@
       "category": "architecture",
       "credit": "Pexels / paashuu",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-woman-standing-on-a-bridge-with-a-green-car-16120741/"
+      "sourceURL": "https://www.pexels.com/video/a-woman-standing-on-a-bridge-with-a-green-car-16120741/",
+      "premium": false
     },
     {
       "id": "asset-dc2b63b56cdf5766807262dd",
@@ -2212,7 +2409,8 @@
       "category": "architecture",
       "credit": "Pexels / Paula",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/downtown-miami-skyline-at-sunset-29086963/"
+      "sourceURL": "https://www.pexels.com/video/downtown-miami-skyline-at-sunset-29086963/",
+      "premium": false
     },
     {
       "id": "asset-89d00343ad5d81047b0d1c1e",
@@ -2223,7 +2421,8 @@
       "category": "architecture",
       "credit": "Pexels / Tima Miroshnichenko",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/neon-liquor-sign-in-chicago-at-night-30979236/"
+      "sourceURL": "https://www.pexels.com/video/neon-liquor-sign-in-chicago-at-night-30979236/",
+      "premium": false
     },
     {
       "id": "asset-2e170bb0f005c39b8c28334d",
@@ -2234,7 +2433,8 @@
       "category": "architecture",
       "credit": "Pexels / 3d-art-project",
       "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/neon-lit-building-in-cyberpunk-style-at-night-34672414/"
+      "sourceURL": "https://www.pexels.com/video/neon-lit-building-in-cyberpunk-style-at-night-34672414/",
+      "premium": false
     }
   ]
 }
