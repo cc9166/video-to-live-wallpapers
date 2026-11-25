@@ -297,29 +297,14 @@
       "catalogID": "asset-1b84c2ce5a71aa629a8d22dc"
     },
     {
-      "id": "e2bfd2dd9ad94902",
-      "folder": "dab746c5441a",
-      "catalogID": "asset-945b065661d2544571bb35a7"
-    },
-    {
       "id": "3919868f675b42b9",
       "folder": "dab746c5441a",
       "catalogID": "asset-58f527d87b36b0039e367ae3"
     },
     {
-      "id": "0176315dc2494f7f",
-      "folder": "dab746c5441a",
-      "catalogID": "asset-4df7a7cdb3d08cf8bdc9cea3"
-    },
-    {
       "id": "eac04d3df3bd4ccd",
       "folder": "dab746c5441a",
       "catalogID": "asset-e6ca21c5440c1ab84cbcf2f3"
-    },
-    {
-      "id": "0849f60ee3224d0c",
-      "folder": "dab746c5441a",
-      "catalogID": "asset-fced4559d0e88c2c26c4e119"
     },
     {
       "id": "c9ecf523be754b74",
@@ -330,11 +315,6 @@
       "id": "a48e768d63c1498b",
       "folder": "dab746c5441a",
       "catalogID": "asset-8e968f7175652112eaf1fce0"
-    },
-    {
-      "id": "90a5e11de6194843",
-      "folder": "dab746c5441a",
-      "catalogID": "asset-130b4af133b061637d6cbd16"
     },
     {
       "id": "0987b90f23924f36",
@@ -392,24 +372,9 @@
       "catalogID": "asset-584364c2d467842960eeba53"
     },
     {
-      "id": "d887e2010dca4993",
-      "folder": "4d8af6761ee8",
-      "catalogID": "asset-f6cc5c8353328d234b2989e0"
-    },
-    {
-      "id": "4b1575a1d47e489a",
-      "folder": "4d8af6761ee8",
-      "catalogID": "asset-58fa5c4eb78e87cc073f59ef"
-    },
-    {
       "id": "cbccfd6738e748cf",
       "folder": "4d8af6761ee8",
       "catalogID": "asset-be9ec5d7e7f17c4f1a67b272"
-    },
-    {
-      "id": "344229cc132c4f3a",
-      "folder": "4d8af6761ee8",
-      "catalogID": "asset-c3986ccc54e820ab0dd2e486"
     },
     {
       "id": "101209a70dd541fa",
@@ -435,16 +400,6 @@
       "id": "cfd69a9559b54da2",
       "folder": "4d8af6761ee8",
       "catalogID": "asset-227ea3b9e1d03095282a7991"
-    },
-    {
-      "id": "0294f8378cf0427a",
-      "folder": "4d8af6761ee8",
-      "catalogID": "asset-b827515f1496f73720f92c31"
-    },
-    {
-      "id": "a4722e4a604d4801",
-      "folder": "4d8af6761ee8",
-      "catalogID": "asset-5b7837fa0b9c4b1f4f7451a4"
     },
     {
       "id": "6aefe68a048648ed",
@@ -1245,11 +1200,6 @@
       "id": "562fbf310fac4f1a",
       "folder": "ca8cae607d72",
       "catalogID": "asset-ff61021c2517cff8139581b8"
-    },
-    {
-      "id": "cd58a4d903ae4699",
-      "folder": "ca8cae607d72",
-      "catalogID": "asset-65676a993a5fcf629d907994"
     },
     {
       "id": "92e97a9705d34e22",

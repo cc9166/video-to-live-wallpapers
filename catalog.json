@@ -1,7 +1,106 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T07:01:00Z",
+  "updatedAt": "2026-11-25T07:36:43Z",
   "items": [
+    {
+      "id": "asset-903ee7ba83992798d8e6c3bc",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-be1373fef7e336a400986ecb6efc8684.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-3d94b365da84e5e082b983bed7dd1e79.jpg",
+      "title": "沙浪起伏",
+      "category": "nature",
+      "credit": "Pexels / Taryn Elliott",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/brown-sand-under-gray-sky-4405243/"
+    },
+    {
+      "id": "asset-233a7fafe5ca702b59f9420c",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-2e9f670f288d6cffd4e334a21d0527fe.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-3b2f5986598e64b58a7e5f8e06c6648d.jpg",
+      "title": "金色沙丘",
+      "category": "nature",
+      "credit": "Pexels / KJeremy",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/a-desert-with-a-plane-flying-over-it-16265138/"
+    },
+    {
+      "id": "asset-b0245a464a22edf1b43743b5",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-46027ac129a15c1473201dc53692c695.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-34fc83c3af5ff36be4fc50dba58767ad.jpg",
+      "title": "大漠孤烟",
+      "category": "nature",
+      "credit": "Pexels / Tanya",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/vertical-shot-of-desert-dunes-11371498/"
+    },
+    {
+      "id": "asset-3b1ff64d615692522fdcd262",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-81ae0b6fadfc2e422198bffcd96d61b1.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-56065f85202fb1a93427f7da3ac928c6.jpg",
+      "title": "沙海纹理",
+      "category": "nature",
+      "credit": "Pexels / Daniel Bernardi",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/clear-sky-over-desert-by-sea-10869006/"
+    },
+    {
+      "id": "asset-da8818b6e4447fef63b64271",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-cb123fff7ccb04eb46045b7946d343d0.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-23d5486db04d787b5aef985c11984e7d.jpg",
+      "title": "盛夏海风",
+      "category": "nature",
+      "credit": "Pexels / Tuấn Vũ",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/glowing-sunlight-reflection-on-ocean-waves-40050198/"
+    },
+    {
+      "id": "asset-f9309492d82726260dddddc2",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6cb04f07b60a30ce2fea515fef7fe39d.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-17f1c8a7206256bbfd448e6b07373e39.jpg",
+      "title": "夏日浪花",
+      "category": "nature",
+      "credit": "Pexels / Mia",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-wavy-water-17396296/"
+    },
+    {
+      "id": "asset-60c426626642eb4d902879f1",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-629d39011e44569ae1d499e98c445aff.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bf240d96e2a4cc3ff1ee0779f1ff417c.jpg",
+      "title": "夏天精选1",
+      "category": "nature",
+      "credit": "Pexels / Vitória Zanella",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/calm-beach-shoreline-with-gentle-waves-35562646/"
+    },
+    {
+      "id": "asset-75aacf9cfb4a13173d5c61d5",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0f997aee5f258ad3fb5233279d020824.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c4a49709bf0cf591c2e3d7cc607fc973.jpg",
+      "title": "夏天精选2",
+      "category": "nature",
+      "credit": "Pexels / Enes Akdoğan",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/sunlight-reflecting-in-sea-26588312/"
+    },
+    {
+      "id": "asset-6bd62fb605b5d473d7ef7bed",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-968ba8a75fc83a239f282641975765b1.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-eedd7bbc217d16efe1a83f68d8ee87fa.jpg",
+      "title": "夏天精选3",
+      "category": "nature",
+      "credit": "Pexels / Vera Emilie",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/calm-blue-sea-18001087/"
+    },
     {
       "id": "asset-d53a4dc4d5b471ed23a2e3d5",
       "kind": "still",
@@ -1654,28 +1753,6 @@
       "sourceURL": "https://www.pexels.com/video/city-at-night-11933153/"
     },
     {
-      "id": "asset-5b7837fa0b9c4b1f4f7451a4",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-7032a632215195b5292c814ad758f707.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-a11cf451b9292af45201a5f34a8ed79c.jpg",
-      "title": "未来街景",
-      "category": "architecture",
-      "credit": "Pexels / Mikhail Nilov",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/portrait-of-woman-in-black-leather-jacket-8108560/"
-    },
-    {
-      "id": "asset-b827515f1496f73720f92c31",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-ab57104a35f45663a3bd7b0e4fd9a1c6.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0fbebde337022c39bc90135db9d887d7.jpg",
-      "title": "霓虹未来",
-      "category": "architecture",
-      "credit": "Pexels / Mikhail Nilov",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/man-among-neon-lights-in-a-nightclub-8108558/"
-    },
-    {
       "id": "asset-227ea3b9e1d03095282a7991",
       "kind": "still",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d0ae63bf16ad8d872aadb85fa9f47098.jpg",
@@ -1731,17 +1808,6 @@
       "sourceURL": "https://www.pexels.com/photo/woman-holding-a-gun-8107902/"
     },
     {
-      "id": "asset-c3986ccc54e820ab0dd2e486",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-74b5720933404d4f39781a296e11fe4b.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f005599bde303214219ae2ca8eb4c270.jpg",
-      "title": "电子都市",
-      "category": "architecture",
-      "credit": "Pexels / Mikhail Nilov",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/woman-in-black-leather-jacket-8107856/"
-    },
-    {
       "id": "asset-be9ec5d7e7f17c4f1a67b272",
       "kind": "live",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-e3c14af35b89a33b30642927586f60eb.mp4",
@@ -1751,28 +1817,6 @@
       "credit": "Pexels / cottonbro studio",
       "license": "Pexels License（免费商用，无需署名）",
       "sourceURL": "https://www.pexels.com/video/man-and-woman-posing-while-looking-at-camera-8683479/"
-    },
-    {
-      "id": "asset-58fa5c4eb78e87cc073f59ef",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-5182963a592bd1d194a1ddbe584a4cf5.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b159d932a73919baa396e55fc8ed9905.jpg",
-      "title": "未来都市",
-      "category": "architecture",
-      "credit": "Pexels / Alena Darmel",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-man-striking-pose-while-wearing-a-stylish-clothes-6944580/"
-    },
-    {
-      "id": "asset-f6cc5c8353328d234b2989e0",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-cea4ac6769d5c1a9f80dfdee93926336.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-63248b92d89901b1adcad6a115c0fcfc.jpg",
-      "title": "数据流光",
-      "category": "architecture",
-      "credit": "Pexels / Yaroslav Shuraev",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/woman-with-bionic-hand-7689152/"
     },
     {
       "id": "asset-584364c2d467842960eeba53",
@@ -1896,17 +1940,6 @@
       "sourceURL": "https://www.pexels.com/video/woman-posing-in-front-of-neon-lights-8111738/"
     },
     {
-      "id": "asset-130b4af133b061637d6cbd16",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8a95fa89c1148999a8aa79d46782e1af.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-9bc870dd24cde6f67f886cb3c5dc95b9.jpg",
-      "title": "棕榈大道",
-      "category": "architecture",
-      "credit": "Pexels / Yudi Ding",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/close-up-of-plumber-working-with-copper-pipe-39885416/"
-    },
-    {
       "id": "asset-8e968f7175652112eaf1fce0",
       "kind": "still",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d07371f4ca09fe6086a79e802368ffd6.jpg",
@@ -1929,17 +1962,6 @@
       "sourceURL": "https://www.pexels.com/photo/dark-image-of-a-metal-vice-13765802/"
     },
     {
-      "id": "asset-fced4559d0e88c2c26c4e119",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c10b03a2aa128db66c3b06613faa5a8a.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-ad9c4794da2472f948999e56d4525711.jpg",
-      "title": "阳光海岸公路",
-      "category": "architecture",
-      "credit": "Pexels / mohammadreza merhvand",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/grayscale-photo-of-a-bearded-man-smoking-cigarette-11749023/"
-    },
-    {
       "id": "asset-e6ca21c5440c1ab84cbcf2f3",
       "kind": "still",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-ba54183686db8b004c00c75fcabbc3ef.jpg",
@@ -1951,17 +1973,6 @@
       "sourceURL": "https://www.pexels.com/photo/colorful-neon-lights-illuminate-the-iconic-colony-hotel-11457816/"
     },
     {
-      "id": "asset-4df7a7cdb3d08cf8bdc9cea3",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-006bec96f34b492ee716952eab7b2e80.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0aca3044dda80fb221df4b21dcf1105b.jpg",
-      "title": "热浪夜色",
-      "category": "architecture",
-      "credit": "Pexels / Aqib Shahid",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/man-wearing-a-puffer-jacket-smoking-a-cigarette-11279318/"
-    },
-    {
       "id": "asset-58f527d87b36b0039e367ae3",
       "kind": "still",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-fbba65f9f030be66b0caca21204eaa2c.jpg",
@@ -1971,17 +1982,6 @@
       "credit": "Pexels / Kebs Visuals",
       "license": "Pexels License（免费商用，无需署名）",
       "sourceURL": "https://www.pexels.com/photo/a-person-smoking-cigarette-9360163/"
-    },
-    {
-      "id": "asset-945b065661d2544571bb35a7",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-9b50a75399a060679e4a10e55a7769a3.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-2f58825c070f655a35e80c703419e531.jpg",
-      "title": "粉色天际",
-      "category": "architecture",
-      "credit": "Pexels / cottonbro studio",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/a-person-holding-a-cigarette-5097402/"
     },
     {
       "id": "asset-1b84c2ce5a71aa629a8d22dc",
