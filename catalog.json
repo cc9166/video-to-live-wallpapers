@@ -1,7 +1,67 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T09:24:07Z",
+  "updatedAt": "2026-11-25T18:31:40Z",
   "items": [
+    {
+      "id": "asset-b0245a464a22edf1b43743b5",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-46027ac129a15c1473201dc53692c695.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-34fc83c3af5ff36be4fc50dba58767ad.jpg",
+      "title": "大漠孤烟",
+      "category": "nature",
+      "credit": "Pexels / Tanya",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/vertical-shot-of-desert-dunes-11371498/",
+      "premium": false
+    },
+    {
+      "id": "asset-3b1ff64d615692522fdcd262",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-81ae0b6fadfc2e422198bffcd96d61b1.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-56065f85202fb1a93427f7da3ac928c6.jpg",
+      "title": "沙海纹理",
+      "category": "nature",
+      "credit": "Pexels / Daniel Bernardi",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/clear-sky-over-desert-by-sea-10869006/",
+      "premium": false
+    },
+    {
+      "id": "asset-da8818b6e4447fef63b64271",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-cb123fff7ccb04eb46045b7946d343d0.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-23d5486db04d787b5aef985c11984e7d.jpg",
+      "title": "盛夏海风",
+      "category": "nature",
+      "credit": "Pexels / Tuấn Vũ",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/glowing-sunlight-reflection-on-ocean-waves-40050198/",
+      "premium": true
+    },
+    {
+      "id": "asset-f9309492d82726260dddddc2",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6cb04f07b60a30ce2fea515fef7fe39d.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-17f1c8a7206256bbfd448e6b07373e39.jpg",
+      "title": "夏日浪花",
+      "category": "nature",
+      "credit": "Pexels / Mia",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-wavy-water-17396296/",
+      "premium": true
+    },
+    {
+      "id": "asset-60c426626642eb4d902879f1",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-629d39011e44569ae1d499e98c445aff.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bf240d96e2a4cc3ff1ee0779f1ff417c.jpg",
+      "title": "夏天精选1",
+      "category": "nature",
+      "credit": "Pexels / Vitória Zanella",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/calm-beach-shoreline-with-gentle-waves-35562646/",
+      "premium": true
+    },
     {
       "id": "asset-75aacf9cfb4a13173d5c61d5",
       "kind": "still",
@@ -2326,31 +2386,7 @@
       "credit": "NASA / 公有领域",
       "license": "NASA 公有领域（可商用再分发，须保留署名）",
       "sourceURL": "https://images.nasa.gov/details/PIA04635",
-      "premium": true
-    },
-    {
-      "id": "asset-ca118392c97465cc4fb2f969",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-67bb45e442d874bea06651628aea3b00.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bd56d181515cf4655663152b07eaf8e3.jpg",
-      "title": "GALAXY · Galaxy NGC5398",
-      "category": "abstract",
-      "credit": "NASA / 公有领域",
-      "license": "NASA 公有领域（可商用再分发，须保留署名）",
-      "sourceURL": "https://images.nasa.gov/details/PIA04633",
-      "premium": true
-    },
-    {
-      "id": "asset-d0e350c616ddd5b6b7f24cc4",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0171d66fbdeb49d389fed9c6bf11bbac.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-dd38cd505a8fa53202413ec4ab7caba5.jpg",
-      "title": "EARTH · Earth Observation from the Internati",
-      "category": "abstract",
-      "credit": "NASA / 公有领域",
-      "license": "NASA 公有领域（可商用再分发，须保留署名）",
-      "sourceURL": "https://images.nasa.gov/details/iss045e013851",
-      "premium": true
+      "premium": false
     },
     {
       "id": "asset-6950ae0a28f3dd46a0e3801f",
@@ -2362,7 +2398,7 @@
       "credit": "NASA / 公有领域",
       "license": "NASA 公有领域（可商用再分发，须保留署名）",
       "sourceURL": "https://images.nasa.gov/details/iss043e003041",
-      "premium": true
+      "premium": false
     },
     {
       "id": "asset-3b37ec684980bdaeb8589d4d",
@@ -2374,7 +2410,7 @@
       "credit": "NASA / 公有领域",
       "license": "NASA 公有领域（可商用再分发，须保留署名）",
       "sourceURL": "https://images.nasa.gov/details/iss040e117941",
-      "premium": true
+      "premium": false
     },
     {
       "id": "asset-5f209d742ca63521151aca57",
@@ -2389,30 +2425,6 @@
       "premium": false
     },
     {
-      "id": "asset-0f966177e38b82afcbc6eeb4",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bef1165b07853990f10e876bf6658364.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c3ea5fa404b192232db09d7a7869532f.jpg",
-      "title": "AURORA · Aurora Australis taken from the shut",
-      "category": "abstract",
-      "credit": "NASA / 公有领域",
-      "license": "NASA 公有领域（可商用再分发，须保留署名）",
-      "sourceURL": "https://images.nasa.gov/details/sts085-365-006",
-      "premium": false
-    },
-    {
-      "id": "asset-c43acbf92aa26f4255e5ebbd",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b14601aef651d72f61ccb4879f556943.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-090ecd3580105b95e44381f9b737f65d.jpg",
-      "title": "AURORA · The aurora australis arcs above Eart",
-      "category": "abstract",
-      "credit": "NASA / 公有领域",
-      "license": "NASA 公有领域（可商用再分发，须保留署名）",
-      "sourceURL": "https://images.nasa.gov/details/iss074e0504006",
-      "premium": false
-    },
-    {
       "id": "asset-3e2a81b0d9314d25986a9165",
       "kind": "live",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b01e119096c8c64d21a64a44cbf69f2d.mp4",
@@ -2422,18 +2434,6 @@
       "credit": "NASA / 公有领域",
       "license": "NASA 公有领域（可商用再分发，须保留署名）",
       "sourceURL": "https://images.nasa.gov/details/iss074e0436787",
-      "premium": false
-    },
-    {
-      "id": "asset-5b62faf7d5040afde35df993",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-7a71a787449e13f3e229fbb74a4191d4.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-a4761a39d3740bbf0c9a10bd5e8b930f.jpg",
-      "title": "AURORA · The aurora australis streams over th",
-      "category": "abstract",
-      "credit": "NASA / 公有领域",
-      "license": "NASA 公有领域（可商用再分发，须保留署名）",
-      "sourceURL": "https://images.nasa.gov/details/iss072e083078",
       "premium": false
     }
   ]

@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "id": "asset-aab53764f1ec7b2562d5f449",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-aed84ebbfc67928a4a61e9cd40ae271b.mov",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6ae67a2648a45a2bd303272bf340d616.jpg",
+      "pairedPhoto": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f2a1875126a2ff439e6fa2b57fd0299b.heic",
+      "title": "晶莹花朵",
+      "category": "nature",
+      "credit": "MyScreen（获取平台）",
+      "license": "通过 MyScreen 免费下载；原作者和再分发许可尚未核实",
+      "sourceURL": "https://binarywolf.io/",
+      "studioFolder": "d421f61b2624",
+      "premium": true
+    }
+  ]
+}
