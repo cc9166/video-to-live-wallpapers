@@ -1,0 +1,41 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "id": "dune-light",
+      "title": "Dune Light",
+      "kind": "still",
+      "category": "minimal",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/dune-light.png",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/dune-light.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "studioFolder": "minimal"
+    },
+    {
+      "id": "tidal-blue",
+      "title": "Tidal Blue",
+      "kind": "still",
+      "category": "ocean",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/tidal-blue.png",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/tidal-blue.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "studioFolder": "ocean"
+    },
+    {
+      "id": "alpine-hush",
+      "title": "Alpine Hush",
+      "kind": "still",
+      "category": "mountains",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/alpine-hush.png",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/alpine-hush.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "studioFolder": "mountains"
+    }
+  ]
+}
