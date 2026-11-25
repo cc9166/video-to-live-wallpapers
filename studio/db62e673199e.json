@@ -11,24 +11,6 @@
         "legacy": "architecture"
       },
       {
-        "id": "a75b087c708f",
-        "name": "迈阿密霓虹",
-        "parent": "",
-        "legacy": "architecture"
-      },
-      {
-        "id": "4d8af6761ee8",
-        "name": "赛博朋克",
-        "parent": "",
-        "legacy": "architecture"
-      },
-      {
-        "id": "f115ed4e02d6",
-        "name": "城市霓虹",
-        "parent": "",
-        "legacy": "architecture"
-      },
-      {
         "id": "62ed5f5ace8f",
         "name": "夜空",
         "parent": "",
@@ -243,26 +225,6 @@
       "catalogID": "asset-4cfeaad0c083268ccf79d775"
     },
     {
-      "id": "754354603d5d47da",
-      "folder": "a75b087c708f",
-      "catalogID": "asset-2e170bb0f005c39b8c28334d"
-    },
-    {
-      "id": "2c8947b18ea34157",
-      "folder": "a75b087c708f",
-      "catalogID": "asset-89d00343ad5d81047b0d1c1e"
-    },
-    {
-      "id": "5a61d22051a3406e",
-      "folder": "a75b087c708f",
-      "catalogID": "asset-dc2b63b56cdf5766807262dd"
-    },
-    {
-      "id": "ac1b9edceb984a79",
-      "folder": "dab746c5441a",
-      "catalogID": "asset-c7a605838b3a364674c9b98c"
-    },
-    {
       "id": "745ca6aeaf964e84",
       "folder": "dab746c5441a",
       "catalogID": "asset-81de2b1b3b1a354418945e5c"
@@ -363,144 +325,9 @@
       "catalogID": "asset-1b84c2ce5a71aa629a8d22dc"
     },
     {
-      "id": "eac04d3df3bd4ccd",
-      "folder": "dab746c5441a",
-      "catalogID": "asset-e6ca21c5440c1ab84cbcf2f3"
-    },
-    {
-      "id": "29cd6268ac50476d",
-      "folder": "a75b087c708f",
-      "catalogID": "asset-546caae1430834a427fa8bd6"
-    },
-    {
-      "id": "782e55096bc145e3",
-      "folder": "a75b087c708f",
-      "catalogID": "asset-a20119ceae81407cdc3faf46"
-    },
-    {
-      "id": "e70f4a5460b4476d",
-      "folder": "a75b087c708f",
-      "catalogID": "asset-89ad8a44983ed5383a018b6c"
-    },
-    {
-      "id": "a6a2a02567c3426c",
-      "folder": "a75b087c708f",
-      "catalogID": "asset-07082a2de2f41a6fad75725b"
-    },
-    {
-      "id": "3f99adc8bd1a439d",
-      "folder": "a75b087c708f",
-      "catalogID": "asset-5864c2aa1ae926fbe0124afd"
-    },
-    {
-      "id": "7a33e20a40bd408e",
-      "folder": "a75b087c708f",
-      "catalogID": "asset-27dacc51e7507adf93810b90"
-    },
-    {
-      "id": "5e46d32e151c435f",
-      "folder": "a75b087c708f",
-      "catalogID": "asset-7f7df115ab513488db7ac25f"
-    },
-    {
-      "id": "0f75a9ca64e04501",
-      "folder": "a75b087c708f",
-      "catalogID": "asset-584364c2d467842960eeba53"
-    },
-    {
-      "id": "cbccfd6738e748cf",
-      "folder": "4d8af6761ee8",
-      "catalogID": "asset-be9ec5d7e7f17c4f1a67b272"
-    },
-    {
-      "id": "101209a70dd541fa",
-      "folder": "4d8af6761ee8",
-      "catalogID": "asset-2c9eef2641153feb40d27746"
-    },
-    {
-      "id": "e5d51a1de6504b96",
-      "folder": "4d8af6761ee8",
-      "catalogID": "asset-1d24717ca769bf4531c51374"
-    },
-    {
-      "id": "17b3f219f0e640a5",
-      "folder": "4d8af6761ee8",
-      "catalogID": "asset-c58868748b97838da8777815"
-    },
-    {
-      "id": "7ea9d3b0fff44338",
-      "folder": "4d8af6761ee8",
-      "catalogID": "asset-2ef8ff4fe73c6e2ae7ba45d2"
-    },
-    {
-      "id": "cfd69a9559b54da2",
-      "folder": "4d8af6761ee8",
-      "catalogID": "asset-227ea3b9e1d03095282a7991"
-    },
-    {
-      "id": "6aefe68a048648ed",
-      "folder": "f115ed4e02d6",
-      "catalogID": "asset-0407a15e1a8658f50f82f235"
-    },
-    {
-      "id": "0fa4b42fc00d4323",
-      "folder": "f115ed4e02d6",
-      "catalogID": "asset-125a507baf0a65a5430698ac"
-    },
-    {
-      "id": "eba523182da94932",
-      "folder": "f115ed4e02d6",
-      "catalogID": "asset-976a305cfecccb93259ba1eb"
-    },
-    {
-      "id": "5f2dba0a123b447f",
-      "folder": "f115ed4e02d6",
-      "catalogID": "asset-5812fa0cd2c046d08927254f"
-    },
-    {
-      "id": "e12f8397840841d8",
-      "folder": "f115ed4e02d6",
-      "catalogID": "asset-e31a1b66e1e4ed1defc45cda"
-    },
-    {
-      "id": "dee005e5da834f91",
-      "folder": "f115ed4e02d6",
-      "catalogID": "asset-868760a11c9c04c47de80b4d"
-    },
-    {
-      "id": "0cc41f4f604f4cd2",
-      "folder": "f115ed4e02d6",
-      "catalogID": "asset-403c515c312d6be485947dcc"
-    },
-    {
-      "id": "de205f69af9f4d60",
-      "folder": "f115ed4e02d6",
-      "catalogID": "asset-987a344f57e5204f61328a31"
-    },
-    {
-      "id": "054d4386ed884062",
-      "folder": "f115ed4e02d6",
-      "catalogID": "asset-f01dcc4c40468c25dfe4a244"
-    },
-    {
-      "id": "1e57fadf335c46d9",
-      "folder": "f115ed4e02d6",
-      "catalogID": "asset-be4373715ca9aab461469cf7"
-    },
-    {
       "id": "4438033c7c5b467b",
       "folder": "62ed5f5ace8f",
       "catalogID": "asset-5a060754ea57b1ad0a6922bc"
-    },
-    {
-      "id": "30a0d81466264fec",
-      "folder": "62ed5f5ace8f",
-      "catalogID": "asset-137ca11d877f04b52a0b690f"
-    },
-    {
-      "id": "af626ef9d85f4070",
-      "folder": "62ed5f5ace8f",
-      "catalogID": "asset-6f0d887c6f4700253b423d2d"
     },
     {
       "id": "697b5fd571e94990",

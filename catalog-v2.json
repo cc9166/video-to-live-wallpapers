@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-25T18:31:40Z",
-  "release": "a70f2367dc534639",
-  "total": 361,
+  "updatedAt": "2026-11-25T19:09:55Z",
+  "release": "04f81bff05a14f10",
+  "total": 330,
   "categories": [
     {
       "id": "dab746c5441a",
@@ -11,41 +11,8 @@
       "legacy": "architecture",
       "order": 0,
       "counts": {
-        "still": 21,
-        "live": 1
-      }
-    },
-    {
-      "id": "a75b087c708f",
-      "name": "迈阿密霓虹",
-      "parent": "",
-      "legacy": "architecture",
-      "order": 1,
-      "counts": {
-        "still": 8,
-        "live": 3
-      }
-    },
-    {
-      "id": "4d8af6761ee8",
-      "name": "赛博朋克",
-      "parent": "",
-      "legacy": "architecture",
-      "order": 2,
-      "counts": {
-        "still": 5,
-        "live": 1
-      }
-    },
-    {
-      "id": "f115ed4e02d6",
-      "name": "城市霓虹",
-      "parent": "",
-      "legacy": "architecture",
-      "order": 3,
-      "counts": {
-        "still": 6,
-        "live": 4
+        "still": 20,
+        "live": 0
       }
     },
     {
@@ -53,10 +20,10 @@
       "name": "夜空",
       "parent": "",
       "legacy": "nature",
-      "order": 4,
+      "order": 1,
       "counts": {
         "still": 9,
-        "live": 10
+        "live": 8
       }
     },
     {
@@ -64,7 +31,7 @@
       "name": "光影抽象",
       "parent": "",
       "legacy": "abstract",
-      "order": 5,
+      "order": 2,
       "counts": {
         "still": 8,
         "live": 4
@@ -75,7 +42,7 @@
       "name": "紫色晚霞",
       "parent": "",
       "legacy": "abstract",
-      "order": 6,
+      "order": 3,
       "counts": {
         "still": 11,
         "live": 2
@@ -86,7 +53,7 @@
       "name": "流光渐变",
       "parent": "",
       "legacy": "abstract",
-      "order": 7,
+      "order": 4,
       "counts": {
         "still": 10,
         "live": 4
@@ -97,7 +64,7 @@
       "name": "奶白素色",
       "parent": "",
       "legacy": "minimal",
-      "order": 8,
+      "order": 5,
       "counts": {
         "still": 10,
         "live": 2
@@ -108,7 +75,7 @@
       "name": "极简",
       "parent": "",
       "legacy": "minimal",
-      "order": 9,
+      "order": 6,
       "counts": {
         "still": 6,
         "live": 4
@@ -119,7 +86,7 @@
       "name": "秋日暖阳",
       "parent": "",
       "legacy": "nature",
-      "order": 10,
+      "order": 7,
       "counts": {
         "still": 8,
         "live": 3
@@ -130,7 +97,7 @@
       "name": "冬天",
       "parent": "",
       "legacy": "nature",
-      "order": 11,
+      "order": 8,
       "counts": {
         "still": 13,
         "live": 7
@@ -141,7 +108,7 @@
       "name": "热带记忆",
       "parent": "",
       "legacy": "nature",
-      "order": 12,
+      "order": 9,
       "counts": {
         "still": 10,
         "live": 4
@@ -152,7 +119,7 @@
       "name": "夏天",
       "parent": "",
       "legacy": "nature",
-      "order": 13,
+      "order": 10,
       "counts": {
         "still": 10,
         "live": 3
@@ -163,7 +130,7 @@
       "name": "沙漠之海",
       "parent": "",
       "legacy": "nature",
-      "order": 14,
+      "order": 11,
       "counts": {
         "still": 11,
         "live": 3
@@ -174,7 +141,7 @@
       "name": "海洋",
       "parent": "",
       "legacy": "ocean",
-      "order": 15,
+      "order": 12,
       "counts": {
         "still": 16,
         "live": 4
@@ -185,7 +152,7 @@
       "name": "水之纹理",
       "parent": "",
       "legacy": "ocean",
-      "order": 16,
+      "order": 13,
       "counts": {
         "still": 10,
         "live": 3
@@ -196,7 +163,7 @@
       "name": "山野",
       "parent": "",
       "legacy": "mountains",
-      "order": 17,
+      "order": 14,
       "counts": {
         "still": 26,
         "live": 3
@@ -207,7 +174,7 @@
       "name": "森林秘境",
       "parent": "",
       "legacy": "nature",
-      "order": 18,
+      "order": 15,
       "counts": {
         "still": 17,
         "live": 25
@@ -218,7 +185,7 @@
       "name": "花语",
       "parent": "",
       "legacy": "nature",
-      "order": 19,
+      "order": 16,
       "counts": {
         "still": 10,
         "live": 2
@@ -229,7 +196,7 @@
       "name": "几何建筑",
       "parent": "",
       "legacy": "architecture",
-      "order": 20,
+      "order": 17,
       "counts": {
         "still": 12,
         "live": 3
@@ -240,7 +207,7 @@
       "name": "萌宠日常",
       "parent": "",
       "legacy": "nature",
-      "order": 21,
+      "order": 18,
       "counts": {
         "still": 9,
         "live": 3
@@ -251,7 +218,7 @@
       "name": "治愈日常",
       "parent": "",
       "legacy": "nature",
-      "order": 22,
+      "order": 19,
       "counts": {
         "still": 0,
         "live": 6
@@ -262,7 +229,7 @@
       "name": "NASA 宇宙",
       "parent": "",
       "legacy": "abstract",
-      "order": 23,
+      "order": 20,
       "counts": {
         "still": 0,
         "live": 11
@@ -271,10 +238,10 @@
   ],
   "pages": [
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a70f2367dc534639/page-001.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-001.json",
       "count": 40,
       "folders": [
-        "a75b087c708f",
+        "62ed5f5ace8f",
         "cf21b65f2f16",
         "dab746c5441a"
       ],
@@ -284,12 +251,12 @@
       ],
       "groups": [
         {
-          "folder": "a75b087c708f",
+          "folder": "62ed5f5ace8f",
           "kind": "live",
-          "count": 3
+          "count": 5
         },
         {
-          "folder": "a75b087c708f",
+          "folder": "62ed5f5ace8f",
           "kind": "still",
           "count": 4
         },
@@ -300,81 +267,19 @@
         },
         {
           "folder": "dab746c5441a",
-          "kind": "live",
-          "count": 1
-        },
-        {
-          "folder": "dab746c5441a",
           "kind": "still",
-          "count": 21
+          "count": 20
         }
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a70f2367dc534639/page-002.json",
-      "count": 40,
-      "folders": [
-        "4d8af6761ee8",
-        "62ed5f5ace8f",
-        "a75b087c708f",
-        "abstract",
-        "f115ed4e02d6"
-      ],
-      "kinds": [
-        "live",
-        "still"
-      ],
-      "groups": [
-        {
-          "folder": "4d8af6761ee8",
-          "kind": "live",
-          "count": 1
-        },
-        {
-          "folder": "4d8af6761ee8",
-          "kind": "still",
-          "count": 5
-        },
-        {
-          "folder": "62ed5f5ace8f",
-          "kind": "live",
-          "count": 10
-        },
-        {
-          "folder": "62ed5f5ace8f",
-          "kind": "still",
-          "count": 9
-        },
-        {
-          "folder": "a75b087c708f",
-          "kind": "still",
-          "count": 4
-        },
-        {
-          "folder": "abstract",
-          "kind": "live",
-          "count": 1
-        },
-        {
-          "folder": "f115ed4e02d6",
-          "kind": "live",
-          "count": 4
-        },
-        {
-          "folder": "f115ed4e02d6",
-          "kind": "still",
-          "count": 6
-        }
-      ]
-    },
-    {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a70f2367dc534639/page-003.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-002.json",
       "count": 40,
       "folders": [
         "6096c04c2bfd",
+        "62ed5f5ace8f",
         "91dbdfa1fee3",
-        "abstract",
-        "bb6a421baa5b"
+        "abstract"
       ],
       "kinds": [
         "live",
@@ -392,39 +297,44 @@
           "count": 11
         },
         {
+          "folder": "62ed5f5ace8f",
+          "kind": "live",
+          "count": 3
+        },
+        {
+          "folder": "62ed5f5ace8f",
+          "kind": "still",
+          "count": 5
+        },
+        {
           "folder": "91dbdfa1fee3",
           "kind": "live",
-          "count": 4
+          "count": 3
         },
         {
           "folder": "91dbdfa1fee3",
           "kind": "still",
-          "count": 10
+          "count": 4
         },
         {
           "folder": "abstract",
           "kind": "live",
-          "count": 3
+          "count": 4
         },
         {
           "folder": "abstract",
           "kind": "still",
           "count": 8
-        },
-        {
-          "folder": "bb6a421baa5b",
-          "kind": "still",
-          "count": 2
         }
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a70f2367dc534639/page-004.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-003.json",
       "count": 40,
       "folders": [
         "46393309b7a6",
+        "91dbdfa1fee3",
         "bb6a421baa5b",
-        "f155a6a5a1e1",
         "minimal"
       ],
       "kinds": [
@@ -443,6 +353,16 @@
           "count": 8
         },
         {
+          "folder": "91dbdfa1fee3",
+          "kind": "live",
+          "count": 1
+        },
+        {
+          "folder": "91dbdfa1fee3",
+          "kind": "still",
+          "count": 6
+        },
+        {
           "folder": "bb6a421baa5b",
           "kind": "live",
           "count": 2
@@ -450,17 +370,7 @@
         {
           "folder": "bb6a421baa5b",
           "kind": "still",
-          "count": 8
-        },
-        {
-          "folder": "f155a6a5a1e1",
-          "kind": "live",
-          "count": 7
-        },
-        {
-          "folder": "f155a6a5a1e1",
-          "kind": "still",
-          "count": 2
+          "count": 10
         },
         {
           "folder": "minimal",
@@ -475,12 +385,11 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a70f2367dc534639/page-005.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-004.json",
       "count": 40,
       "folders": [
         "698a9e9089cd",
         "ac34e157432d",
-        "ca8cae607d72",
         "f155a6a5a1e1"
       ],
       "kinds": [
@@ -501,31 +410,76 @@
         {
           "folder": "ac34e157432d",
           "kind": "live",
-          "count": 3
+          "count": 2
         },
         {
           "folder": "ac34e157432d",
           "kind": "still",
-          "count": 10
+          "count": 4
         },
         {
-          "folder": "ca8cae607d72",
+          "folder": "f155a6a5a1e1",
           "kind": "live",
-          "count": 2
+          "count": 7
         },
         {
           "folder": "f155a6a5a1e1",
           "kind": "still",
-          "count": 11
+          "count": 13
         }
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a70f2367dc534639/page-006.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-005.json",
+      "count": 40,
+      "folders": [
+        "ac34e157432d",
+        "ca8cae607d72",
+        "ocean"
+      ],
+      "kinds": [
+        "live",
+        "still"
+      ],
+      "groups": [
+        {
+          "folder": "ac34e157432d",
+          "kind": "live",
+          "count": 1
+        },
+        {
+          "folder": "ac34e157432d",
+          "kind": "still",
+          "count": 6
+        },
+        {
+          "folder": "ca8cae607d72",
+          "kind": "live",
+          "count": 3
+        },
+        {
+          "folder": "ca8cae607d72",
+          "kind": "still",
+          "count": 11
+        },
+        {
+          "folder": "ocean",
+          "kind": "live",
+          "count": 4
+        },
+        {
+          "folder": "ocean",
+          "kind": "still",
+          "count": 15
+        }
+      ]
+    },
+    {
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-006.json",
       "count": 40,
       "folders": [
         "a2860fd76eea",
-        "ca8cae607d72",
+        "mountains",
         "ocean"
       ],
       "kinds": [
@@ -536,40 +490,34 @@
         {
           "folder": "a2860fd76eea",
           "kind": "live",
-          "count": 2
+          "count": 3
         },
         {
           "folder": "a2860fd76eea",
           "kind": "still",
-          "count": 6
+          "count": 10
         },
         {
-          "folder": "ca8cae607d72",
+          "folder": "mountains",
           "kind": "live",
+          "count": 3
+        },
+        {
+          "folder": "mountains",
+          "kind": "still",
+          "count": 23
+        },
+        {
+          "folder": "ocean",
+          "kind": "still",
           "count": 1
-        },
-        {
-          "folder": "ca8cae607d72",
-          "kind": "still",
-          "count": 11
-        },
-        {
-          "folder": "ocean",
-          "kind": "live",
-          "count": 4
-        },
-        {
-          "folder": "ocean",
-          "kind": "still",
-          "count": 16
         }
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a70f2367dc534639/page-007.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-007.json",
       "count": 40,
       "folders": [
-        "a2860fd76eea",
         "mountains",
         "nature"
       ],
@@ -579,37 +527,29 @@
       ],
       "groups": [
         {
-          "folder": "a2860fd76eea",
-          "kind": "live",
-          "count": 1
-        },
-        {
-          "folder": "a2860fd76eea",
-          "kind": "still",
-          "count": 4
-        },
-        {
           "folder": "mountains",
-          "kind": "live",
+          "kind": "still",
           "count": 3
-        },
-        {
-          "folder": "mountains",
-          "kind": "still",
-          "count": 26
         },
         {
           "folder": "nature",
           "kind": "live",
-          "count": 6
+          "count": 25
+        },
+        {
+          "folder": "nature",
+          "kind": "still",
+          "count": 12
         }
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a70f2367dc534639/page-008.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-008.json",
       "count": 40,
       "folders": [
         "348b2fd372e5",
+        "5f5a1f430317",
+        "architecture",
         "nature"
       ],
       "kinds": [
@@ -620,48 +560,12 @@
         {
           "folder": "348b2fd372e5",
           "kind": "live",
-          "count": 1
+          "count": 2
         },
         {
           "folder": "348b2fd372e5",
           "kind": "still",
-          "count": 3
-        },
-        {
-          "folder": "nature",
-          "kind": "live",
-          "count": 19
-        },
-        {
-          "folder": "nature",
-          "kind": "still",
-          "count": 17
-        }
-      ]
-    },
-    {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a70f2367dc534639/page-009.json",
-      "count": 40,
-      "folders": [
-        "348b2fd372e5",
-        "5f5a1f430317",
-        "architecture",
-        "d421f61b2624"
-      ],
-      "kinds": [
-        "live",
-        "still"
-      ],
-      "groups": [
-        {
-          "folder": "348b2fd372e5",
-          "kind": "live",
-          "count": 1
-        },
-        {
-          "folder": "348b2fd372e5",
-          "kind": "still",
-          "count": 7
+          "count": 10
         },
         {
           "folder": "5f5a1f430317",
@@ -671,7 +575,7 @@
         {
           "folder": "5f5a1f430317",
           "kind": "still",
-          "count": 9
+          "count": 5
         },
         {
           "folder": "architecture",
@@ -684,26 +588,33 @@
           "count": 12
         },
         {
-          "folder": "d421f61b2624",
-          "kind": "live",
+          "folder": "nature",
+          "kind": "still",
           "count": 5
         }
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/a70f2367dc534639/page-010.json",
-      "count": 1,
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-009.json",
+      "count": 10,
       "folders": [
+        "5f5a1f430317",
         "d421f61b2624"
       ],
       "kinds": [
-        "live"
+        "live",
+        "still"
       ],
       "groups": [
         {
+          "folder": "5f5a1f430317",
+          "kind": "still",
+          "count": 4
+        },
+        {
           "folder": "d421f61b2624",
           "kind": "live",
-          "count": 1
+          "count": 6
         }
       ]
     }
@@ -720,10 +631,6 @@
     "asset-74e33249ed25dc4ffe5f4628",
     "asset-2df79796c89a003264a4a875",
     "asset-4cfeaad0c083268ccf79d775",
-    "asset-2e170bb0f005c39b8c28334d",
-    "asset-89d00343ad5d81047b0d1c1e",
-    "asset-dc2b63b56cdf5766807262dd",
-    "asset-c7a605838b3a364674c9b98c",
     "asset-81de2b1b3b1a354418945e5c",
     "asset-df8b05f47a6ebbeeaef667b0",
     "asset-cae2a11191a29e32f7f72bed",
@@ -744,34 +651,7 @@
     "asset-b1dbf21c1e6cf0c4c14cf38c",
     "asset-224f176a0a5931753a12dbcb",
     "asset-1b84c2ce5a71aa629a8d22dc",
-    "asset-e6ca21c5440c1ab84cbcf2f3",
-    "asset-546caae1430834a427fa8bd6",
-    "asset-a20119ceae81407cdc3faf46",
-    "asset-89ad8a44983ed5383a018b6c",
-    "asset-07082a2de2f41a6fad75725b",
-    "asset-5864c2aa1ae926fbe0124afd",
-    "asset-27dacc51e7507adf93810b90",
-    "asset-7f7df115ab513488db7ac25f",
-    "asset-584364c2d467842960eeba53",
-    "asset-be9ec5d7e7f17c4f1a67b272",
-    "asset-2c9eef2641153feb40d27746",
-    "asset-1d24717ca769bf4531c51374",
-    "asset-c58868748b97838da8777815",
-    "asset-2ef8ff4fe73c6e2ae7ba45d2",
-    "asset-227ea3b9e1d03095282a7991",
-    "asset-0407a15e1a8658f50f82f235",
-    "asset-125a507baf0a65a5430698ac",
-    "asset-976a305cfecccb93259ba1eb",
-    "asset-5812fa0cd2c046d08927254f",
-    "asset-e31a1b66e1e4ed1defc45cda",
-    "asset-868760a11c9c04c47de80b4d",
-    "asset-403c515c312d6be485947dcc",
-    "asset-987a344f57e5204f61328a31",
-    "asset-f01dcc4c40468c25dfe4a244",
-    "asset-be4373715ca9aab461469cf7",
     "asset-5a060754ea57b1ad0a6922bc",
-    "asset-137ca11d877f04b52a0b690f",
-    "asset-6f0d887c6f4700253b423d2d",
     "asset-049719533c511af0def0c848",
     "asset-ddf3a3181cc099af6238369c",
     "asset-ef7cc1b43080bd14d6d4e8c5",
