@@ -1,0 +1,84 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "id": "asset-c10ca6bacbbc0a9d49f973bf",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-1832b5df389c32fad0033f38930fd756.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-ff0d38b83a4e5a57c314ffa278f249ad.jpg",
+      "title": "窗边雨声",
+      "category": "nature",
+      "credit": "Pexels / Pavel Danilyuk",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/wet-window-glass-4536567/",
+      "studioFolder": "d421f61b2624",
+      "premium": false
+    },
+    {
+      "id": "asset-ab887ca7b0c4b420754baac3",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6ea1682cda5c09d6209d6a802a91da33.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-60b3843c9cd495804d82c32835ad7f03.jpg",
+      "title": "雨窗静听",
+      "category": "nature",
+      "credit": "Pexels / Binil  Babu",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/close-up-of-raindrops-on-glass-12742709/",
+      "studioFolder": "d421f61b2624",
+      "premium": false
+    },
+    {
+      "id": "asset-d471296bb8097843a5b31072",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-e81e5a884d670ef1e3cfdd7282d2290a.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b5f331c0b819b223b696535143a62449.jpg",
+      "title": "雨落玻璃",
+      "category": "nature",
+      "credit": "Pexels / Vung Nguyen",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/raindrops-on-the-window-of-a-moving-car-17713400/",
+      "studioFolder": "d421f61b2624",
+      "premium": false
+    },
+    {
+      "id": "asset-4a7acca0bd60e69fe9792a7c",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-1ef497fbd4248e4195039156d095120a.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-3e908b4a7d4e77989c758f534c2cde4e.jpg",
+      "title": "篝火余烬",
+      "category": "nature",
+      "credit": "Free Nature Stock / CC0",
+      "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
+      "sourceURL": "https://freenaturestock.com/video/campfire-embers/",
+      "studioFolder": "d421f61b2624",
+      "premium": false
+    },
+    {
+      "id": "asset-0fed68489893adee6cffdcd4",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8559fdddf75bff0768b9a651c31bda09.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-233f7b45528bc9e3764ec33f3a78887b.jpg",
+      "title": "赤色落日",
+      "category": "nature",
+      "credit": "Free Nature Stock / CC0",
+      "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
+      "sourceURL": "https://freenaturestock.com/video/red-sunset/",
+      "studioFolder": "d421f61b2624",
+      "premium": false
+    },
+    {
+      "id": "asset-aab53764f1ec7b2562d5f449",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-aed84ebbfc67928a4a61e9cd40ae271b.mov",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6ae67a2648a45a2bd303272bf340d616.jpg",
+      "pairedPhoto": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f2a1875126a2ff439e6fa2b57fd0299b.heic",
+      "title": "晶莹花朵",
+      "category": "nature",
+      "credit": "MyScreen（获取平台）",
+      "license": "通过 MyScreen 免费下载；原作者和再分发许可尚未核实",
+      "sourceURL": "https://binarywolf.io/",
+      "studioFolder": "d421f61b2624",
+      "premium": true
+    }
+  ]
+}
