@@ -1,205 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T06:33:20Z",
+  "updatedAt": "2026-11-25T07:01:00Z",
   "items": [
-    {
-      "id": "asset-8fbff50e517c4a17d8037af3",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-988b2d350b15159f8723156e89de82f2.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b2029c3c3f3b0e60f1a70c9e030f7f55.jpg",
-      "title": "金色沙丘",
-      "category": "nature",
-      "credit": "Pexels / raouf bedrani",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/sand-dune-11377054/"
-    },
-    {
-      "id": "asset-47f78f853de8d4e2a490276e",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-dbfda724bc36f8580c57e5ca6a9d4256.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-115c483178b169fc26f6f62d7006880d.jpg",
-      "title": "沙漠之海精选2",
-      "category": "nature",
-      "credit": "Pexels / 奇 徐",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/serene-desert-oasis-with-sand-dunes-30165122/"
-    },
-    {
-      "id": "asset-cb35c8986a6b6e48fe42160c",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b318ee5f430c87a69677537e119a8e12.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d69a59f15000b6b2bdaee19ce93feb62.jpg",
-      "title": "沙漠之海精选1",
-      "category": "nature",
-      "credit": "Pexels / Engin Akyurt",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/close-up-of-sand-in-a-desert-26922694/"
-    },
-    {
-      "id": "asset-ef8dba84d6151a5752d6ddc3",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-9057b8c7609e67f2359d1c8e29cff2a9.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-e595e283957ea710099e8ccee80074cb.jpg",
-      "title": "沙漠之海精选4",
-      "category": "nature",
-      "credit": "Pexels / Grbr Snts",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/footprints-in-the-sand-in-the-desert-14821006/"
-    },
-    {
-      "id": "asset-65676a993a5fcf629d907994",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-5216788b5cde5718a7475c2cc6646993.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-939c9c41bc0fbd3371b39ad429ea086e.jpg",
-      "title": "沙漠之海动态1",
-      "category": "nature",
-      "credit": "Pexels / Tanya",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/woman-feet-and-sun-over-desert-11371604/"
-    },
-    {
-      "id": "asset-ff61021c2517cff8139581b8",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-80812994f986fc153523a593861c3640.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-2d5a0d30668ad35268601da085dea81c.jpg",
-      "title": "沙漠之海精选3",
-      "category": "nature",
-      "credit": "Pexels / Maria Charizani",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/tree-in-a-desert-under-a-clear-blue-sky-6128843/"
-    },
-    {
-      "id": "commons-142125305",
-      "title": "Red Sand",
-      "kind": "still",
-      "category": "nature",
-      "credit": "Rohit Seervi ( https://polyhaven.com/all?a=Rohit%20Seervi ) via Poly Haven · Wikimedia Commons",
-      "sourceURL": "https://commons.wikimedia.org/wiki/File:Red_sand_diff_8k_(Rohit_Seervi_via_Poly_Haven).png",
-      "license": "CC0",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125305-thumb.jpg",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125305.jpg"
-    },
-    {
-      "id": "asset-31dde0589799f2f065914b4d",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8df9633c87d22e8cd75d64149f90ab47.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-197ec454d08c8435a64e6c28c82b4ce2.jpg",
-      "title": "大漠长空",
-      "category": "nature",
-      "credit": "Pexels / Engin Akyurt",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/serene-sand-dunes-with-textured-patterns-29147670/"
-    },
-    {
-      "id": "asset-b611cb2254666aa7df739415",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f2607cdcd6e8789c5d23ba5c6df959d5.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-4ceb041441a5c9c34830863dfc20a1d8.jpg",
-      "title": "荒漠暮色",
-      "category": "nature",
-      "credit": "Pexels / Kyle Karbowski",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/brown-desert-under-the-blue-sky-9968067/"
-    },
-    {
-      "id": "asset-903ee7ba83992798d8e6c3bc",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-be1373fef7e336a400986ecb6efc8684.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-3d94b365da84e5e082b983bed7dd1e79.jpg",
-      "title": "沙浪起伏",
-      "category": "nature",
-      "credit": "Pexels / Taryn Elliott",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/brown-sand-under-gray-sky-4405243/"
-    },
-    {
-      "id": "asset-233a7fafe5ca702b59f9420c",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-2e9f670f288d6cffd4e334a21d0527fe.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-3b2f5986598e64b58a7e5f8e06c6648d.jpg",
-      "title": "金色沙丘",
-      "category": "nature",
-      "credit": "Pexels / KJeremy",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-desert-with-a-plane-flying-over-it-16265138/"
-    },
-    {
-      "id": "asset-b0245a464a22edf1b43743b5",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-46027ac129a15c1473201dc53692c695.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-34fc83c3af5ff36be4fc50dba58767ad.jpg",
-      "title": "大漠孤烟",
-      "category": "nature",
-      "credit": "Pexels / Tanya",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/vertical-shot-of-desert-dunes-11371498/"
-    },
-    {
-      "id": "asset-3b1ff64d615692522fdcd262",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-81ae0b6fadfc2e422198bffcd96d61b1.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-56065f85202fb1a93427f7da3ac928c6.jpg",
-      "title": "沙海纹理",
-      "category": "nature",
-      "credit": "Pexels / Daniel Bernardi",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/clear-sky-over-desert-by-sea-10869006/"
-    },
-    {
-      "id": "asset-da8818b6e4447fef63b64271",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-cb123fff7ccb04eb46045b7946d343d0.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-23d5486db04d787b5aef985c11984e7d.jpg",
-      "title": "盛夏海风",
-      "category": "nature",
-      "credit": "Pexels / Tuấn Vũ",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/glowing-sunlight-reflection-on-ocean-waves-40050198/"
-    },
-    {
-      "id": "asset-f9309492d82726260dddddc2",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6cb04f07b60a30ce2fea515fef7fe39d.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-17f1c8a7206256bbfd448e6b07373e39.jpg",
-      "title": "夏日浪花",
-      "category": "nature",
-      "credit": "Pexels / Mia",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/close-up-of-wavy-water-17396296/"
-    },
-    {
-      "id": "asset-60c426626642eb4d902879f1",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-629d39011e44569ae1d499e98c445aff.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bf240d96e2a4cc3ff1ee0779f1ff417c.jpg",
-      "title": "夏天精选1",
-      "category": "nature",
-      "credit": "Pexels / Vitória Zanella",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/calm-beach-shoreline-with-gentle-waves-35562646/"
-    },
-    {
-      "id": "asset-75aacf9cfb4a13173d5c61d5",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0f997aee5f258ad3fb5233279d020824.png",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c4a49709bf0cf591c2e3d7cc607fc973.jpg",
-      "title": "夏天精选2",
-      "category": "nature",
-      "credit": "Pexels / Enes Akdoğan",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/sunlight-reflecting-in-sea-26588312/"
-    },
-    {
-      "id": "asset-6bd62fb605b5d473d7ef7bed",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-968ba8a75fc83a239f282641975765b1.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-eedd7bbc217d16efe1a83f68d8ee87fa.jpg",
-      "title": "夏天精选3",
-      "category": "nature",
-      "credit": "Pexels / Vera Emilie",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/calm-blue-sea-18001087/"
-    },
     {
       "id": "asset-d53a4dc4d5b471ed23a2e3d5",
       "kind": "still",
@@ -1293,6 +1095,17 @@
       "sourceURL": "https://www.pexels.com/photo/photo-of-sky-during-dawn-8180041/"
     },
     {
+      "id": "asset-abdb8017ae5e74bc5156ad89",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-777f2dd497948597441558227ae8aa28.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-7e24b95d5c6d1686ee09be814a61bb24.jpg",
+      "title": "紫粉恋影",
+      "category": "abstract",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
       "id": "asset-75ec3b12a380dbb528db4031",
       "kind": "live",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b0cc7c1e3ab1dce637022b3b7032d1a4.mp4",
@@ -2204,6 +2017,193 @@
       "sourceURL": "https://www.rockstargames.com/VI/media"
     },
     {
+      "id": "asset-99139b7a74e1b98fb5531b48",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-191060e8b843d187686bb1244c58bae9.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-10503b8cacd0781d51db2284aff42aba.jpg",
+      "title": "落日侧影",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-a602edf9196bd5d624cfeb0d",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-443a75c1a090e117093880b441eec4e1.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-062b37980b52e962aa53b6d297bf275d.jpg",
+      "title": "霓虹侧影",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-a6838d129772340005dddd0e",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8ffdea504ea4b0fa4bcb5d714caf4a3a.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8082addf72feb893026b69c76334269e.jpg",
+      "title": "海滨落日",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-164ab9738370a78cb43b9352",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6dfdbe95223112c19cf2f67245617157.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-70da60a872b1553c24a3e12f28897b29.jpg",
+      "title": "白车与红裙",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-d4c95cc606477ac692646451",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d930e7b66efa6686e6f0c472f56f49d7.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-fe5f2ddbecf1b30fd81f8bdac6eb91f7.jpg",
+      "title": "红车与黄裙",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-8be75bff182752cd77d16fe3",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0cb188d12391f28e64959a07b6c4322b.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-54388f87d4c5fee8631e931b2c96ed40.jpg",
+      "title": "山顶别墅夜色",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-ae037d2f61352eed37b379d1",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-fa03c74de9f419cc26c8ee12d01ca6c8.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-aa8f51adac63666a7da8811584489ee8.jpg",
+      "title": "剧院前的跑车",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-820c71bd555458d3cce53093",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c5d5936710a831c58ea118c71e14be2f.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6a9c491211aedcc7212020ea867cf266.jpg",
+      "title": "霓虹街角",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-0c598b9b4172dd15dbdc0a2b",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-3279fad86020a7f8b3a73a172fd612ed.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-23ed2c2c41d7563be150643313bc2d28.jpg",
+      "title": "海边双人",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-5c73200f55311a2b5fccc2b4",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bd536e052df204957c3d7d32e8e62529.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-ede9153e10f242f22788d78fdc2602c3.jpg",
+      "title": "海边跑车落日",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-3eb553283eab998450a2b2c1",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-7b9724efdec249be959eab16eee7fc6c.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bb090fa67d03529c82a17d1ac21cb776.jpg",
+      "title": "泳池夜色",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-02fbe3fa8a03a976dec500c5",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6b65250bb1260105a2d53850863e5be2.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-2b04d69c7b7ef770a1378ec1745ee864.jpg",
+      "title": "水岸霓虹夜色",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-1ed5964d6347147690ce4311",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-193629e41460f70f8ccac9d752b1e655.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-506ce0a456fcfaf483881bde9c82aa74.jpg",
+      "title": "棕榈大道暮色",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-e333c4c55a5528d1d001db13",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-cb0ddbc2cbfb42494b0a560d89df114b.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-cc236868c49a5166a840f2c633b87839.jpg",
+      "title": "疾驰棕榈大道",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-cae2a11191a29e32f7f72bed",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b1be25f91516218b0d87aa02a6e59909.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8f0f607d38bb9b249bcdb5b0a465a3b2.jpg",
+      "title": "霓虹落日海岸",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-df8b05f47a6ebbeeaef667b0",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-784fdeb4b87a458246b1c45d92dd6231.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-ae271af7c49f0925c7f56b562c470748.jpg",
+      "title": "罪恶都市之火",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
+      "id": "asset-81de2b1b3b1a354418945e5c",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-55a974377fd76641977189e72b2cbd65.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-ecc9066c293d032aa2114e0694c2a95a.jpg",
+      "title": "双主角海报",
+      "category": "architecture",
+      "credit": "用户导入",
+      "license": "用户导入并确认可用于本 App 展示",
+      "sourceURL": "https://www.xiaohongshu.com/"
+    },
+    {
       "id": "asset-4c8398be1c03674e51b1ead6",
       "kind": "live",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-3c95772a4435433685cd7929eca67539.mp4",
@@ -2215,17 +2215,6 @@
       "sourceURL": "https://www.pexels.com/video/a-green-car-is-driving-down-the-street-at-night-16244876/"
     },
     {
-      "id": "asset-be6ffc19b5ef13d3be2833f9",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d824c71ab465b9887b3b83156c9e7d3e.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-cb61f743a783648e50b73bc6fae6e18d.jpg",
-      "title": "街头追缉",
-      "category": "architecture",
-      "credit": "Pexels / paashuu",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-green-car-is-parked-in-front-of-a-city-16244870/"
-    },
-    {
       "id": "asset-c7a605838b3a364674c9b98c",
       "kind": "live",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d1112620eb14549650c3ee9b50baf6d1.mp4",
@@ -2235,6 +2224,17 @@
       "credit": "Pexels / paashuu",
       "license": "Pexels License（免费商用，无需署名）",
       "sourceURL": "https://www.pexels.com/video/a-woman-standing-on-a-bridge-with-a-green-car-16120741/"
+    },
+    {
+      "id": "asset-be6ffc19b5ef13d3be2833f9",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d824c71ab465b9887b3b83156c9e7d3e.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-cb61f743a783648e50b73bc6fae6e18d.jpg",
+      "title": "街头追缉",
+      "category": "architecture",
+      "credit": "Pexels / paashuu",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/a-green-car-is-parked-in-front-of-a-city-16244870/"
     }
   ]
 }
