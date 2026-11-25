@@ -1,0 +1,572 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "id": "asset-9fa46650ee331e9dc2014d20",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-37048718709f788efe2c35e73de5470b.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c366856cb14c65c4de5a70f112daf537.jpg",
+      "title": "雪覆松枝",
+      "category": "nature",
+      "credit": "Free Nature Stock / CC0",
+      "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
+      "sourceURL": "https://freenaturestock.com/video/fresh-winter-snow-on-trees/",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "asset-caf08f59f0f08805b24cee49",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-78755afd732ac637f5eee852a9a9e46a.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-7590116cc05c42bf1ebbaaf9b5c0358d.jpg",
+      "title": "瀑布前叶",
+      "category": "nature",
+      "credit": "Free Nature Stock / CC0",
+      "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
+      "sourceURL": "https://freenaturestock.com/video/leaves-dancing-before-a-waterfall/",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "asset-fe2d7b487b993a6f3fc3a76a",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bb68c5eebe678d8dae91cf49310d223c.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-032d080ee74f89bfbe5c186cb240b9d5.jpg",
+      "title": "Moss Cliff Falls",
+      "category": "nature",
+      "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
+      "license": "原创生成内容；项目所有者确认可用于 App 分发",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "asset-1c1b02326a8ec424be9da78d",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-e910168c375845791a2a6b8f38a18eab.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b7b368342ae969090415ea313d70a537.jpg",
+      "title": "花开瞬间",
+      "category": "nature",
+      "credit": "上传者 cc9166",
+      "license": "上传者确认可用于 App 分发；未指定公开许可",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-169009875",
+      "title": "Velvet Cascade",
+      "kind": "live",
+      "category": "nature",
+      "credit": "Shyamal · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Athirapally_falls.webm",
+      "license": "CC0",
+      "tags": [],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-169009875-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-169009875.mp4",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-189602483",
+      "title": "Green Veil Falls",
+      "kind": "live",
+      "category": "nature",
+      "credit": "Kimahri88 · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Cascata_delle_Marmore_(Terni,_Italy).webm",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-189602483-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-189602483.mp4",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-61810123",
+      "title": "Sunshine flower in macro",
+      "kind": "still",
+      "category": "nature",
+      "credit": "paul morris oldskool2016 · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Sunshine_flower_in_macro_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810123-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810123.jpg",
+      "quality": {
+        "sourceWidth": 7360,
+        "sourceHeight": 4912,
+        "outputWidth": 2160,
+        "outputHeight": 3840,
+        "upscaled": false
+      },
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-131897774",
+      "title": "Macro flower wallpaper",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Free Nature Stock · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Macro_flower_wallpaper.jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-131897774-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-131897774.jpg",
+      "quality": {
+        "sourceWidth": 5472,
+        "sourceHeight": 3648,
+        "outputWidth": 1440,
+        "outputHeight": 2560,
+        "upscaled": false
+      },
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-61810011",
+      "title": "Violet flower in macro",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Dominik Scythe drscythe · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Violet_flower_in_macro_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810011-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61810011.jpg",
+      "quality": {
+        "sourceWidth": 4928,
+        "sourceHeight": 3004,
+        "outputWidth": 1440,
+        "outputHeight": 2560,
+        "upscaled": false
+      },
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-58803059",
+      "title": "Mist over a dark forest",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Paul Gilmore paulgilmore_ · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mist_over_a_dark_forest_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-58803059-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-58803059.jpg",
+      "quality": {
+        "sourceWidth": 5472,
+        "sourceHeight": 3080,
+        "outputWidth": 1440,
+        "outputHeight": 2560,
+        "upscaled": false
+      },
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-61758638",
+      "title": "Forest mist",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Chris Barbalis cbarbalis · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Forest_mist_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61758638-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61758638.jpg",
+      "quality": {
+        "sourceWidth": 6000,
+        "sourceHeight": 4000,
+        "outputWidth": 2160,
+        "outputHeight": 3840,
+        "upscaled": false
+      },
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-62168175",
+      "title": "Quiet Reflection",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Matthew Henry matthewhenry · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Foggy_Water_Reflections_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62168175-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62168175.jpg",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-76012832",
+      "title": "Blue Pond",
+      "kind": "still",
+      "category": "nature",
+      "credit": "AndyLeungHK · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Shirogane_Blue_Pond,_Biei,_Hokkaido_Japan.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-76012832-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-76012832.jpg",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-61651999",
+      "title": "Pearl Dew",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Jono Hislop jonohislop · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Dew_on_a_thin_leaf_in_macro_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61651999-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61651999.jpg",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-61646981",
+      "title": "Rain Diamonds",
+      "kind": "still",
+      "category": "nature",
+      "credit": "dan carlson dan_carl5on · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Dew_on_a_dark_green_leaf_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61646981-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61646981.jpg",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-61651715",
+      "title": "Leaflight",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Rodion Kutsaev frostroomhead · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Translucent_leaf_in_macro_1_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61651715-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61651715.jpg",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-195762641",
+      "title": "Elephant Leaf",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Paul The Writer · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Elephant_Cocoyam_Leaf.jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195762641-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-195762641.jpg",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-114909242",
+      "title": "Forest in Rheinsberg with mist",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Leonhard Lenz · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Forest_in_Rheinsberg_with_mist_2021-10-30_06.jpg",
+      "license": "CC0",
+      "tags": [
+        "botanical"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909242-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-114909242-hq-20261104.jpg",
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-61852305",
+      "title": "Mistbound Forest",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Adam Porter adamkporter · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Mist_shrouding_a_forest_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61852305-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-61852305-hq-20261104.jpg",
+      "tags": [
+        "botanical"
+      ],
+      "studioFolder": "nature"
+    },
+    {
+      "id": "commons-201385384",
+      "title": "Forest in Mist",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Mar Mkrtchyan · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Forest_trees_in_dense_mist.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201385384-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-201385384-hq-20261104.jpg",
+      "tags": [
+        "botanical"
+      ],
+      "studioFolder": "nature"
+    },
+    {
+      "id": "meadow-rain",
+      "title": "Meadow Rain",
+      "kind": "still",
+      "category": "nature",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/meadow-rain-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/meadow-rain.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "tags": [
+        "botanical"
+      ],
+      "studioFolder": "nature"
+    },
+    {
+      "id": "forest-mist",
+      "title": "Forest Mist",
+      "kind": "still",
+      "category": "nature",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/forest-mist.png",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/forest-mist.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "tags": [
+        "botanical"
+      ],
+      "studioFolder": "nature"
+    },
+    {
+      "id": "asset-2bd61cff37e820230d5cd5c1",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-09632c48629518fdbc2dcc9b0e9a6cd5.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d559765b6cad45a873b78147c3d00b1b.jpg",
+      "title": "花开时节",
+      "category": "nature",
+      "credit": "Pexels / Leeloo The First",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/close-up-video-of-flowers-5228886/",
+      "studioFolder": "348b2fd372e5"
+    },
+    {
+      "id": "asset-0e06287875c640f5f83bba08",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-e8363a2093800e135cbbba2fa455f849.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bc39206996dba7731f3ac757d0605e10.jpg",
+      "title": "花间絮语",
+      "category": "nature",
+      "credit": "Pexels / Raymond Ma Yi Rong",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/pink-flowers-growing-on-tree-8920389/",
+      "studioFolder": "348b2fd372e5"
+    },
+    {
+      "id": "asset-a32bddb2f9ea1a04a7cef45b",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-cead09c3cc71047dbc8cf17425a237c2.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-31537dd67ce2e0ff72fd74fc2efb7185.jpg",
+      "title": "一朵时光",
+      "category": "nature",
+      "credit": "Pexels / Joost van Os",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/None-31097797/",
+      "studioFolder": "348b2fd372e5"
+    },
+    {
+      "id": "asset-a67dfb98f236b40c80c0b759",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0915420926adc5216466f37b16d2b4b9.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d012c9693b7b1f17b2135fc0e6d1bfd1.jpg",
+      "title": "春花漫影",
+      "category": "nature",
+      "credit": "Pexels / Christina & Peter",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-pink-and-white-phlox-flowers-in-bloom-38524143/",
+      "studioFolder": "348b2fd372e5"
+    },
+    {
+      "id": "asset-930d71477df08522efb45483",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8d50d2f52a7b5c347297333d16528dbf.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-585a59d9d7f33de792f2437ccbd90ecc.jpg",
+      "title": "繁花似锦",
+      "category": "nature",
+      "credit": "Pexels / André Cogez",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/vibrant-pink-cosmos-flowers-in-bloom-39319510/",
+      "studioFolder": "348b2fd372e5"
+    },
+    {
+      "id": "asset-c4c4a723e30725ca2ae5f678",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-04063ec180a893f472b376799b5cb415.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-4af07e972f35e9f114ceed41c6f3debb.jpg",
+      "title": "花语轻柔",
+      "category": "nature",
+      "credit": "Pexels / Ema Trinh",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-vibrant-african-daisies-in-bloom-40234150/",
+      "studioFolder": "348b2fd372e5"
+    },
+    {
+      "id": "asset-6adf3a036c2f88d928566f25",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-de71fc4778e6ab10a74eeb3e2717a033.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-80f493bb7325a9e799c4c34434818ae2.jpg",
+      "title": "花语动态1",
+      "category": "nature",
+      "credit": "Pexels / Xelen  4",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/close-up-of-flowers-12343457/",
+      "studioFolder": "348b2fd372e5"
+    },
+    {
+      "id": "asset-3a33d369864d34c5c4288b8b",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d19e8ea8238570f087e37fe85ef42702.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-668dc1ab94067d4d647e1a8263e0eadd.jpg",
+      "title": "花语精选4",
+      "category": "nature",
+      "credit": "Pexels / Fatih Berat Örer",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/vibrant-yellow-daisies-blossoming-outdoors-30650522/",
+      "studioFolder": "348b2fd372e5"
+    },
+    {
+      "id": "asset-4c3e30bbbb84f9801a8e64a5",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0ba49211e2478e7e7e6f18da3a2c1f6f.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-09c461ea9102ae0220fef0d9c878f4b9.jpg",
+      "title": "花语精选3",
+      "category": "nature",
+      "credit": "Pexels / Amal A S",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/vibrant-red-jungle-flame-flowers-in-focus-31913642/",
+      "studioFolder": "348b2fd372e5"
+    },
+    {
+      "id": "asset-63914c7d46f6ffbe64ddaca7",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0bb08c204726f44821c4f9434d2cac07.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-a850d77c474597f50e7274debf251c1e.jpg",
+      "title": "花语精选1",
+      "category": "nature",
+      "credit": "Pexels / Andy Lee",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-colorful-chrysanthemum-flowers-35678159/",
+      "studioFolder": "348b2fd372e5"
+    },
+    {
+      "id": "asset-7be5007e60ac62a644580c0a",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b4d24bc7332bfde5cf65ff73aa2f55ba.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0c49fcdb029752d061e122e65e48fa3c.jpg",
+      "title": "花语精选2",
+      "category": "nature",
+      "credit": "Pexels / Vincencia Chrysantika",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/vibrant-purple-flowers-blooming-in-bali-38126808/",
+      "studioFolder": "348b2fd372e5"
+    },
+    {
+      "id": "asset-a48a4726bc4d7cb571c3a143",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0beb03c7ebff3f85c3adcaf94793d5ed.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-759c0fcd694025ba4ceed8f87ca331cd.jpg",
+      "title": "花开时节",
+      "category": "nature",
+      "credit": "Pexels / Radis B",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/pink-tulips-16997489/",
+      "studioFolder": "348b2fd372e5"
+    },
+    {
+      "id": "asset-c10fbc8561fbb9bf3b4398b4",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-38f29dd6faa6bc403cf2bc3490fc6b90.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-257dcfd3c89bfd59f011c2fbdcf130de.jpg",
+      "title": "光之建筑",
+      "category": "architecture",
+      "credit": "Pexels / Laura Tancredi",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/close-up-of-glass-panels-on-building-7066734/",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "asset-2b7f63c0c544214cee7486e5",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c0bbdb7df8534e9d031a38e6637e61af.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c7cc6353136d16176267af1eda4fa9e7.jpg",
+      "title": "都市轮廓",
+      "category": "architecture",
+      "credit": "Pexels / Laura Tancredi",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/facade-of-a-building-7076540/",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "commons-117495415",
+      "title": "Modern architecture of university buildi",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Fons Heijnsbroek · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Modern_architecture_of_university_buildings_at_the_campus_Roeterseiland;_free_photo_Amsterdam,_Fons_Heijnsbroek_10-2021.jpg",
+      "license": "CC0",
+      "tags": [
+        "city"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-117495415-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-117495415-hq-20261104.jpg",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "commons-92393982",
+      "title": "Glass Facade",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Shisma · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Cube_berlin.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92393982-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92393982-hq-20261104.jpg",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "commons-62299191",
+      "title": "Modern architecture",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Mihail Ribkin mihail_ribkin · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Modern_architecture_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "city"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62299191-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62299191-hq-20261104.jpg",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "commons-62127338",
+      "title": "Silver Angles",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Mihail Ribkin mihail_ribkin · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Angular_modern_architecture_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62127338-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62127338-hq-20261104.jpg",
+      "tags": [
+        "city"
+      ],
+      "studioFolder": "architecture"
+    }
+  ]
+}

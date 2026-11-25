@@ -1,7 +1,139 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T07:36:43Z",
+  "updatedAt": "2026-11-25T07:41:34Z",
   "items": [
+    {
+      "id": "asset-b91b409822285d4799147239",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-911d8e25abc854ace07c91e56d9c7131.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-1018e73c513235bfa97cd9ad6785b5d0.jpg",
+      "title": "金色水波",
+      "category": "ocean",
+      "credit": "Free Nature Stock / CC0",
+      "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
+      "sourceURL": "https://freenaturestock.com/video/golden-water-ripples-at-sunset/"
+    },
+    {
+      "id": "asset-cb4562b69a3eb817f6c38672",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b630a1b7af8534d72047ce5f1c8455c5.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-2a178293b9d94cf4fd9df2ca32785c7b.jpg",
+      "title": "礁石海岸",
+      "category": "ocean",
+      "credit": "Free Nature Stock / CC0",
+      "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
+      "sourceURL": "https://freenaturestock.com/video/rocky-river-shoreline/"
+    },
+    {
+      "id": "asset-fee45f23eb7be24db8ea9481",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-98123b9c768985565c3ddeae1c1be68c.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c142808d863c8e7473cdbe930cbd07fb.jpg",
+      "title": "沙海纹理",
+      "category": "nature",
+      "credit": "Pexels / Maita  Cayson",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/sunlit-sand-dunes-in-a-serene-desert-landscape-28911994/"
+    },
+    {
+      "id": "asset-7dbe31388dc152e100b65513",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d2a0d743d4f824d8a54aea8a06fb158b.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-35312f8276d24f6a914970f75e8dbaa0.jpg",
+      "title": "大漠孤烟",
+      "category": "nature",
+      "credit": "Pexels / Costa Karabelas",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/branches-on-a-desert-18750186/"
+    },
+    {
+      "id": "asset-8fbff50e517c4a17d8037af3",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-988b2d350b15159f8723156e89de82f2.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b2029c3c3f3b0e60f1a70c9e030f7f55.jpg",
+      "title": "金色沙丘",
+      "category": "nature",
+      "credit": "Pexels / raouf bedrani",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/sand-dune-11377054/"
+    },
+    {
+      "id": "asset-47f78f853de8d4e2a490276e",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-dbfda724bc36f8580c57e5ca6a9d4256.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-115c483178b169fc26f6f62d7006880d.jpg",
+      "title": "沙漠之海精选2",
+      "category": "nature",
+      "credit": "Pexels / 奇 徐",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/serene-desert-oasis-with-sand-dunes-30165122/"
+    },
+    {
+      "id": "asset-cb35c8986a6b6e48fe42160c",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b318ee5f430c87a69677537e119a8e12.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d69a59f15000b6b2bdaee19ce93feb62.jpg",
+      "title": "沙漠之海精选1",
+      "category": "nature",
+      "credit": "Pexels / Engin Akyurt",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-sand-in-a-desert-26922694/"
+    },
+    {
+      "id": "asset-ef8dba84d6151a5752d6ddc3",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-9057b8c7609e67f2359d1c8e29cff2a9.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-e595e283957ea710099e8ccee80074cb.jpg",
+      "title": "沙漠之海精选4",
+      "category": "nature",
+      "credit": "Pexels / Grbr Snts",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/footprints-in-the-sand-in-the-desert-14821006/"
+    },
+    {
+      "id": "asset-ff61021c2517cff8139581b8",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-80812994f986fc153523a593861c3640.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-2d5a0d30668ad35268601da085dea81c.jpg",
+      "title": "沙漠之海精选3",
+      "category": "nature",
+      "credit": "Pexels / Maria Charizani",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/tree-in-a-desert-under-a-clear-blue-sky-6128843/"
+    },
+    {
+      "id": "commons-142125305",
+      "title": "Red Sand",
+      "kind": "still",
+      "category": "nature",
+      "credit": "Rohit Seervi ( https://polyhaven.com/all?a=Rohit%20Seervi ) via Poly Haven · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Red_sand_diff_8k_(Rohit_Seervi_via_Poly_Haven).png",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125305-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-142125305.jpg"
+    },
+    {
+      "id": "asset-31dde0589799f2f065914b4d",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8df9633c87d22e8cd75d64149f90ab47.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-197ec454d08c8435a64e6c28c82b4ce2.jpg",
+      "title": "大漠长空",
+      "category": "nature",
+      "credit": "Pexels / Engin Akyurt",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/serene-sand-dunes-with-textured-patterns-29147670/"
+    },
+    {
+      "id": "asset-b611cb2254666aa7df739415",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f2607cdcd6e8789c5d23ba5c6df959d5.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-4ceb041441a5c9c34830863dfc20a1d8.jpg",
+      "title": "荒漠暮色",
+      "category": "nature",
+      "credit": "Pexels / Kyle Karbowski",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/brown-desert-under-the-blue-sky-9968067/"
+    },
     {
       "id": "asset-903ee7ba83992798d8e6c3bc",
       "kind": "still",
@@ -1599,17 +1731,6 @@
       "sourceURL": "https://www.pexels.com/video/time-lapse-of-a-starry-night-sky-14922976/"
     },
     {
-      "id": "asset-274884df720b2061db9d8f39",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-40642e512c041842706a0e257bb5bc91.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-9cb2ea26fe6db3f500cf83102018b012.jpg",
-      "title": "霓虹夜色",
-      "category": "architecture",
-      "credit": "Pexels / John One",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/quiet-tokyo-night-street-scene-with-people-30641513/"
-    },
-    {
       "id": "asset-be4373715ca9aab461469cf7",
       "kind": "still",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f240032a2c709d04a199c9e52e9e9f8e.jpg",
@@ -1619,17 +1740,6 @@
       "credit": "Pexels / Mathias Reding",
       "license": "Pexels License（免费商用，无需署名）",
       "sourceURL": "https://www.pexels.com/photo/lights-behind-wet-window-at-night-11285597/"
-    },
-    {
-      "id": "asset-9c2fdd267a0b78390ccee887",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b304a36c84e7457f6226f4d9e4bd3f58.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-df31eb7be62d53a457e807f3c8cc7600.jpg",
-      "title": "城市霓虹精选4",
-      "category": "architecture",
-      "credit": "Pexels / Elina Volkova",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/photo-of-a-dark-street-in-a-city-at-night-26732102/"
     },
     {
       "id": "asset-f01dcc4c40468c25dfe4a244",
@@ -1685,28 +1795,6 @@
       "credit": "Pexels / Allen Boguslavsky",
       "license": "Pexels License（免费商用，无需署名）",
       "sourceURL": "https://www.pexels.com/photo/vibrant-night-street-scene-in-hong-kong-40019067/"
-    },
-    {
-      "id": "asset-412df12029c6fee7f6ed7316",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-aa048a67f9cd1fc658b0b8f60478589d.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-e6ee21f27cfbe9abb4c4172f0bcedcbe.jpg",
-      "title": "城市光轨",
-      "category": "architecture",
-      "credit": "Pexels / Elina Volkova",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/dark-empty-alley-at-night-26732100/"
-    },
-    {
-      "id": "asset-9d374dc268d0ce9dfd18de41",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b8bde69fa447a57e5d1a9180a831871e.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-91f585e3803ece5824a036929fa428fd.jpg",
-      "title": "夜色流光",
-      "category": "architecture",
-      "credit": "Pexels / Nguyễn Hoàng Văn",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/night-city-street-19488222/"
     },
     {
       "id": "asset-5812fa0cd2c046d08927254f",
@@ -1907,61 +1995,6 @@
       "sourceURL": "https://www.pexels.com/photo/bright-modern-cityscape-with-buildings-glowing-at-night-4092992/"
     },
     {
-      "id": "asset-2619516a3533fd818985dcf9",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b046aeda86a9f21a60a10b22853a2cc9.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-24256ce78a24139a2476a8a2db5677ce.jpg",
-      "title": "霓虹掠影",
-      "category": "architecture",
-      "credit": "Pexels / RDNE Stock project",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/video-of-a-woman-dancing-8113140/"
-    },
-    {
-      "id": "asset-e0afde0d90daf652bbff9931",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0f50fc7a7fb7166c46ac07f2842c2062.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-65312eaeab25dd34f42ce1cc0022184a.jpg",
-      "title": "棕榈日落",
-      "category": "architecture",
-      "credit": "Pexels / RDNE Stock project",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/video-of-a-woman-posing-8113098/"
-    },
-    {
-      "id": "asset-c1ae2387c1a2daf145025cc0",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-fd012494f3c963aed273103a9fde6b8e.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-12232f1d6d82c720cf7d2810fb21de9a.jpg",
-      "title": "夜色疾驰",
-      "category": "architecture",
-      "credit": "Pexels / RDNE Stock project",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/woman-posing-in-front-of-neon-lights-8111738/"
-    },
-    {
-      "id": "asset-8e968f7175652112eaf1fce0",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d07371f4ca09fe6086a79e802368ffd6.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-432a77bc8bf8a9c7876a15a0faad51af.jpg",
-      "title": "霓虹海岸线",
-      "category": "architecture",
-      "credit": "Pexels / cnrdmroglu",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/drill-in-close-up-15546799/"
-    },
-    {
-      "id": "asset-32fbf2cd851c9dcb35f806f8",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-de7eb13f6e4ba49bfef404cb5c8aafd4.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b21661b0b7721cffafae61a9983dc4a6.jpg",
-      "title": "罪恶都市日落",
-      "category": "architecture",
-      "credit": "Pexels / Tibor Szabo",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/dark-image-of-a-metal-vice-13765802/"
-    },
-    {
       "id": "asset-e6ca21c5440c1ab84cbcf2f3",
       "kind": "still",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-ba54183686db8b004c00c75fcabbc3ef.jpg",
@@ -1971,17 +2004,6 @@
       "credit": "Pexels / Kebs Visuals",
       "license": "Pexels License（免费商用，无需署名）",
       "sourceURL": "https://www.pexels.com/photo/colorful-neon-lights-illuminate-the-iconic-colony-hotel-11457816/"
-    },
-    {
-      "id": "asset-58f527d87b36b0039e367ae3",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-fbba65f9f030be66b0caca21204eaa2c.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-228166e727667ed0b4f759bfe451b708.jpg",
-      "title": "莱奥尼达之夜",
-      "category": "architecture",
-      "credit": "Pexels / Kebs Visuals",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/a-person-smoking-cigarette-9360163/"
     },
     {
       "id": "asset-1b84c2ce5a71aa629a8d22dc",
@@ -2204,17 +2226,6 @@
       "sourceURL": "https://www.xiaohongshu.com/"
     },
     {
-      "id": "asset-4c8398be1c03674e51b1ead6",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-3c95772a4435433685cd7929eca67539.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-40c657b8abe5e2175c1c4f5d55018618.jpg",
-      "title": "莱奥尼达日落",
-      "category": "architecture",
-      "credit": "Pexels / paashuu",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-green-car-is-driving-down-the-street-at-night-16244876/"
-    },
-    {
       "id": "asset-c7a605838b3a364674c9b98c",
       "kind": "live",
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d1112620eb14549650c3ee9b50baf6d1.mp4",
@@ -2224,17 +2235,6 @@
       "credit": "Pexels / paashuu",
       "license": "Pexels License（免费商用，无需署名）",
       "sourceURL": "https://www.pexels.com/video/a-woman-standing-on-a-bridge-with-a-green-car-16120741/"
-    },
-    {
-      "id": "asset-be6ffc19b5ef13d3be2833f9",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d824c71ab465b9887b3b83156c9e7d3e.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-cb61f743a783648e50b73bc6fae6e18d.jpg",
-      "title": "街头追缉",
-      "category": "architecture",
-      "credit": "Pexels / paashuu",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/video/a-green-car-is-parked-in-front-of-a-city-16244870/"
     }
   ]
 }
