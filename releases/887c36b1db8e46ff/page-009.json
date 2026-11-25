@@ -1,0 +1,382 @@
+{
+  "version": 2,
+  "items": [
+    {
+      "id": "commons-92393982",
+      "title": "Glass Facade",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Shisma · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Cube_berlin.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92393982-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-92393982-hq-20261104.jpg",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "commons-62299191",
+      "title": "Modern architecture",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Mihail Ribkin mihail_ribkin · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Modern_architecture_(Unsplash).jpg",
+      "license": "CC0",
+      "tags": [
+        "city"
+      ],
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62299191-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62299191-hq-20261104.jpg",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "commons-62127338",
+      "title": "Silver Angles",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Mihail Ribkin mihail_ribkin · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Angular_modern_architecture_(Unsplash).jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62127338-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-62127338-hq-20261104.jpg",
+      "tags": [
+        "city"
+      ],
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "commons-105788958",
+      "title": "Glass Geometry",
+      "kind": "still",
+      "category": "architecture",
+      "credit": "Unknown author Unknown author · Wikimedia Commons",
+      "sourceURL": "https://commons.wikimedia.org/wiki/File:Modern_architecture_build.jpg",
+      "license": "CC0",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105788958-hq-20261104-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/commons-105788958-hq-20261104.jpg",
+      "tags": [
+        "city"
+      ],
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "asset-3791659b44fe3cac67aac30b",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-dfeff323fc8471236a98915600b5008f.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f1f87fc68873ac5e5baaff9145d93485.jpg",
+      "title": "建筑精选1",
+      "category": "architecture",
+      "credit": "Pexels / Adrien Olichon",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/photo-of-a-building-3137050/",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "asset-1911482c69256723a1e823df",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-14e28ec4e08e07dc94b4ea9536ee3080.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d7ffe9b25ae4a1d6de07e8a674309f2c.jpg",
+      "title": "建筑精选3",
+      "category": "architecture",
+      "credit": "Pexels / Dinul hidayat",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/white-concrete-building-4842199/",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "asset-ee76079a3fc87c1c5178c27d",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-733bb4ccdb9c2b6c59395e5dadbb354a.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-de0097d8bc4fa59b2704292e85ff4ef4.jpg",
+      "title": "建筑动态1",
+      "category": "architecture",
+      "credit": "Pexels / Kenan Turguç",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/interior-of-ancient-building-12966266/",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "asset-70ab62574f09f17479e48df2",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-1047641eac87202f5de0cc0a369068aa.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8553071f2cacebab17fd6c4f17770c47.jpg",
+      "title": "建筑精选2",
+      "category": "architecture",
+      "credit": "Pexels / Sarah  Rücker",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/modern-architectural-facade-in-black-and-white-31024672/",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "asset-525752c98c10f8b9d7f1fa46",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-a0f03f574f527178017c03f67d5cb4a6.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-2a352b68700229448362ab00a0c726a8.jpg",
+      "title": "建筑精选4",
+      "category": "architecture",
+      "credit": "Pexels / Kristupas Kemeža",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/modern-architectural-design-in-vilnius-lithuania-37345348/",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "amber-windows",
+      "title": "Amber Windows",
+      "kind": "still",
+      "category": "architecture",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/amber-windows-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/amber-windows.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "tags": [
+        "city",
+        "night"
+      ],
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "shadow-arc",
+      "title": "Shadow Arc",
+      "kind": "still",
+      "category": "architecture",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/shadow-arc-thumb.jpg",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/shadow-arc.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "quiet-facade",
+      "title": "Quiet Facade",
+      "kind": "still",
+      "category": "architecture",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/quiet-facade.png",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/quiet-facade.png",
+      "credit": "Video To Live · AI-created artwork",
+      "sourceURL": "https://ccong.xyz/video-to-live/",
+      "license": "Included wallpaper",
+      "tags": [
+        "city"
+      ],
+      "studioFolder": "architecture"
+    },
+    {
+      "id": "asset-990be4a3d0221101f5b592c0",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-2efd3c95b8344047747a5a381a9664ba.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b870a1cabd3e9d114d7fadf642518b97.jpg",
+      "title": "摇尾巴",
+      "category": "nature",
+      "credit": "Pexels / Sam Lion",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/close-up-video-of-a-cat-6000226/",
+      "studioFolder": "5f5a1f430317"
+    },
+    {
+      "id": "asset-792aacdb5667c37fcac3037f",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-29d05e795ef6591d25a5391dce7eaa45.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c46246d8a73400b3c117cf2e36d7dc86.jpg",
+      "title": "小奶猫",
+      "category": "nature",
+      "credit": "Pexels / Peggy Anke",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/a-white-and-orange-cat-laying-on-top-of-a-bed-8719250/",
+      "studioFolder": "5f5a1f430317"
+    },
+    {
+      "id": "asset-70a8fde4a89b5b8aee69e85e",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d382e03e561442e4e9ca88c43f7b29a2.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-1a1680e316d4732717998ea7566cf7b8.jpg",
+      "title": "猫咪日常",
+      "category": "nature",
+      "credit": "Pexels / Thirdman",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/person-brushing-a-cat-8944053/",
+      "studioFolder": "5f5a1f430317"
+    },
+    {
+      "id": "asset-b5c0aab101bddbab85b93d8a",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-00f6bcee7aecce9ebc7eba314601b921.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bed0271c621da00b6af7afc3453ac53e.jpg",
+      "title": "橘猫午后",
+      "category": "nature",
+      "credit": "Pexels / Bar zy",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/ginger-cat-lying-outdoors-on-pavement-29020872/",
+      "studioFolder": "5f5a1f430317"
+    },
+    {
+      "id": "asset-2d41de9dc710395d02f84129",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-36b805a74e64647f63b5bee279b549a2.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-5fde3356d9c5a477c3762705ac127878.jpg",
+      "title": "毛茸茸的眼",
+      "category": "nature",
+      "credit": "Pexels / Sefa Demirtaş",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/adorable-black-and-white-cat-sitting-indoors-32557420/",
+      "studioFolder": "5f5a1f430317"
+    },
+    {
+      "id": "asset-911e8a8dd1ac534fb7890803",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bf0b0f7fd1c38cf59446663468ee3960.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-78ccf4784d20e82ba9aa804689a8729b.jpg",
+      "title": "小狗日记",
+      "category": "nature",
+      "credit": "Pexels / Osman Minaz",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/close-up-of-a-curious-tabby-kitten-outdoors-35327568/",
+      "studioFolder": "5f5a1f430317"
+    },
+    {
+      "id": "asset-4240ae0570e151b9fe9b7198",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-41972c5d2800a95fff8fea778f6ed039.png",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0f729b6c20625ece3809be9f9fcb5888.jpg",
+      "title": "奶猫时光",
+      "category": "nature",
+      "credit": "Pexels / Ramses  Ramirez",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/adorable-sleeping-tabby-kitten-on-sofa-37881724/",
+      "studioFolder": "5f5a1f430317"
+    },
+    {
+      "id": "asset-491ed1e9efdf474aa3d195ca",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-606dbe0037d73b7c525470e7dcafd5ae.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-4c353fdaa580917738f0e035ba83cf38.jpg",
+      "title": "窗边的猫",
+      "category": "nature",
+      "credit": "Pexels / Gizem Gökce",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/adorable-white-kitten-with-blue-eyes-gazing-up-37963517/",
+      "studioFolder": "5f5a1f430317"
+    },
+    {
+      "id": "asset-959e8dd9ca73625b960abd33",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-834f59e68c1f185b094ebc9ad2bd8233.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-44bec53658831a1bca3d4987815dec28.jpg",
+      "title": "慵懒猫咪",
+      "category": "nature",
+      "credit": "Pexels / Helena Jankovičová Kováčová",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/portrait-of-a-playful-tuxedo-cat-outdoors-39616607/",
+      "studioFolder": "5f5a1f430317"
+    },
+    {
+      "id": "asset-0a56fd697914443b84f418f7",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-52877844eeace58cebb79eb47574b05a.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-80fbfadf64430056491f7b4c316613e2.jpg",
+      "title": "可爱暴击",
+      "category": "nature",
+      "credit": "Pexels / Ebahir",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/ginger-cat-sitting-beside-car-tire-outdoors-40283681/",
+      "studioFolder": "5f5a1f430317"
+    },
+    {
+      "id": "asset-f94c1e33a0912d6fced90acd",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-092fb741845da9121621f96ce31af398.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-aac8174ee338d5f744c9ac9769e1ee06.jpg",
+      "title": "狗狗的笑",
+      "category": "nature",
+      "credit": "Pexels / Daniil Kondrashin",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/photo/close-up-portrait-of-a-curious-domestic-cat-40726788/",
+      "studioFolder": "5f5a1f430317"
+    },
+    {
+      "id": "asset-311d87d9451b98b010a5d8d2",
+      "kind": "still",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bb4a2fbdf025bc189e688e780d5b200e.jpg",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-091ac23dc848c810bb079a9601f4c842.jpg",
+      "title": "Window Cat",
+      "category": "nature",
+      "credit": "原创 AI 生成内容（WorkBuddy 生成，本项目自有）",
+      "license": "原创生成内容；项目所有者确认可用于 App 分发",
+      "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
+      "studioFolder": "5f5a1f430317"
+    },
+    {
+      "id": "asset-c10ca6bacbbc0a9d49f973bf",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-1832b5df389c32fad0033f38930fd756.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-ff0d38b83a4e5a57c314ffa278f249ad.jpg",
+      "title": "窗边雨声",
+      "category": "nature",
+      "credit": "Pexels / Pavel Danilyuk",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/wet-window-glass-4536567/",
+      "studioFolder": "d421f61b2624"
+    },
+    {
+      "id": "asset-ab887ca7b0c4b420754baac3",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6ea1682cda5c09d6209d6a802a91da33.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-60b3843c9cd495804d82c32835ad7f03.jpg",
+      "title": "雨窗静听",
+      "category": "nature",
+      "credit": "Pexels / Binil  Babu",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/close-up-of-raindrops-on-glass-12742709/",
+      "studioFolder": "d421f61b2624"
+    },
+    {
+      "id": "asset-d471296bb8097843a5b31072",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-e81e5a884d670ef1e3cfdd7282d2290a.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b5f331c0b819b223b696535143a62449.jpg",
+      "title": "雨落玻璃",
+      "category": "nature",
+      "credit": "Pexels / Vung Nguyen",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/raindrops-on-the-window-of-a-moving-car-17713400/",
+      "studioFolder": "d421f61b2624"
+    },
+    {
+      "id": "asset-4a7acca0bd60e69fe9792a7c",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-1ef497fbd4248e4195039156d095120a.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-3e908b4a7d4e77989c758f534c2cde4e.jpg",
+      "title": "篝火余烬",
+      "category": "nature",
+      "credit": "Free Nature Stock / CC0",
+      "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
+      "sourceURL": "https://freenaturestock.com/video/campfire-embers/",
+      "studioFolder": "d421f61b2624"
+    },
+    {
+      "id": "asset-0fed68489893adee6cffdcd4",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8559fdddf75bff0768b9a651c31bda09.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-233f7b45528bc9e3764ec33f3a78887b.jpg",
+      "title": "赤色落日",
+      "category": "nature",
+      "credit": "Free Nature Stock / CC0",
+      "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
+      "sourceURL": "https://freenaturestock.com/video/red-sunset/",
+      "studioFolder": "d421f61b2624"
+    },
+    {
+      "id": "asset-aab53764f1ec7b2562d5f449",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-aed84ebbfc67928a4a61e9cd40ae271b.mov",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6ae67a2648a45a2bd303272bf340d616.jpg",
+      "pairedPhoto": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f2a1875126a2ff439e6fa2b57fd0299b.heic",
+      "title": "晶莹花朵",
+      "category": "nature",
+      "credit": "MyScreen（获取平台）",
+      "license": "通过 MyScreen 免费下载；原作者和再分发许可尚未核实",
+      "sourceURL": "https://binarywolf.io/",
+      "studioFolder": "d421f61b2624"
+    }
+  ]
+}

@@ -1,40 +1,7 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T07:41:34Z",
+  "updatedAt": "2026-11-25T09:10:14Z",
   "items": [
-    {
-      "id": "asset-b91b409822285d4799147239",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-911d8e25abc854ace07c91e56d9c7131.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-1018e73c513235bfa97cd9ad6785b5d0.jpg",
-      "title": "金色水波",
-      "category": "ocean",
-      "credit": "Free Nature Stock / CC0",
-      "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
-      "sourceURL": "https://freenaturestock.com/video/golden-water-ripples-at-sunset/"
-    },
-    {
-      "id": "asset-cb4562b69a3eb817f6c38672",
-      "kind": "live",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b630a1b7af8534d72047ce5f1c8455c5.mp4",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-2a178293b9d94cf4fd9df2ca32785c7b.jpg",
-      "title": "礁石海岸",
-      "category": "ocean",
-      "credit": "Free Nature Stock / CC0",
-      "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
-      "sourceURL": "https://freenaturestock.com/video/rocky-river-shoreline/"
-    },
-    {
-      "id": "asset-fee45f23eb7be24db8ea9481",
-      "kind": "still",
-      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-98123b9c768985565c3ddeae1c1be68c.jpg",
-      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c142808d863c8e7473cdbe930cbd07fb.jpg",
-      "title": "沙海纹理",
-      "category": "nature",
-      "credit": "Pexels / Maita  Cayson",
-      "license": "Pexels License（免费商用，无需署名）",
-      "sourceURL": "https://www.pexels.com/photo/sunlit-sand-dunes-in-a-serene-desert-landscape-28911994/"
-    },
     {
       "id": "asset-7dbe31388dc152e100b65513",
       "kind": "still",
@@ -2235,6 +2202,39 @@
       "credit": "Pexels / paashuu",
       "license": "Pexels License（免费商用，无需署名）",
       "sourceURL": "https://www.pexels.com/video/a-woman-standing-on-a-bridge-with-a-green-car-16120741/"
+    },
+    {
+      "id": "asset-dc2b63b56cdf5766807262dd",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d61460e040fc708d624ba17b075312a6.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-7b197eb0fafe9798dd8d0d6f02a2b3be.jpg",
+      "title": "迈阿密天际线暮色",
+      "category": "architecture",
+      "credit": "Pexels / Paula",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/downtown-miami-skyline-at-sunset-29086963/"
+    },
+    {
+      "id": "asset-89d00343ad5d81047b0d1c1e",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-d3f57a60628ed8e7303c3695f9a38dcf.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c23dc516c23f1a47f5427233c240d58d.jpg",
+      "title": "霓虹酒牌夜色",
+      "category": "architecture",
+      "credit": "Pexels / Tima Miroshnichenko",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/neon-liquor-sign-in-chicago-at-night-30979236/"
+    },
+    {
+      "id": "asset-2e170bb0f005c39b8c28334d",
+      "kind": "live",
+      "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-51d2617186278237e4a271c47a7535cd.mp4",
+      "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-115fd7daa622840902f303ed981b3a23.jpg",
+      "title": "霓虹赛博夜楼",
+      "category": "architecture",
+      "credit": "Pexels / 3d-art-project",
+      "license": "Pexels License（免费商用，无需署名）",
+      "sourceURL": "https://www.pexels.com/video/neon-lit-building-in-cyberpunk-style-at-night-34672414/"
     }
   ]
 }
