@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T04:13:53Z",
+  "updatedAt": "2026-11-27T04:24:34Z",
   "items": [
     {
       "id": "asset-903ee7ba83992798d8e6c3bc",
@@ -156,7 +156,7 @@
       "credit": "Pexels / Nrlh Semiz",
       "license": "Pexels License（免费商用，无需署名）",
       "sourceURL": "https://www.pexels.com/photo/vibrant-blue-ocean-waves-captured-from-above-40059176/",
-      "premium": true
+      "premium": false
     },
     {
       "id": "asset-58fb727297340d06689bebf6",
@@ -564,7 +564,7 @@
       "credit": "Free Nature Stock / CC0",
       "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
       "sourceURL": "https://freenaturestock.com/video/icy-river-rocks/",
-      "premium": true
+      "premium": false
     },
     {
       "id": "asset-06b63b77f19cde5b53632eaa",
@@ -1666,7 +1666,7 @@
       "credit": "Free Nature Stock / CC0",
       "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
       "sourceURL": "https://freenaturestock.com/video/flying-through-the-stars/",
-      "premium": true
+      "premium": false
     },
     {
       "id": "asset-ef7cc1b43080bd14d6d4e8c5",
@@ -1678,7 +1678,7 @@
       "credit": "Free Nature Stock / CC0",
       "license": "CC0 1.0 公共领域贡献（Free Nature Stock 官方声明 CC0，允许再分发含商用）",
       "sourceURL": "https://freenaturestock.com/video/northern-night-sky-before-dawn/",
-      "premium": true
+      "premium": false
     },
     {
       "id": "asset-ddf3a3181cc099af6238369c",
@@ -2110,7 +2110,7 @@
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-471ce2d0115c56610bb94f66",
@@ -2122,7 +2122,7 @@
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-276e5d4b2febda4e739eb2b5",
@@ -2134,7 +2134,7 @@
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-9d67d2039823bcd5b90d7dc5",
@@ -2146,7 +2146,7 @@
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-5d77f80955d475651ba57552",
@@ -2158,7 +2158,7 @@
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-1c124430b8df6c12cdc52b8b",
@@ -2170,7 +2170,7 @@
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-46122c9bb8615f1dc0853416",
@@ -2182,7 +2182,7 @@
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-3b79a8375278929402c93d25",
@@ -2194,7 +2194,7 @@
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-a3483b0c525c9ec8d330ccb1",
@@ -2202,11 +2202,11 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-e21cc95b8893a8410fc7c4ce32607239.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f9ad5a9511a56441e6d0a2074e38272c.jpg",
       "title": "IMG_2408",
-      "category": "ocean",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-79cea4de12644d877eae0a3f",
@@ -2218,7 +2218,7 @@
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-9ea25127d59af76d65ec5151",
@@ -2230,7 +2230,7 @@
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-e1f020350da3b61a2ab966fe",
@@ -2242,7 +2242,7 @@
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-8f92bef519dd4d446b1a192e",
@@ -2250,11 +2250,11 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-6f8515c5b88ea37d0affdabdfe6f42d1.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bbd255a946cfcb95b4685ddde13f7051.jpg",
       "title": "IMG_2427",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-a0afde6f3e3a2b48d0e87629",
@@ -2262,11 +2262,11 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-2684b7d07409862894e91941dd2bb65a.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-900ca94ba21a47db5ca1d0e7aebf2224.jpg",
       "title": "IMG_2419",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-61c4fd366c0de43d9d7f6067",
@@ -2274,11 +2274,11 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-5187c7df9a68be98244242dbefa461bb.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-9e4cf80dbf00e93adccd483a6593aba4.jpg",
       "title": "IMG_2415",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-8ecaf06e471c7fdf0c9b67fe",
@@ -2286,11 +2286,11 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-8b9266b43cbc7e0284f1ae36a03fa9fe.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c36e6766e07aed9dfc6d3cecd624f900.jpg",
       "title": "IMG_2411",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-16d66091018793284c185c14",
@@ -2298,11 +2298,11 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-b9a84354cb878883a1b04c1d47f25db3.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c50c3a2d9edce87bb7f1967ca4bff753.jpg",
       "title": "IMG_2406",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-931b1eaca180cda5ab492ec2",
@@ -2310,7 +2310,7 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-45b8e516f6b6dfde9f47ec239bc18656.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-e05c55bbf6c93221a2ee5dceb9e94b96.jpg",
       "title": "IMG_2430",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
@@ -2322,7 +2322,7 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-cbb4ab0bd2ea14eb2c8f5cd1f61fa128.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-c2d111eea6645914807b2b39b2e637cd.jpg",
       "title": "IMG_2429",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
@@ -2334,7 +2334,7 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-f6d1a2954f086dc2121fb1abddc7f1b7.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-00d669c27b7db1e3a6c09a693343253e.jpg",
       "title": "IMG_2428",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
@@ -2346,7 +2346,7 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-4fbb9ed668b7a4b2910fa53d3c4dad73.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-97652455e29d7161619937d68c25f7d7.jpg",
       "title": "IMG_2423",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
@@ -2358,7 +2358,7 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-dbb13b838493da6839a6d7a3f65fea11.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-e18626a3c59cd8d661bd1066ec8bf332.jpg",
       "title": "IMG_2422",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
@@ -2370,7 +2370,7 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-31ee29f9a4c92ab82304372033f89f09.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-0b71b374bc7672ae19d36cb756d4ee5a.jpg",
       "title": "IMG_2421",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
@@ -2382,7 +2382,7 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-dc7dde1bb9bd3070a7da2497b3dc6151.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-58bf6af1ba29f656b36119948181ada6.jpg",
       "title": "IMG_2416",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
@@ -2394,7 +2394,7 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-bc92c76aaa76f067eab3a350e3487b1d.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-db0fb6546eda4673cd397068870e34b6.jpg",
       "title": "IMG_2410",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
@@ -2406,7 +2406,7 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-7e8046ddc5498c4b68e8b9d10641f320.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-70df3b9656e96497189e735508ad112e.jpg",
       "title": "IMG_2409",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
@@ -2418,7 +2418,7 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-08b33679679f43b3fed35903b94e1bee.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-1baa51f45a0d7db98110f9313d172b05.jpg",
       "title": "IMG_2404",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",
@@ -2430,7 +2430,7 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-5eb294907252a2d5950d9963b6985f48.jpg",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-3013b2dacd79b5d1adf27b3cee21bea2.jpg",
       "title": "IMG_2402",
-      "category": "abstract",
+      "category": "nature",
       "credit": "用户提供 · 美图堡",
       "license": "用户确认已获得 App 公开发布授权",
       "sourceURL": "https://github.com/cc9166/video-to-live-wallpapers",

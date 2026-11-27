@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-27T04:13:53Z",
-  "release": "bae088922bf04ae6",
+  "updatedAt": "2026-11-27T04:24:34Z",
+  "release": "20842cc44fd14000",
   "total": 538,
   "categories": [
     {
@@ -72,7 +72,7 @@
       },
       "order": 1,
       "counts": {
-        "still": 11,
+        "still": 9,
         "live": 8
       }
     },
@@ -324,7 +324,7 @@
       },
       "order": 8,
       "counts": {
-        "still": 14,
+        "still": 13,
         "live": 7
       }
     },
@@ -396,7 +396,7 @@
       },
       "order": 10,
       "counts": {
-        "still": 11,
+        "still": 10,
         "live": 3
       }
     },
@@ -443,7 +443,7 @@
       "legacy": "ocean",
       "order": 12,
       "counts": {
-        "still": 17,
+        "still": 16,
         "live": 4
       },
       "names": {
@@ -551,7 +551,7 @@
       "legacy": "nature",
       "order": 15,
       "counts": {
-        "still": 18,
+        "still": 17,
         "live": 25
       },
       "names": {
@@ -684,8 +684,44 @@
       },
       "order": 18,
       "counts": {
-        "still": 10,
+        "still": 9,
         "live": 3
+      }
+    },
+    {
+      "id": "88c51cba0a63",
+      "name": "美图堡精选",
+      "names": {
+        "en": "Meitubao Picks",
+        "ar": "Meitubao Picks",
+        "de": "Meitubao Picks",
+        "es": "Meitubao Picks",
+        "fr": "Meitubao Picks",
+        "he": "Meitubao Picks",
+        "hi": "Meitubao Picks",
+        "id": "Meitubao Picks",
+        "it": "Meitubao Picks",
+        "ja": "美図堡セレクト",
+        "ko": "메이투바오 컬렉션",
+        "ms": "Meitubao Picks",
+        "nl": "Meitubao Picks",
+        "pl": "Meitubao Picks",
+        "pt-BR": "Meitubao Picks",
+        "pt-PT": "Meitubao Picks",
+        "ru": "Meitubao Picks",
+        "sv": "Meitubao Picks",
+        "th": "Meitubao Picks",
+        "tr": "Meitubao Picks",
+        "uk": "Meitubao Picks",
+        "vi": "Meitubao Picks",
+        "zh-Hant": "美圖堡精選"
+      },
+      "parent": "",
+      "legacy": "nature",
+      "order": 19,
+      "counts": {
+        "still": 29,
+        "live": 0
       }
     },
     {
@@ -693,9 +729,9 @@
       "name": "治愈日常",
       "parent": "",
       "legacy": "nature",
-      "order": 19,
+      "order": 20,
       "counts": {
-        "still": 185,
+        "still": 179,
         "live": 6
       },
       "names": {
@@ -754,100 +790,20 @@
         "uk": "Космос",
         "vi": "Vũ trụ"
       },
-      "order": 20,
+      "order": 21,
       "counts": {
         "still": 0,
         "live": 11
-      }
-    },
-    {
-      "id": "a5719a7a91ef",
-      "name": "梦幻插画",
-      "names": {
-        "en": "Dreamy Illustrations",
-        "zh-Hant": "夢幻插畫",
-        "ja": "夢のようなイラスト",
-        "de": "Verträumte Illustrationen",
-        "fr": "Illustrations oniriques",
-        "es": "Ilustraciones de ensueño",
-        "ko": "몽환적인 일러스트레이션",
-        "ar": "رسومات خيالية",
-        "he": "איורים חלומיים",
-        "hi": "खयाली दुनिया के चित्रण",
-        "id": "Ilustrasi Impian",
-        "it": "Illustrazioni da sogno",
-        "ms": "Ilustrasi Impian",
-        "nl": "Dromerige illustraties",
-        "pl": "Senne ilustracje",
-        "pt-BR": "Ilustrações oníricas",
-        "pt-PT": "Ilustrações de sonho",
-        "ru": "Сказочные иллюстрации",
-        "sv": "Drömlika illustrationer",
-        "th": "ภาพประกอบแสนโรแมนติก",
-        "tr": "Rüya Gibi İllüstrasyonlar",
-        "uk": "Мрійливі ілюстрації",
-        "vi": "Những bức tranh minh họa mơ mộng"
-      },
-      "parent": "",
-      "legacy": "abstract",
-      "order": 21,
-      "counts": {
-        "still": 11,
-        "live": 0
-      }
-    },
-    {
-      "id": "f2dbe4e3fde5",
-      "name": "角色壁纸",
-      "names": {
-        "en": "Character Art",
-        "zh-Hant": "角色藝術",
-        "ja": "キャラクターアート",
-        "de": "Figurenkunst",
-        "fr": "Dessins de personnages",
-        "es": "Arte de personajes",
-        "ko": "캐릭터 아트",
-        "ar": "فن الشخصيات",
-        "he": "אמנות דמויות",
-        "hi": "कैरेक्टर आर्ट",
-        "id": "Seni Karakter",
-        "it": "Arte dei personaggi",
-        "ms": "Seni Watak",
-        "nl": "Figuurkunst",
-        "pl": "Sztuka postaci",
-        "pt-BR": "Arte de personagens",
-        "pt-PT": "Arte de personagens",
-        "ru": "Изображения персонажей",
-        "sv": "Figurkonst",
-        "th": "ศิลปะตัวละคร",
-        "tr": "Karakter Sanatı",
-        "uk": "Зображення персонажів",
-        "vi": "Nghệ thuật nhân vật"
-      },
-      "parent": "",
-      "legacy": "abstract",
-      "order": 22,
-      "counts": {
-        "still": 5,
-        "live": 0
       }
     }
   ],
   "pages": [
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/bae088922bf04ae6/page-001.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/20842cc44fd14000/page-001.json",
       "count": 40,
       "folders": [
-        "5f5a1f430317",
-        "62ed5f5ace8f",
-        "a5719a7a91ef",
-        "ac34e157432d",
-        "cf21b65f2f16",
-        "d421f61b2624",
-        "f155a6a5a1e1",
-        "f2dbe4e3fde5",
-        "nature",
-        "ocean"
+        "88c51cba0a63",
+        "cf21b65f2f16"
       ],
       "kinds": [
         "live",
@@ -855,59 +811,19 @@
       ],
       "groups": [
         {
-          "folder": "5f5a1f430317",
+          "folder": "88c51cba0a63",
           "kind": "still",
-          "count": 1
-        },
-        {
-          "folder": "62ed5f5ace8f",
-          "kind": "still",
-          "count": 2
-        },
-        {
-          "folder": "a5719a7a91ef",
-          "kind": "still",
-          "count": 11
-        },
-        {
-          "folder": "ac34e157432d",
-          "kind": "still",
-          "count": 1
+          "count": 29
         },
         {
           "folder": "cf21b65f2f16",
           "kind": "live",
           "count": 11
-        },
-        {
-          "folder": "d421f61b2624",
-          "kind": "still",
-          "count": 6
-        },
-        {
-          "folder": "f155a6a5a1e1",
-          "kind": "still",
-          "count": 1
-        },
-        {
-          "folder": "f2dbe4e3fde5",
-          "kind": "still",
-          "count": 5
-        },
-        {
-          "folder": "nature",
-          "kind": "still",
-          "count": 1
-        },
-        {
-          "folder": "ocean",
-          "kind": "still",
-          "count": 1
         }
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/bae088922bf04ae6/page-002.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/20842cc44fd14000/page-002.json",
       "count": 40,
       "folders": [
         "62ed5f5ace8f",
@@ -942,7 +858,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/bae088922bf04ae6/page-003.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/20842cc44fd14000/page-003.json",
       "count": 40,
       "folders": [
         "6096c04c2bfd",
@@ -993,7 +909,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/bae088922bf04ae6/page-004.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/20842cc44fd14000/page-004.json",
       "count": 40,
       "folders": [
         "46393309b7a6",
@@ -1049,7 +965,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/bae088922bf04ae6/page-005.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/20842cc44fd14000/page-005.json",
       "count": 40,
       "folders": [
         "698a9e9089cd",
@@ -1100,7 +1016,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/bae088922bf04ae6/page-006.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/20842cc44fd14000/page-006.json",
       "count": 40,
       "folders": [
         "a2860fd76eea",
@@ -1140,7 +1056,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/bae088922bf04ae6/page-007.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/20842cc44fd14000/page-007.json",
       "count": 40,
       "folders": [
         "a2860fd76eea",
@@ -1175,7 +1091,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/bae088922bf04ae6/page-008.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/20842cc44fd14000/page-008.json",
       "count": 40,
       "folders": [
         "348b2fd372e5",
@@ -1209,7 +1125,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/bae088922bf04ae6/page-009.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/20842cc44fd14000/page-009.json",
       "count": 40,
       "folders": [
         "348b2fd372e5",
@@ -1265,7 +1181,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/bae088922bf04ae6/page-010.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/20842cc44fd14000/page-010.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -1282,7 +1198,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/bae088922bf04ae6/page-011.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/20842cc44fd14000/page-011.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -1299,7 +1215,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/bae088922bf04ae6/page-012.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/20842cc44fd14000/page-012.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -1316,7 +1232,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/bae088922bf04ae6/page-013.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/20842cc44fd14000/page-013.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -1333,7 +1249,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/bae088922bf04ae6/page-014.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/20842cc44fd14000/page-014.json",
       "count": 18,
       "folders": [
         "d421f61b2624"

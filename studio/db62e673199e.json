@@ -624,6 +624,37 @@
         }
       },
       {
+        "id": "88c51cba0a63",
+        "name": "美图堡精选",
+        "names": {
+          "en": "Meitubao Picks",
+          "ar": "Meitubao Picks",
+          "de": "Meitubao Picks",
+          "es": "Meitubao Picks",
+          "fr": "Meitubao Picks",
+          "he": "Meitubao Picks",
+          "hi": "Meitubao Picks",
+          "id": "Meitubao Picks",
+          "it": "Meitubao Picks",
+          "ja": "美図堡セレクト",
+          "ko": "메이투바오 컬렉션",
+          "ms": "Meitubao Picks",
+          "nl": "Meitubao Picks",
+          "pl": "Meitubao Picks",
+          "pt-BR": "Meitubao Picks",
+          "pt-PT": "Meitubao Picks",
+          "ru": "Meitubao Picks",
+          "sv": "Meitubao Picks",
+          "th": "Meitubao Picks",
+          "tr": "Meitubao Picks",
+          "uk": "Meitubao Picks",
+          "vi": "Meitubao Picks",
+          "zh-Hant": "美圖堡精選"
+        },
+        "parent": "",
+        "legacy": "nature"
+      },
+      {
         "id": "d421f61b2624",
         "name": "治愈日常",
         "parent": "",
@@ -689,68 +720,6 @@
           "uk": "Космос",
           "vi": "Vũ trụ"
         }
-      },
-      {
-        "id": "a5719a7a91ef",
-        "name": "梦幻插画",
-        "names": {
-          "en": "Dreamy Illustrations",
-          "zh-Hant": "夢幻插畫",
-          "ja": "夢のようなイラスト",
-          "de": "Verträumte Illustrationen",
-          "fr": "Illustrations oniriques",
-          "es": "Ilustraciones de ensueño",
-          "ko": "몽환적인 일러스트레이션",
-          "ar": "رسومات خيالية",
-          "he": "איורים חלומיים",
-          "hi": "खयाली दुनिया के चित्रण",
-          "id": "Ilustrasi Impian",
-          "it": "Illustrazioni da sogno",
-          "ms": "Ilustrasi Impian",
-          "nl": "Dromerige illustraties",
-          "pl": "Senne ilustracje",
-          "pt-BR": "Ilustrações oníricas",
-          "pt-PT": "Ilustrações de sonho",
-          "ru": "Сказочные иллюстрации",
-          "sv": "Drömlika illustrationer",
-          "th": "ภาพประกอบแสนโรแมนติก",
-          "tr": "Rüya Gibi İllüstrasyonlar",
-          "uk": "Мрійливі ілюстрації",
-          "vi": "Những bức tranh minh họa mơ mộng"
-        },
-        "parent": "",
-        "legacy": "abstract"
-      },
-      {
-        "id": "f2dbe4e3fde5",
-        "name": "角色壁纸",
-        "names": {
-          "en": "Character Art",
-          "zh-Hant": "角色藝術",
-          "ja": "キャラクターアート",
-          "de": "Figurenkunst",
-          "fr": "Dessins de personnages",
-          "es": "Arte de personajes",
-          "ko": "캐릭터 아트",
-          "ar": "فن الشخصيات",
-          "he": "אמנות דמויות",
-          "hi": "कैरेक्टर आर्ट",
-          "id": "Seni Karakter",
-          "it": "Arte dei personaggi",
-          "ms": "Seni Watak",
-          "nl": "Figuurkunst",
-          "pl": "Sztuka postaci",
-          "pt-BR": "Arte de personagens",
-          "pt-PT": "Arte de personagens",
-          "ru": "Изображения персонажей",
-          "sv": "Figurkonst",
-          "th": "ศิลปะตัวละคร",
-          "tr": "Karakter Sanatı",
-          "uk": "Зображення персонажів",
-          "vi": "Nghệ thuật nhân vật"
-        },
-        "parent": "",
-        "legacy": "abstract"
       }
     ],
     "mode": "legacy"
@@ -758,147 +727,147 @@
   "entries": [
     {
       "id": "2b3c51a1d1d54f45",
-      "folder": "a5719a7a91ef",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-a660ab278e4cfbdd925ef7df"
     },
     {
       "id": "9839dc81ae784a76",
-      "folder": "a5719a7a91ef",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-43117dce51346b5b4718ded7"
     },
     {
       "id": "de2b869799954c80",
-      "folder": "a5719a7a91ef",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-39ecf9e49303f9fa3353de6d"
     },
     {
       "id": "2572993ed7a14954",
-      "folder": "a5719a7a91ef",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-e1b1c358e5e700f9e06e714d"
     },
     {
       "id": "6ac49f09c1c24b30",
-      "folder": "a5719a7a91ef",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-9a47cd98094ff397ce3fb8ac"
     },
     {
       "id": "32d732c0a9904aaa",
-      "folder": "a5719a7a91ef",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-3ea772ad6154976b3d3aea4b"
     },
     {
       "id": "e949acdce6844fca",
-      "folder": "a5719a7a91ef",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-78d1383c7499846855e8e491"
     },
     {
       "id": "a5b23dc9a86948af",
-      "folder": "a5719a7a91ef",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-38e843f26a6b12f6b16aa41f"
     },
     {
       "id": "dbb9e54f73e34b62",
-      "folder": "a5719a7a91ef",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-9867f284579184075a555d88"
     },
     {
       "id": "3110a1ebd96a445e",
-      "folder": "a5719a7a91ef",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-2ba45813352bbd7bd34bae38"
     },
     {
       "id": "c595b2b1ed684d54",
-      "folder": "a5719a7a91ef",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-931b1eaca180cda5ab492ec2"
     },
     {
       "id": "6bd71cb1af1944be",
-      "folder": "f2dbe4e3fde5",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-16d66091018793284c185c14"
     },
     {
       "id": "628b23398ecf47cf",
-      "folder": "f2dbe4e3fde5",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-8ecaf06e471c7fdf0c9b67fe"
     },
     {
       "id": "8a5fcf7577ec4ab2",
-      "folder": "f2dbe4e3fde5",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-61c4fd366c0de43d9d7f6067"
     },
     {
       "id": "69124a4825114349",
-      "folder": "f2dbe4e3fde5",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-a0afde6f3e3a2b48d0e87629"
     },
     {
       "id": "b86ac743f4ff401a",
-      "folder": "f2dbe4e3fde5",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-8f92bef519dd4d446b1a192e"
     },
     {
       "id": "31e60ec3b6fa497a",
-      "folder": "f155a6a5a1e1",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-e1f020350da3b61a2ab966fe"
     },
     {
       "id": "898623cfd6c34c1d",
-      "folder": "62ed5f5ace8f",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-9ea25127d59af76d65ec5151"
     },
     {
       "id": "38224c3478924133",
-      "folder": "62ed5f5ace8f",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-79cea4de12644d877eae0a3f"
     },
     {
       "id": "e4425aef284f4c64",
-      "folder": "ocean",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-a3483b0c525c9ec8d330ccb1"
     },
     {
       "id": "aa69d6269e2945fd",
-      "folder": "5f5a1f430317",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-3b79a8375278929402c93d25"
     },
     {
       "id": "77534ac3df5948a0",
-      "folder": "nature",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-46122c9bb8615f1dc0853416"
     },
     {
       "id": "d6492073ad954456",
-      "folder": "ac34e157432d",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-1c124430b8df6c12cdc52b8b"
     },
     {
       "id": "c67bdd7b7c494980",
-      "folder": "d421f61b2624",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-5d77f80955d475651ba57552"
     },
     {
       "id": "4c9eb0932b424a34",
-      "folder": "d421f61b2624",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-9d67d2039823bcd5b90d7dc5"
     },
     {
       "id": "83357797cc494430",
-      "folder": "d421f61b2624",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-276e5d4b2febda4e739eb2b5"
     },
     {
       "id": "04924422789b4068",
-      "folder": "d421f61b2624",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-471ce2d0115c56610bb94f66"
     },
     {
       "id": "11a4f7d9d4c34c56",
-      "folder": "d421f61b2624",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-9b642d7763b62b4efa5a6dbb"
     },
     {
       "id": "32e7eeb5b2e6491b",
-      "folder": "d421f61b2624",
+      "folder": "88c51cba0a63",
       "catalogID": "asset-8b3e84643708bf47c096323c"
     },
     {
