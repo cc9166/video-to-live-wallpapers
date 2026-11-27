@@ -1,14 +1,17 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-25T19:09:55Z",
-  "release": "04f81bff05a14f10",
+  "updatedAt": "2026-11-27T02:45:44Z",
+  "release": "b8fa2b2c6d4447b8",
   "total": 330,
   "categories": [
     {
       "id": "dab746c5441a",
-      "name": "GTA 世界",
+      "name": "霓虹都市",
       "parent": "",
       "legacy": "architecture",
+      "names": {
+        "en": "Neon City"
+      },
       "order": 0,
       "counts": {
         "still": 20,
@@ -20,6 +23,9 @@
       "name": "夜空",
       "parent": "",
       "legacy": "nature",
+      "names": {
+        "en": "Night Sky"
+      },
       "order": 1,
       "counts": {
         "still": 9,
@@ -35,6 +41,9 @@
       "counts": {
         "still": 8,
         "live": 4
+      },
+      "names": {
+        "en": "Light & Abstract"
       }
     },
     {
@@ -42,6 +51,9 @@
       "name": "紫色晚霞",
       "parent": "",
       "legacy": "abstract",
+      "names": {
+        "en": "Violet Sunset"
+      },
       "order": 3,
       "counts": {
         "still": 11,
@@ -53,6 +65,9 @@
       "name": "流光渐变",
       "parent": "",
       "legacy": "abstract",
+      "names": {
+        "en": "Flowing Color"
+      },
       "order": 4,
       "counts": {
         "still": 10,
@@ -64,6 +79,9 @@
       "name": "奶白素色",
       "parent": "",
       "legacy": "minimal",
+      "names": {
+        "en": "Soft Neutrals"
+      },
       "order": 5,
       "counts": {
         "still": 10,
@@ -79,6 +97,9 @@
       "counts": {
         "still": 6,
         "live": 4
+      },
+      "names": {
+        "en": "Minimal"
       }
     },
     {
@@ -86,6 +107,9 @@
       "name": "秋日暖阳",
       "parent": "",
       "legacy": "nature",
+      "names": {
+        "en": "Autumn Glow"
+      },
       "order": 7,
       "counts": {
         "still": 8,
@@ -97,6 +121,9 @@
       "name": "冬天",
       "parent": "",
       "legacy": "nature",
+      "names": {
+        "en": "Winter"
+      },
       "order": 8,
       "counts": {
         "still": 13,
@@ -108,6 +135,9 @@
       "name": "热带记忆",
       "parent": "",
       "legacy": "nature",
+      "names": {
+        "en": "Tropical Memories"
+      },
       "order": 9,
       "counts": {
         "still": 10,
@@ -119,6 +149,9 @@
       "name": "夏天",
       "parent": "",
       "legacy": "nature",
+      "names": {
+        "en": "Summer"
+      },
       "order": 10,
       "counts": {
         "still": 10,
@@ -130,6 +163,9 @@
       "name": "沙漠之海",
       "parent": "",
       "legacy": "nature",
+      "names": {
+        "en": "Desert & Sea"
+      },
       "order": 11,
       "counts": {
         "still": 11,
@@ -145,6 +181,9 @@
       "counts": {
         "still": 16,
         "live": 4
+      },
+      "names": {
+        "en": "Ocean"
       }
     },
     {
@@ -152,6 +191,9 @@
       "name": "水之纹理",
       "parent": "",
       "legacy": "ocean",
+      "names": {
+        "en": "Water Textures"
+      },
       "order": 13,
       "counts": {
         "still": 10,
@@ -167,6 +209,9 @@
       "counts": {
         "still": 26,
         "live": 3
+      },
+      "names": {
+        "en": "Mountains"
       }
     },
     {
@@ -178,6 +223,9 @@
       "counts": {
         "still": 17,
         "live": 25
+      },
+      "names": {
+        "en": "Forest Retreat"
       }
     },
     {
@@ -185,6 +233,9 @@
       "name": "花语",
       "parent": "",
       "legacy": "nature",
+      "names": {
+        "en": "Botanical"
+      },
       "order": 16,
       "counts": {
         "still": 10,
@@ -200,6 +251,9 @@
       "counts": {
         "still": 12,
         "live": 3
+      },
+      "names": {
+        "en": "Architecture"
       }
     },
     {
@@ -207,6 +261,9 @@
       "name": "萌宠日常",
       "parent": "",
       "legacy": "nature",
+      "names": {
+        "en": "Little Companions"
+      },
       "order": 18,
       "counts": {
         "still": 9,
@@ -222,6 +279,9 @@
       "counts": {
         "still": 0,
         "live": 6
+      },
+      "names": {
+        "en": "Quiet Moments"
       }
     },
     {
@@ -229,6 +289,9 @@
       "name": "NASA 宇宙",
       "parent": "",
       "legacy": "abstract",
+      "names": {
+        "en": "Cosmos"
+      },
       "order": 20,
       "counts": {
         "still": 0,
@@ -238,7 +301,7 @@
   ],
   "pages": [
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-001.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b8fa2b2c6d4447b8/page-001.json",
       "count": 40,
       "folders": [
         "62ed5f5ace8f",
@@ -273,7 +336,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-002.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b8fa2b2c6d4447b8/page-002.json",
       "count": 40,
       "folders": [
         "6096c04c2bfd",
@@ -329,7 +392,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-003.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b8fa2b2c6d4447b8/page-003.json",
       "count": 40,
       "folders": [
         "46393309b7a6",
@@ -385,7 +448,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-004.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b8fa2b2c6d4447b8/page-004.json",
       "count": 40,
       "folders": [
         "698a9e9089cd",
@@ -430,7 +493,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-005.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b8fa2b2c6d4447b8/page-005.json",
       "count": 40,
       "folders": [
         "ac34e157432d",
@@ -475,7 +538,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-006.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b8fa2b2c6d4447b8/page-006.json",
       "count": 40,
       "folders": [
         "a2860fd76eea",
@@ -515,7 +578,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-007.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b8fa2b2c6d4447b8/page-007.json",
       "count": 40,
       "folders": [
         "mountains",
@@ -544,7 +607,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-008.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b8fa2b2c6d4447b8/page-008.json",
       "count": 40,
       "folders": [
         "348b2fd372e5",
@@ -595,7 +658,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/04f81bff05a14f10/page-009.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/b8fa2b2c6d4447b8/page-009.json",
       "count": 10,
       "folders": [
         "5f5a1f430317",

@@ -6,15 +6,21 @@
     "folders": [
       {
         "id": "dab746c5441a",
-        "name": "GTA 世界",
+        "name": "霓虹都市",
         "parent": "",
-        "legacy": "architecture"
+        "legacy": "architecture",
+        "names": {
+          "en": "Neon City"
+        }
       },
       {
         "id": "62ed5f5ace8f",
         "name": "夜空",
         "parent": "",
-        "legacy": "nature"
+        "legacy": "nature",
+        "names": {
+          "en": "Night Sky"
+        }
       },
       {
         "id": "abstract",
@@ -25,25 +31,37 @@
         "counts": {
           "still": 4,
           "live": 3
+        },
+        "names": {
+          "en": "Light & Abstract"
         }
       },
       {
         "id": "6096c04c2bfd",
         "name": "紫色晚霞",
         "parent": "",
-        "legacy": "abstract"
+        "legacy": "abstract",
+        "names": {
+          "en": "Violet Sunset"
+        }
       },
       {
         "id": "91dbdfa1fee3",
         "name": "流光渐变",
         "parent": "",
-        "legacy": "abstract"
+        "legacy": "abstract",
+        "names": {
+          "en": "Flowing Color"
+        }
       },
       {
         "id": "bb6a421baa5b",
         "name": "奶白素色",
         "parent": "",
-        "legacy": "minimal"
+        "legacy": "minimal",
+        "names": {
+          "en": "Soft Neutrals"
+        }
       },
       {
         "id": "minimal",
@@ -54,37 +72,55 @@
         "counts": {
           "still": 9,
           "live": 2
+        },
+        "names": {
+          "en": "Minimal"
         }
       },
       {
         "id": "46393309b7a6",
         "name": "秋日暖阳",
         "parent": "",
-        "legacy": "nature"
+        "legacy": "nature",
+        "names": {
+          "en": "Autumn Glow"
+        }
       },
       {
         "id": "f155a6a5a1e1",
         "name": "冬天",
         "parent": "",
-        "legacy": "nature"
+        "legacy": "nature",
+        "names": {
+          "en": "Winter"
+        }
       },
       {
         "id": "698a9e9089cd",
         "name": "热带记忆",
         "parent": "",
-        "legacy": "nature"
+        "legacy": "nature",
+        "names": {
+          "en": "Tropical Memories"
+        }
       },
       {
         "id": "ac34e157432d",
         "name": "夏天",
         "parent": "",
-        "legacy": "nature"
+        "legacy": "nature",
+        "names": {
+          "en": "Summer"
+        }
       },
       {
         "id": "ca8cae607d72",
         "name": "沙漠之海",
         "parent": "",
-        "legacy": "nature"
+        "legacy": "nature",
+        "names": {
+          "en": "Desert & Sea"
+        }
       },
       {
         "id": "ocean",
@@ -95,13 +131,19 @@
         "counts": {
           "still": 9,
           "live": 2
+        },
+        "names": {
+          "en": "Ocean"
         }
       },
       {
         "id": "a2860fd76eea",
         "name": "水之纹理",
         "parent": "",
-        "legacy": "ocean"
+        "legacy": "ocean",
+        "names": {
+          "en": "Water Textures"
+        }
       },
       {
         "id": "mountains",
@@ -112,6 +154,9 @@
         "counts": {
           "still": 20,
           "live": 0
+        },
+        "names": {
+          "en": "Mountains"
         }
       },
       {
@@ -123,13 +168,19 @@
         "counts": {
           "still": 18,
           "live": 3
+        },
+        "names": {
+          "en": "Forest Retreat"
         }
       },
       {
         "id": "348b2fd372e5",
         "name": "花语",
         "parent": "",
-        "legacy": "nature"
+        "legacy": "nature",
+        "names": {
+          "en": "Botanical"
+        }
       },
       {
         "id": "architecture",
@@ -140,13 +191,19 @@
         "counts": {
           "still": 8,
           "live": 0
+        },
+        "names": {
+          "en": "Architecture"
         }
       },
       {
         "id": "5f5a1f430317",
         "name": "萌宠日常",
         "parent": "",
-        "legacy": "nature"
+        "legacy": "nature",
+        "names": {
+          "en": "Little Companions"
+        }
       },
       {
         "id": "d421f61b2624",
@@ -157,13 +214,19 @@
         "counts": {
           "still": 180,
           "live": 0
+        },
+        "names": {
+          "en": "Quiet Moments"
         }
       },
       {
         "id": "cf21b65f2f16",
         "name": "NASA 宇宙",
         "parent": "",
-        "legacy": "abstract"
+        "legacy": "abstract",
+        "names": {
+          "en": "Cosmos"
+        }
       }
     ],
     "mode": "legacy"
