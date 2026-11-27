@@ -1273,10 +1273,8 @@
     },
     {
       "id": "14dc2d1376804c46",
-      "folder": "6096c04c2bfd",
-      "alsoFolders": [
-        "dab746c5441a"
-      ],
+      "folder": "dab746c5441a",
+      "alsoFolders": [],
       "catalogID": "asset-abdb8017ae5e74bc5156ad89"
     },
     {
@@ -2241,7 +2239,7 @@
     },
     {
       "id": "dcc7e7ef53da44e5",
-      "folder": "d421f61b2624",
+      "folder": "88c51cba0a63",
       "alsoFolders": [],
       "catalogID": "asset-560535da3d77ea13dc8ba5f0"
     },

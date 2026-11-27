@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "updatedAt": "2026-11-27T04:35:29Z",
-  "release": "8627bd237c714d31",
+  "updatedAt": "2026-11-27T10:15:36Z",
+  "release": "750531dc0d1d4f57",
   "total": 548,
   "categories": [
     {
@@ -144,7 +144,7 @@
       },
       "order": 3,
       "counts": {
-        "still": 11,
+        "still": 10,
         "live": 2
       }
     },
@@ -720,7 +720,7 @@
       "legacy": "nature",
       "order": 19,
       "counts": {
-        "still": 29,
+        "still": 30,
         "live": 0
       }
     },
@@ -731,7 +731,7 @@
       "legacy": "nature",
       "order": 20,
       "counts": {
-        "still": 180,
+        "still": 179,
         "live": 6
       },
       "names": {
@@ -799,7 +799,7 @@
   ],
   "pages": [
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/8627bd237c714d31/page-001.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/750531dc0d1d4f57/page-001.json",
       "count": 40,
       "folders": [
         "88c51cba0a63",
@@ -823,7 +823,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/8627bd237c714d31/page-002.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/750531dc0d1d4f57/page-002.json",
       "count": 40,
       "folders": [
         "62ed5f5ace8f",
@@ -858,7 +858,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/8627bd237c714d31/page-003.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/750531dc0d1d4f57/page-003.json",
       "count": 40,
       "folders": [
         "6096c04c2bfd",
@@ -880,7 +880,7 @@
         {
           "folder": "6096c04c2bfd",
           "kind": "still",
-          "count": 11
+          "count": 10
         },
         {
           "folder": "91dbdfa1fee3",
@@ -906,11 +906,16 @@
           "folder": "bb6a421baa5b",
           "kind": "still",
           "count": 4
+        },
+        {
+          "folder": "dab746c5441a",
+          "kind": "still",
+          "count": 1
         }
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/8627bd237c714d31/page-004.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/750531dc0d1d4f57/page-004.json",
       "count": 40,
       "folders": [
         "46393309b7a6",
@@ -966,7 +971,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/8627bd237c714d31/page-005.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/750531dc0d1d4f57/page-005.json",
       "count": 40,
       "folders": [
         "698a9e9089cd",
@@ -1017,7 +1022,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/8627bd237c714d31/page-006.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/750531dc0d1d4f57/page-006.json",
       "count": 40,
       "folders": [
         "a2860fd76eea",
@@ -1057,11 +1062,11 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/8627bd237c714d31/page-007.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/750531dc0d1d4f57/page-007.json",
       "count": 40,
       "folders": [
+        "88c51cba0a63",
         "a2860fd76eea",
-        "d421f61b2624",
         "mountains",
         "nature"
       ],
@@ -1071,14 +1076,14 @@
       ],
       "groups": [
         {
+          "folder": "88c51cba0a63",
+          "kind": "still",
+          "count": 1
+        },
+        {
           "folder": "a2860fd76eea",
           "kind": "still",
           "count": 3
-        },
-        {
-          "folder": "d421f61b2624",
-          "kind": "still",
-          "count": 1
         },
         {
           "folder": "mountains",
@@ -1098,7 +1103,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/8627bd237c714d31/page-008.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/750531dc0d1d4f57/page-008.json",
       "count": 40,
       "folders": [
         "348b2fd372e5",
@@ -1132,7 +1137,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/8627bd237c714d31/page-009.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/750531dc0d1d4f57/page-009.json",
       "count": 40,
       "folders": [
         "348b2fd372e5",
@@ -1183,7 +1188,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/8627bd237c714d31/page-010.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/750531dc0d1d4f57/page-010.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -1200,7 +1205,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/8627bd237c714d31/page-011.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/750531dc0d1d4f57/page-011.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -1217,7 +1222,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/8627bd237c714d31/page-012.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/750531dc0d1d4f57/page-012.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -1234,7 +1239,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/8627bd237c714d31/page-013.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/750531dc0d1d4f57/page-013.json",
       "count": 40,
       "folders": [
         "d421f61b2624"
@@ -1251,7 +1256,7 @@
       ]
     },
     {
-      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/8627bd237c714d31/page-014.json",
+      "url": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/releases/750531dc0d1d4f57/page-014.json",
       "count": 28,
       "folders": [
         "abstract",

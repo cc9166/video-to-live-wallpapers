@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27T04:35:29Z",
+  "updatedAt": "2026-11-27T10:15:36Z",
   "items": [
     {
       "id": "asset-903ee7ba83992798d8e6c3bc",
@@ -1275,7 +1275,7 @@
       "credit": "Pexels / Ömer  BÜLBÜL",
       "license": "Pexels License（免费商用，无需署名）",
       "sourceURL": "https://www.pexels.com/photo/sky-during-sunset-19145546/",
-      "premium": true
+      "premium": false
     },
     {
       "id": "asset-96aafc3082b85ebf3a086a6c",
@@ -1307,11 +1307,11 @@
       "resource": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-777f2dd497948597441558227ae8aa28.png",
       "thumbnail": "https://raw.githubusercontent.com/cc9166/video-to-live-wallpapers/main/studio-7e24b95d5c6d1686ee09be814a61bb24.jpg",
       "title": "紫粉恋影",
-      "category": "abstract",
+      "category": "architecture",
       "credit": "用户导入",
       "license": "用户确认已获得 App 公开发布授权（小红书来源）",
       "sourceURL": "https://www.xiaohongshu.com/",
-      "premium": false
+      "premium": true
     },
     {
       "id": "asset-75ec3b12a380dbb528db4031",
